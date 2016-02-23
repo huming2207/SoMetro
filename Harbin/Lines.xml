@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LineCollection>
+  <Line No="1" Name="号线" ColorHex="#2897E6" From="哈东站" To="哈南站" Warning="">
+    <Stations>
+      <Station CName="哈东站" />
+      <Station CName="桦树街" />
+      <Station CName="交通学院" />
+      <Station CName="太平桥" />
+      <Station CName="工程大学" />
+      <Station CName="烟厂" />
+      <Station CName="医大一院" />
+      <Station CName="博物馆" />
+      <Station CName="铁路局" />
+      <Station CName="哈工大" />
+      <Station CName="西大桥" />
+      <Station CName="和兴路" />
+      <Station CName="学府路" />
+      <Station CName="理工大学" />
+      <Station CName="黑龙江大学" />
+      <Station CName="医大二院" />
+      <Station CName="哈达" />
+      <Station CName="哈南站" />
+    </Stations>
+  </Line>
+</LineCollection>

@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StationCollection>
+  <Station ID="" CName="哈东站" EName="HADONGZHAN"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="true" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="桦树街" No="1" To="哈南站" Start="6:00" End="21:00" />
+    </Paths>
+    <Location Long="126.7156850000" Lat="45.7956740000" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="3">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="4">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="桦树街" EName="HUASHUJIE"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="交通学院" No="1" To="哈南站" Start="6:01" End="21:01" />
+      <Path Next="哈东站" No="1" To="哈东站" Start="6:35" End="21:35" />
+    </Paths>
+    <Location Long="126.7045305718" Lat="45.7942317759" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="3">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="4">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="交通学院" EName="JIAOTONGXUEYUAN"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="太平桥" No="1" To="哈南站" Start="6:03" End="21:03" />
+      <Path Next="桦树街" No="1" To="哈东站" Start="6:33" End="21:33" />
+    </Paths>
+    <Location Long="126.6939697341" Lat="45.7937314757" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="3">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="太平桥" EName="DAPINGQIAO"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="工程大学" No="1" To="哈南站" Start="6:05" End="21:05" />
+      <Path Next="交通学院" No="1" To="哈东站" Start="6:31" End="21:30" />
+    </Paths>
+    <Location Long="126.6838690000" Lat="45.7894370000" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="3">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="工程大学" EName="GONGCHENGDAXUE"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    、
+    <Paths>
+      <Path Next="烟厂" No="1" To="哈南站" Start="6:08" End="21:08" />
+      <Path Next="太平桥" No="1" To="哈东站" Start="6:28" End="21:27" />
+    </Paths>
+    <Location Long="126.6750780000" Lat="45.7813980000" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="3">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="烟厂" EName="YANCHANG"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="医大一院" No="1" To="哈南站" Start="6:10" End="21:10" />
+      <Path Next="工程大学" No="1" To="哈东站" Start="6:26" End="21:25" />
+    </Paths>
+    <Location Long="126.6628070797" Lat="45.7746741507" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="3">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="4">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="医大一院" EName="YIDAYIYAUN"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="博物馆" No="1" To="哈南站" Start="6:12" End="21:12" />
+      <Path Next="烟厂" No="1" To="哈东站" Start="6:24" End="21:23" />
+    </Paths>
+    <Location Long="126.6572180000" Lat="45.7698350000" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="3">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="4">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="博物馆" EName="BOWUGUAN"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="铁路局" No="1" To="哈南站" Start="6:15" End="21:14" />
+      <Path Next="医大一院" No="1" To="哈东站" Start="6:21" End="21:21" />
+    </Paths>
+    <Location Long="126.6502627454" Lat="45.7642278045" />
+    <Exits>
+      <Exit No="2b">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="3">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="铁路局" EName="TIELUJU"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="哈工大" No="1" To="哈南站" Start="6:18" End="21:17" />
+      <Path Next="博物馆" No="1" To="哈东站" Start="6:19" End="21:19" />
+    </Paths>
+    <Location Long="126.6427303178" Lat="45.7577338670" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="3">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="4">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="哈工大" EName="HAGONGDA"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="西大桥" No="1" To="哈南站" Start="6:20" End="21:19" />
+      <Path Next="铁路局" No="1" To="哈东站" Start="6:17" End="21:17" />
+    </Paths>
+    <Location Long="126.6341910000" Lat="45.7506630000" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="3">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="西大桥" EName="XIDAQIAO"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="和兴路" No="1" To="哈南站" Start="6:22" End="21:21" />
+      <Path Next="哈工大" No="1" To="哈东站" Start="6:15" End="21:15" />
+    </Paths>
+    <Location Long="126.6274820000" Lat="45.7956740000" />
+    <Exits>
+      <Exit No="1a">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="1b">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="2a">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="2b">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="3">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="4">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="和兴路" EName="HEXINGLU"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="学府路" No="1" To="哈南站" Start="6:23" End="21:23" />
+      <Path Next="西大桥" No="1" To="哈东站" Start="6:13" End="21:13" />
+    </Paths>
+    <Location Long="126.6218747246" Lat="45.7388633537" />
+    <Exits>
+      <Exit No="1a">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="1b">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="2a">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="2b">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="3">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="学府路" EName="XUEFULU"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="理工大学" No="1" To="哈南站" Start="6:25" End="21:25" />
+      <Path Next="和兴路" No="1" To="哈东站" Start="6:11" End="21:11" />
+    </Paths>
+    <Location Long="126.6161764381" Lat="45.7291502197" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="3a">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="3b">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="理工大学" EName="LIGONGDAXUE"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="黑龙江大学" No="1" To="哈南站" Start="6:27" End="21:27" />
+      <Path Next="学府路" No="1" To="哈东站" Start="6:09" End="21:09" />
+    </Paths>
+    <Location Long="126.6181040000" Lat="45.7212070000" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="3">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="4">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="黑龙江大学" EName="HEILONGJIANGDAXUE"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="医大二院" No="1" To="哈南站" Start="6:29" End="21:29" />
+      <Path Next="理工大学" No="1" To="哈东站" Start="6:07" End="21:07" />
+    </Paths>
+    <Location Long="126.6199150000" Lat="45.7133950000" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="3">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="医大二院" EName="YIDAERYUAN"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="哈达" No="1" To="哈南站" Start="6:31" End="21:31" />
+      <Path Next="黑龙江大学" No="1" To="哈东站" Start="6:05" End="21:05" />
+    </Paths>
+    <Location Long="126.6220470000" Lat="45.7034170000" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="3">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="4">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="哈达" EName="HADA"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="哈南站" No="1" To="哈南站" Start="6:34" End="21:34" />
+      <Path Next="医大二院" No="1" To="哈东站" Start="6:02" End="21:02" />
+    </Paths>
+    <Location Long="126.6251700000" Lat="45.6894140000" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="3">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="哈南站" EName="HANANZHAN"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="true" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="哈达" No="1" To="哈东站" Start="6:00" End="21:00" />
+    </Paths>
+    <Location Long="126.6280620000" Lat="45.6762420000" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="3">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+</StationCollection>
