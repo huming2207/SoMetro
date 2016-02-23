@@ -1,0 +1,45 @@
+{
+  "Cities": [
+    {
+      "Name": "南京",
+      "ID": "Nanjing",
+      "Version": "0.9",
+      "Contributor": [
+        { "ID": "为神马不能改昵称" }
+      ]
+    },
+    {
+      "Name": "长春",
+      "ID": "Changchun",
+      "Version": "0.9",
+      "Contributor": [
+        { "ID": "xiaoyuw" }
+      ]
+    },
+    {
+      "Name": "杭州",
+      "ID": "Hangzhou",
+      "Version": "0.9",
+      "Contributor": [
+        { "ID": "daryl" }
+      ]
+    },
+    {
+      "Name": "广州",
+      "ID": "Guangzhou",
+      "Version": "0.91",
+      "Contributor": [
+        { "ID": "大雄" },
+        { "ID": "peacekoo" }
+      ]
+    },
+    {
+      "Name": "沈阳",
+      "ID": "Shenyang",
+      "Version": "0.9",
+      "Contributor": [
+        { "ID": "Jeonuhaku" }
+      ]
+    }
+  ]
+}
