@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LineCollection>
+  <Line No="1" Name="号线" ColorHex="#2897E6" From="西流湖" To="市体育中心" Warning="">
+    <Stations>
+      <Station CName="西流湖" />
+      <Station CName="西三环" />
+      <Station CName="秦岭路" />
+      <Station CName="桐柏路" />
+      <Station CName="碧沙岗" />
+      <Station CName="绿城广场" />
+      <Station CName="医学院" />
+      <Station CName="郑州火车站" />
+      <Station CName="二七广场" />
+      <Station CName="人民路" />
+      <Station CName="紫荆山" />
+      <Station CName="燕庄" />
+      <Station CName="民航路" />
+      <Station CName="会展中心" />
+      <Station CName="黄河南路" />
+      <Station CName="农业南路" />
+      <Station CName="东风南路" />
+      <Station CName="郑州东站" />
+      <Station CName="博学路" />
+      <Station CName="市体育中心" />    
+    </Stations>
+  </Line>
+</LineCollection>
