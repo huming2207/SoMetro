@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LineCollection>
+  <Line No="1" Name="号线" ColorHex="#ffe215" From="广州东站" To="西朗" Warning="">
+    <Stations>
+      <Station CName="广州东站" />
+      <Station CName="体育中心" />
+      <Station CName="体育西路" />
+      <Station CName="杨箕" />
+      <Station CName="东山口" />
+      <Station CName="烈士陵园" />
+      <Station CName="农讲所" />
+      <Station CName="公园前" />
+      <Station CName="西门口" />
+      <Station CName="陈家祠" />
+      <Station CName="长寿路" />
+      <Station CName="黄沙" />
+      <Station CName="芳村" />
+      <Station CName="花地湾" />
+      <Station CName="坑口" />
+      <Station CName="西朗" />
+    </Stations>
+  </Line>
+  
+  <Line No="2" Name="号线" ColorHex="#0033ff" From="嘉禾望岗" To="广州南站" Warning="">
+    <Stations>
+      <Station CName="嘉禾望岗" />
+      <Station CName="黄边" />
+      <Station CName="江夏" />
+      <Station CName="萧岗" />
+      <Station CName="白云文化广场" />
+      <Station CName="白云公园" />
+      <Station CName="飞翔公园" />
+      <Station CName="三元里" />
+      <Station CName="广州火车站" />
+      <Station CName="越秀公园" />
+      <Station CName="纪念堂" />
+      <Station CName="公园前" />
+      <Station CName="海珠广场" />
+      <Station CName="市二宫" />
+      <Station CName="江南西" />
+      <Station CName="昌岗" />
+      <Station CName="江泰路" />
+      <Station CName="东晓南" />
+      <Station CName="南洲" />
+      <Station CName="洛溪" />
+      <Station CName="南浦" />
+      <Station CName="会江" />
+      <Station CName="石壁" />
+      <Station CName="广州南站" />
+    </Stations>
+  </Line>
+
+  <Line No="3" Name="号线" ColorHex="#ff9900" From="天河客运站" To="番禺广场" Warning="">
+    <Stations>
+      <Station CName="天河客运站" />
+      <Station CName="五山" />
+      <Station CName="华师" />
+      <Station CName="岗顶" />
+      <Station CName="石牌桥" />
+      <Station CName="体育西路" />
+      <Station CName="珠江新城" />
+      <Station CName="广州塔" />
+      <Station CName="客村" />
+      <Station CName="大塘" />
+      <Station CName="沥滘" />
+      <Station CName="厦滘" />
+      <Station CName="大石" />
+      <Station CName="汉溪长隆" />
+      <Station CName="市桥" />
+      <Station CName="番禺广场" />
+      <Station CName="机场南" />
+      <!--<Station CName="高增" />-->
+      <Station CName="人和" />
+      <Station CName="龙归" />
+      <Station CName="嘉禾望岗" />
+      <Station CName="白云大道北" />
+      <Station CName="永泰" />
+      <Station CName="同和" />
+      <Station CName="京溪南方医院" />
+      <Station CName="梅花园" />
+      <Station CName="燕塘" />
+      <Station CName="广州东站" />
+      <Station CName="林和西" />
+      <Station CName="体育西路" />
+    </Stations>
+  </Line>
+
+  
+  <Line No="4" Name="号线" ColorHex="#009951" From="黄村" To="金洲" Warning="">
+    <Stations>
+      <Station CName="黄村" />
+      <Station CName="车陂" />
+      <Station CName="车陂南" />
+      <Station CName="万胜围" />
+      <Station CName="官洲" />
+      <Station CName="大学城北" />
+      <Station CName="大学城南" />
+      <Station CName="新造" />
+      <!--<Station CName="官桥" />-->
+      <Station CName="石碁" /> 
+      <Station CName="海傍" /> 
+      <Station CName="低涌" /> 
+      <Station CName="东涌" /> 
+      <!--<Station CName="庆盛（未开通）" />--> 
+      <Station CName="黄阁汽车城" /> 
+      <Station CName="黄阁" /> 
+      <Station CName="蕉门" /> 
+      <Station CName="金洲" /> 
+    </Stations>
+  </Line>
+
+  <Line No="5" Name="号线" ColorHex="#cc0033" From="滘口" To="文冲" Warning="">
+    <Stations>
+      <Station CName="滘口" />
+      <Station CName="坦尾" />
+      <Station CName="中山八" />
+      <Station CName="西场" />
+      <Station CName="西村" />
+      <Station CName="广州火车站" />
+      <Station CName="小北" />
+      <Station CName="淘金" />
+      <Station CName="区庄" />
+      <Station CName="动物园" />
+      <Station CName="杨箕" />
+      <Station CName="五羊邨" />
+      <Station CName="珠江新城" />
+      <Station CName="猎德" />
+      <Station CName="潭村" />
+      <Station CName="员村" />
+      <Station CName="科韵路" />
+      <Station CName="车陂南" /> 
+      <Station CName="东圃" /> 
+      <Station CName="三溪" /> 
+      <Station CName="鱼珠" /> 
+      <Station CName="大沙地" /> 
+      <Station CName="大沙东" /> 
+      <Station CName="文冲" /> 
+    </Stations>
+  </Line>
+
+<Line No="6" Name="号线" ColorHex="#a90134" From="浔峰岗" To="长湴" Warning="">
+    <Stations>
+      <Station CName="浔峰岗" />
+      <Station CName="横沙" />
+      <Station CName="沙贝" />
+      <Station CName="河沙" />
+      <Station CName="坦尾" />
+      <Station CName="如意坊" />
+      <Station CName="黄沙" />
+      <Station CName="文化公园" />
+      <Station CName="一德路" />
+      <Station CName="海珠广场" />
+      <Station CName="北京路" />
+      <Station CName="团一大广场" />
+      <Station CName="东湖" />
+      <Station CName="东山口" />
+      <Station CName="区庄" />
+      <Station CName="黄花岗" />
+      <Station CName="沙河顶" />
+      <!--<Station CName="沙河" />--> 
+      <Station CName="天平架" /> 
+      <Station CName="燕塘" /> 
+      <Station CName="天河客运站" /> 
+      <Station CName="长湴" /> 
+    </Stations>
+  </Line>
+
+<Line No="8" Name="号线" ColorHex="#019898" From="凤凰新村" To="万胜围" Warning="">
+    <Stations>
+      <Station CName="凤凰新村" />
+      <Station CName="沙园" />
+      <Station CName="宝岗大道" />
+      <Station CName="昌岗" />
+      <Station CName="晓港" />
+      <Station CName="中大" />
+      <Station CName="鹭江" />
+      <Station CName="客村" />
+      <Station CName="赤岗" />
+      <Station CName="磨碟沙" />
+      <Station CName="新港东" />
+      <Station CName="琶洲" />
+      <Station CName="万胜围" />
+    </Stations>
+  </Line>
+
+<Line No="A" Name="PM" ColorHex="#99ff00" From="林和西" To="广州塔" Warning="">
+    <Stations>
+      <Station CName="林和西" />
+      <Station CName="体育中心南" />
+      <Station CName="天河南" />
+      <Station CName="黄埔大道" />
+      <!--<Station CName="妇儿中心" />-->
+      <Station CName="花城大道" />
+      <Station CName="大剧院" />
+      <Station CName="海心沙" />
+      <Station CName="广州塔" />
+    </Stations>
+  </Line>
+
+</LineCollection>

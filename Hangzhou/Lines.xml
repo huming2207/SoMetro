@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LineCollection>
+  <Line No="1" Name="号线" ColorHex="#FF0000" From="湘湖" To="临平/下沙江滨" Warning="">
+    <Stations>
+      <Station CName="湘湖" />
+      <Station CName="滨康路" />
+      <Station CName="西兴" />
+      <Station CName="滨和路" />
+      <Station CName="江陵路" />
+      <Station CName="近江" />
+      <Station CName="婺江路" />
+      <Station CName="城站" />
+      <Station CName="定安路" />
+      <Station CName="龙翔桥" />
+      <Station CName="凤起路" />
+      <Station CName="武林广场" />
+      <Station CName="西湖文化广场" />
+      <Station CName="打铁关" />
+      <Station CName="闸弄口" />
+      <Station CName="火车东站" />
+      <Station CName="彭埠" />
+      <Station CName="七堡" />
+      <Station CName="九和路" />
+      <Station CName="九堡" />
+      <Station CName="客运中心" />
+      <Station CName="下沙西" />
+      <Station CName="金沙湖" />
+      <Station CName="高沙路" />
+      <Station CName="文泽路" />
+      <Station CName="文海南路" />
+      <Station CName="云水" />
+      <Station CName="下沙江滨" />
+      <Station CName="乔司南" />
+      <Station CName="乔司" />
+      <Station CName="翁梅" />
+      <Station CName="余杭高铁站" />
+      <Station CName="南苑" />
+      <Station CName="临平" />
+    </Stations>
+  </Line>
+  <Line No="2" Name="号线" ColorHex="#FF8700" From="朝阳" To="钱江路" Warning="">
+    <Stations>
+      <Station CName="朝阳" />
+      <Station CName="曹家桥" />
+      <Station CName="潘水" />
+      <Station CName="人民路" />
+      <Station CName="杭发厂" />
+      <Station CName="人民广场" />
+      <Station CName="建设一路" />
+      <Station CName="建设三路" />
+      <Station CName="振宁路" />
+      <Station CName="飞虹路" />
+      <Station CName="盈丰路" />
+      <!-- <Station CName="钱江世纪城" /> -->
+      <Station CName="钱江路" />
+    </Stations>
+  </Line>
+  <Line No="4" Name="号线" ColorHex="#0BD800" From="彭埠" To="近江" Warning="">
+    <Stations>
+      <Station CName="彭埠" />
+      <Station CName="火车东站" />
+      <Station CName="新风" />
+      <Station CName="新塘" />
+      <Station CName="景芳" />
+      <Station CName="钱江路" />
+      <Station CName="江锦路" />
+      <Station CName="市民中心" />
+      <Station CName="城星路" />
+      <Station CName="近江" />
+    </Stations>
+  </Line>
+</LineCollection>
+

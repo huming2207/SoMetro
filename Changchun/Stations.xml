@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StationCollection>
+  <Station ID="" CName="长春站" EName="Changchun Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="true" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="辽宁路站" No="3" To="长影世纪城站" Start="6:00" End="21:00" />
+    </Paths>
+    <Location Long="125.327847" Lat="43.915114" />
+  </Station>
+  <Station ID="" CName="辽宁路站" EName="Liaoning Lu Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="芙蓉桥站" No="3" To="长影世纪城站" Start="6:02" End="21:01" />
+      <Path Next="长春站" No="3" To="长春站" Start="6:11" End="22:03" />
+    </Paths>
+    <Location Long="125.321375" Lat="43.915095" />
+  </Station>
+  <Station ID="" CName="芙蓉桥站" EName="Furong Qiao"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="西安桥站" No="3" To="长影世纪城站" Start="6:04" End="21:03" />
+      <Path Next="辽宁路站" No="3" To="长春站" Start="6:09" End="22:01" />
+    </Paths>
+    <Location Long="125.3113" Lat="43.907435" />
+  </Station>
+  <Station ID="" CName="西安桥站" EName="Xi'an Qiao Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="南昌路站" No="3" To="长影世纪城站" Start="6:06" End="21:05" />
+      <Path Next="芙蓉桥站" No="3" To="长春站" Start="6:07" End="21:59" />
+    </Paths>
+    <Location Long="125.306764" Lat="43.901099" />
+  </Station>
+  <Station ID="" CName="南昌路站" EName="Nanchang Lu Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="朝阳桥站" No="3" To="长影世纪城站" Start="6:07" End="21:07" />
+      <Path Next="西安桥站" No="3" To="长春站" Start="6:06" End="21:58" />
+    </Paths>
+    <Location Long="125.302987" Lat="43.895905" />
+  </Station>
+  <Station ID="" CName="朝阳桥站" EName="Chaoyang Qiao Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="解放桥站" No="3" To="长影世纪城站" Start="6:08" End="21:08" />
+      <Path Next="南昌路站" No="3" To="长春站" Start="6:04" End="21:56" />
+    </Paths>
+    <Location Long="125.299196" Lat="43.890556" />
+  </Station>
+  <Station ID="" CName="解放桥站" EName="Jiefang Qiao Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="湖西桥站" No="3" To="长影世纪城站" Start="6:10" End="21:10" />
+      <Path Next="朝阳桥站" No="3" To="长春站" Start="6:03" End="21:54" />
+    </Paths>
+    <Location Long="125.293828" Lat="43.882928" />
+  </Station>
+  <Station ID="" CName="湖西桥站" EName="Huxi Qiao Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="宽平大桥站" No="3" To="长影世纪城站" Start="6:12" End="21:12" />
+      <Path Next="解放桥站" No="3" To="长春站" Start="6:01" End="21:52" />
+    </Paths>
+    <Location Long="125.288874" Lat="43.87618" />
+  </Station>
+  <Station ID="" CName="宽平大桥站" EName="Kuanping Qiao Station"  HasRestroom="false" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="解放桥站" No="3" To="长春站" Start="6:07" End="21:50" />
+      <Path Next="宽平大路站" No="54" To="工农大路站" Start="" End="" />
+      <Path Next="迎春路站" No="54" To="西安大路站" Start="" End="" />
+      <Path Next="宽平大路站" No="55" To="工农大路站" Start="" End="" />
+      <Path Next="迎春路站" No="55" To="长春西站" Start="" End="" />
+    </Paths>
+    <Location Long="125.280421" Lat="43.868898" />
+  </Station>
+  <Station ID="" CName="抚松路站" EName="Fusong Lu Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="南湖大路站" No="3" To="长影世纪城站" Start="6:16" End="21:16" />
+      <Path Next="宽平大桥站" No="3" To="长春站" Start="6:05" End="21:48" />
+    </Paths>
+    <Location Long="125.272489" Lat="43.862363" />
+  </Station>
+  <Station ID="" CName="南湖大路站" EName="Nanhu Dalu Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="true" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="湖光路站" No="3" To="长影世纪城站" Start="6:18" End="21:18" />
+      <Path Next="抚松路站" No="3" To="长春站" Start="6:03" End="21:46" />   
+    </Paths>
+    <Location Long="125.268465" Lat="43.857488" />
+  </Station>
+  <Station ID="" CName="湖光路站" EName="Huguang Lu Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="硅谷大街站" No="3" To="长影世纪城站" Start="5:59" End="21:20" />
+      <Path Next="南湖大路站" No="3" To="长春站" Start="6:14" End="21:44" />   
+    </Paths>
+    <Location Long="125.273145" Lat="43.850711" />
+  </Station>
+  <Station ID="" CName="硅谷大街站" EName="Guigu Dajie Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="前进站" No="3" To="长影世纪城站" Start="6:01" End="21:22" />
+      <Path Next="湖光路站" No="3" To="长春站" Start="6:12" End="21:41" />  
+    </Paths>
+    <Location Long="125.284747" Lat="43.839603" />
+  </Station>
+  <Station ID="" CName="前进站" EName="Qianjin Xi Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="前进大街站" No="3" To="长影世纪城站" Start="6:04" End="21:25" />
+      <Path Next="硅谷大街站" No="3" To="长春站" Start="6:09" End="21:39" />   
+    </Paths>
+    <Location Long="125.295486" Lat="43.83864" />
+  </Station>
+  <Station ID="" CName="前进大街站" EName="Qianjin Dajie Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="卫明街站" No="3" To="长影世纪城站" Start="6:00" End="21:27" />
+      <Path Next="前进站" No="3" To="长春站" Start="6:07" End="21:36" />   
+    </Paths>
+    <Location Long="125.299515" Lat="43.838553" />
+  </Station>
+  <Station ID="" CName="卫明街站" EName="Weiming Jie Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="卫光街站" No="3" To="长影世纪城站" Start="6:02" End="21:29" />
+      <Path Next="前进大街站" No="3" To="长春站" Start="6:05" End="21:34" />  
+    </Paths>
+    <Location Long="125.308929" Lat="43.838523" />
+  </Station>
+  <Station ID="" CName="卫光街站" EName="Weiguang Jie Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="卫星广场站" No="3" To="长影世纪城站" Start="6:00" End="21:31" />
+      <Path Next="卫明街站" No="3" To="长春站" Start="6:03" End="21:32" />    
+    </Paths>
+    <Location Long="125.322484" Lat="43.838449" />
+  </Station>
+  <Station ID="" CName="卫星广场站" EName="Weixing Guangchang Station (Satellite Square)"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="亚泰大街站" No="3" To="长影世纪城站" Start="6:02" End="21:33" />
+      <Path Next="卫光街站" No="3" To="长春站" Start="6:01" End="21:30" />   
+    </Paths>
+    <Location Long="125.330708" Lat="43.83826" />
+  </Station>
+  <Station ID="" CName="亚泰大街站" EName="Yatai Dajie Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="伊通河站" No="3" To="长影世纪城站" Start="6:04" End="21:36" />
+      <Path Next="卫星广场站" No="3" To="长春站" Start="6:06" End="21:28" />   
+    </Paths>
+    <Location Long="125.346081" Lat="43.838234" />
+  </Station>
+  <Station ID="" CName="伊通河站" EName="Yitong He Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="临河街站" No="3" To="长影世纪城站" Start="6:00" End="21:37" />
+      <Path Next="亚泰大街站" No="3" To="长春站" Start="6:03" End="21:26" />   
+    </Paths>
+    <Location Long="125.35664" Lat="43.838575" />
+  </Station>
+  <Station ID="" CName="临河街站" EName="Linhe Jie Station"  HasRestroom="false" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="仙台大街站" No="3" To="长影世纪城站" Start="6:02" End="21:33" />
+      <Path Next="伊通河站" No="3" To="长春站" Start="6:01" End="21:30" /> 
+      <Path Next="世荣路站" No="4" To="车场站" Start="6:22" End="21:22" />  
+      <Path Next="北海路站" No="4" To="长春站北广场站" Start="6:00" End="21:07" />   
+    </Paths>
+    <Location Long="125.372908" Lat="43.839027" />
+  </Station>
+  <Station ID="" CName="仙台大街站" EName="Sendai Street Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="会展中心站" No="3" To="长影世纪城站" Start="6:04" End="21:41" />
+      <Path Next="临河街站" No="3" To="长春站" Start="6:05" End="21:22" />    
+    </Paths>
+    <Location Long="125.386037" Lat="43.839434" />
+  </Station>
+  <Station ID="" CName="会展中心站" EName="Huizhan Zhongxin Station (Convention and Exhibition Centre)"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="世纪广场站" No="3" To="长影世纪城站" Start="6:01" End="21:43" />
+      <Path Next="仙台大街站" No="3" To="长春站" Start="6:03" End="21:21" />   
+    </Paths>
+    <Location Long="125.397378" Lat="43.83973" />
+  </Station>
+  <Station ID="" CName="世纪广场站" EName="Shiji Guangchang Station (Century Plaza)"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="中医药大学站" No="3" To="长影世纪城站" Start="6:03" End="21:45" />
+      <Path Next="会展中心站" No="3" To="长春站" Start="6:01" End="21:19" />  
+    </Paths>
+    <Location Long="125.409308" Lat="43.843101" />
+  </Station>
+  <Station ID="" CName="中医药大学站" EName="Zhong Yiyao Daxue Station (Changchun University of Chinese Medicine)"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="东北师大站" No="3" To="长影世纪城站" Start="6:00" End="21:48" />
+      <Path Next="世纪广场站" No="3" To="长春站" Start="6:08" End="21:16" />   
+    </Paths>
+    <Location Long="125.427566" Lat="43.84063" />
+  </Station>
+  <Station ID="" CName="东北师大站" EName="Dongbei Shida Station (Northeast Normal University)"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="博学路站" No="3" To="长影世纪城站" Start="6:02" End="21:50" />
+      <Path Next="中医药大学站" No="3" To="长春站" Start="6:06" End="21:14" />    
+    </Paths>
+    <Location Long="125.43592" Lat="43.835883" />
+  </Station>
+  <Station ID="" CName="博学路站" EName="Boxue Lu Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="农博园站" No="3" To="长影世纪城站" Start="6:04" End="21:52" />
+      <Path Next="东北师大站" No="3" To="长春站" Start="6:04" End="21:12" />   
+    </Paths>
+    <Location Long="125.445873" Lat="43.827611" />
+  </Station>
+  <Station ID="" CName="农博园站" EName="Nongbo Yuan Station (Agricultural Exhibition Park)"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="净月公园站" No="3" To="长影世纪城站" Start="6:05" End="21:53" />
+      <Path Next="博学路站" No="3" To="长春站" Start="6:03" End="21:10" />   
+    </Paths>
+    <Location Long="125.451721" Lat="43.820164" />
+  </Station>
+  <Station ID="" CName="净月公园站" EName="Jingyue Gongyuan Station (Jingyue Park)"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="紫衫路站" No="3" To="长影世纪城站" Start="6:07" End="21:56" />
+      <Path Next="农博园站" No="3" To="长春站" Start="6:01" End="21:08" />   
+    </Paths>
+    <Location Long="125.457547" Lat="43.809242" />
+  </Station>
+  <Station ID="" CName="紫衫路站" EName="Zishan Lu Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="福祉路站" No="3" To="长影世纪城站" Start="6:10" End="21:58" />
+      <Path Next="净月公园站" No="3" To="长春站" Start="" End="" />  
+    </Paths>
+    <Location Long="125.446781" Lat="43.798579" />
+  </Station>
+  <Station ID="" CName="福祉路站" EName="Fuzhi Lu Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="滑雪场站" No="3" To="长影世纪城站" Start="6:12" End="22:00" />
+      <Path Next="紫衫路站" No="3" To="长春站" Start="6:02" End="21:03" />  
+    </Paths>
+    <Location Long="125.446758" Lat="43.790916" />
+  </Station>
+  <Station ID="" CName="滑雪场站" EName="Huaxue Chang Station (Jingyue Skiing Resort)"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="长影世纪城站" No="3" To="长影世纪城站" Start="6:15" End="22:03" />
+      <Path Next="福祉路站" No="3" To="长春站" Start="6:02" End="21:01" />  
+    </Paths>
+    <Location Long="125.456181" Lat="43.782251" />
+  </Station>
+  <Station ID="" CName="长影世纪城站" EName="Changying Shiji Cheng Station (Changchun Movie Wonderland)"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="滑雪场站" No="3" To="长春站" Start="6：01" End="21：00" />  
+    </Paths>
+    <Location Long="125.456788" Lat="43.777548" />
+  </Station>
+  <Station ID="" CName="长春站北广场站" EName="Nothern Square of Changchun Railway Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="true" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="北亚泰大街站" No="4" To="车场站" Start="6:00" End="21:00" />  
+    </Paths>
+    <Location Long="125.330782" Lat="43.918407" />
+  </Station>
+  <Station ID="" CName="北亚泰大街站" EName="Bei Yatai Dajie Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="伪皇宫站" No="4" To="车场站" Start="6:01" End="21:01" />  
+      <Path Next="长春站北广场站" No="4" To="长春站北广场站" Start="6:04" End="21:29" /> 
+    </Paths>
+    <Location Long="125.344917" Lat="43.918203" />
+  </Station>
+  <Station ID="" CName="伪皇宫站" EName="Weihuanggong Station (The Museum of the Imperial Palace of &quot;Manchukuo&quot;)"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="东大桥站" No="4" To="车场站" Start="6:04" End="21:04" />  
+      <Path Next="北亚泰大街站" No="4" To="长春站北广场站" Start="6:02" End="21:26" /> 
+    </Paths>
+    <Location Long="43.911709" Lat="43.911709" />
+  </Station>
+  <Station ID="" CName="东大桥站" EName="Dongdaqiao Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="东新路站" No="4" To="车场站" Start="6:06" End="21:06" />  
+      <Path Next="伪皇宫站" No="4" To="长春站北广场站" Start="6:00" End="21:24" /> 
+    </Paths>
+    <Location Long="125.363718" Lat="43.905815" />
+  </Station>
+  <Station ID="" CName="东新路站" EName="Dongxin Lu Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="本站暂未开通">
+    <Paths>
+      <Path Next="吉林大路站" No="4" To="车场站" Start="6:08" End="21:08" />  
+      <Path Next="东大桥站" No="4" To="长春站北广场站" Start="6:07" End="21:22" /> 
+    </Paths>
+    <Location Long="125.372522" Lat="43.898092" />
+  </Station>
+  <Station ID="" CName="吉林大路站" EName="Jilin Dalu Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="公平路站" No="4" To="车场站" Start="6:10" End="21:10" />  
+      <Path Next="东新路站" No="4" To="长春站北广场站" Start="6:04" End="21:19" /> 
+    </Paths>
+    <Location Long="43.887194" Lat="43.887194" />
+  </Station>
+  <Station ID="" CName="公平路站" EName="Gongping Lu Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="自由大路站" No="4" To="车场站" Start="6:12" End="21:12" />  
+      <Path Next="吉林大路站" No="4" To="长春站北广场站" Start="6:02" End="21:17" /> 
+    </Paths>
+    <Location Long="125.370927" Lat="43.87787" />
+  </Station>
+  <Station ID="" CName="自由大路站" EName="Ziyou Dalu Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="浦东路站" No="4" To="车场站" Start="6:14" End="21:14" />  
+      <Path Next="公平路站" No="4" To="长春站北广场站" Start="6:00" End="21:15" /> 
+    </Paths>
+    <Location Long="125.371098" Lat="43.869828" />
+  </Station>
+  <Station ID="" CName="浦东路站" EName="Pudong Lu Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="东南湖大路站" No="4" To="车场站" Start="6:16" End="21:16" />  
+      <Path Next="自由大路站" No="4" To="长春站北广场站" Start="6:05" End="21:13" /> 
+    </Paths>
+    <Location Long="125.371228" Lat="43.862887" />
+  </Station>
+  <Station ID="" CName="东南湖大路站" EName="Dong Nanhu Dalu Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="北海路站" No="4" To="车场站" Start="6:18" End="21:18" />  
+      <Path Next="浦东路站" No="4" To="长春站北广场站" Start="6:04" End="12:12" /> 
+    </Paths>
+    <Location Long="125.371345" Lat="43.856559" />
+  </Station>
+  <Station ID="" CName="北海路站" EName="Beihai Lu Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="卫星路站" No="4" To="车场站" Start="6:20" End="21:20" />  
+      <Path Next="东南湖大路站" No="4" To="长春站北广场站" Start="6:02" End="21:09" /> 
+    </Paths>
+    <Location Long="125.371529" Lat="43.847815" />
+  </Station>
+  <Station ID="" CName="卫星路站" EName="Weixing Lu Station"  HasRestroom="false" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="仙台大街站" No="3" To="长影世纪城站" Start="6:02" End="21:33" />
+      <Path Next="伊通河站" No="3" To="长春站" Start="6:01" End="21:30" /> 
+      <Path Next="世荣路站" No="4" To="车场站" Start="6:22" End="21:22" />  
+      <Path Next="北海路站" No="4" To="长春站北广场站" Start="6:00" End="21:07" /> 
+    </Paths>
+    <Location Long="125.3717" Lat="43.838261" />
+  </Station>
+  <Station ID="" CName="世荣路站" EName="Shirong Lu Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="南三环站" No="4" To="车场站" Start="6:24" End="21:24" />  
+      <Path Next="卫星路站" No="4" To="长春站北广场站" Start="6:05" End="21:05" /> 
+    </Paths>
+    <Location Long="125.371817" Lat="43.831082" />
+  </Station>
+  <Station ID="" CName="南三环站" EName="Nansanhuan Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="南四环站" No="4" To="车场站" Start="6:26" End="21:26" />  
+      <Path Next="世荣路站" No="4" To="长春站北广场站" Start="6:04" End="21:04" /> 
+    </Paths>
+    <Location Long="125.372005" Lat="43.823284" />
+  </Station>
+  <Station ID="" CName="南四环站" EName="Nansihuan Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="车场站" No="4" To="车场站" Start="6:28" End="21:28" />  
+      <Path Next="南三环站" No="4" To="长春站北广场站" Start="6:02" End="21:02" /> 
+    </Paths>
+    <Location Long="125.372199" Lat="43.812993" />
+  </Station>
+  <Station ID="" CName="车场站" EName="Chechang Station"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="南四环站" No="4" To="长春站北广场站" Start="6:00" End="21:00" /> 
+    </Paths>
+    <Location Long="125.372783" Lat="43.8016210" />
+  </Station>
+  <Station ID="" CName="工农大路站" EName="Gongnong Dalu Station"  HasRestroom="false" CanRecharge="false" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="长影站" No="54" To="西安大路站" Start="" End="" /> 
+      <Path Next="长影站" No="55" To="长春西站" Start="" End="" /> 
+    </Paths>
+    <Location Long="125.304094" Lat="43.875593" />
+  </Station>
+  <Station ID="" CName="长影站" EName="Changying Station (Changchun Film Studio Station)"  HasRestroom="false" CanRecharge="false" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="湖西路站" No="54" To="西安大路站" Start="" End="" /> 
+      <Path Next="工农大路站" No="54" To="工农大路站" Start="" End="" /> 
+      <Path Next="湖西路站" No="55" To="长春西站" Start="" End="" /> 
+      <Path Next="工农大路站" No="55" To="工农大路站" Start="" End="" /> 
+    </Paths>
+    <Location Long="125.298538" Lat="43.871804" />
+  </Station>
+  <Station ID="" CName="湖西路站" EName="Huxi Lu Station"  HasRestroom="false" CanRecharge="false" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="长久路站" No="54" To="西安大路站" Start="" End="" /> 
+      <Path Next="长影站" No="54" To="工农大路站" Start="" End="" /> 
+      <Path Next="长久路站" No="55" To="长春西站" Start="" End="" /> 
+      <Path Next="长影站" No="55" To="工农大路站" Start="" End="" /> 
+    </Paths>
+    <Location Long="125.296458" Lat="43.870355" />
+  </Station>
+  <Station ID="" CName="长久路站" EName="Changjiu Lu Station"  HasRestroom="false" CanRecharge="false" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="宽平大路站" No="54" To="西安大路站" Start="" End="" /> 
+      <Path Next="湖西路站" No="54" To="工农大路站" Start="" End="" /> 
+      <Path Next="宽平大路站" No="55" To="长春西站" Start="" End="" /> 
+      <Path Next="湖西路站" No="55" To="工农大路站" Start="" End="" /> 
+    </Paths>
+    <Location Long="125.292344" Lat="43.867534" />
+  </Station>
+  <Station ID="" CName="宽平大路站" EName="Kuanping Dalu Station"  HasRestroom="false" CanRecharge="false" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="宽平大桥站" No="54" To="西安大路站" Start="" End="" /> 
+      <Path Next="长久路站" No="54" To="工农大路站" Start="" End="" /> 
+      <Path Next="宽平大桥站" No="55" To="长春西站" Start="" End="" /> 
+      <Path Next="长久路站" No="55" To="工农大路站" Start="" End="" /> 
+    </Paths>
+    <Location Long="125.286195" Lat="43.864252" />
+  </Station>
+  <Station ID="" CName="迎春路站" EName="Yingchun Lu Station"  HasRestroom="false" CanRecharge="false" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="东风大街站" No="54" To="西安大路站" Start="" End="" /> 
+      <Path Next="宽平大桥站" No="54" To="工农大路站" Start="" End="" /> 
+      <Path Next="东风大街站" No="55" To="长春西站" Start="" End="" /> 
+      <Path Next="宽平大桥站" No="55" To="工农大路站" Start="" End="" /> 
+    </Paths>
+    <Location Long="125.278348" Lat="43.870212" />
+  </Station>
+  <Station ID="" CName="东风大街站" EName="Dongfeng Dajie Station"  HasRestroom="false" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="创业大街站" No="54" To="西安大路站" Start="" End="" /> 
+      <Path Next="迎春路站" No="54" To="工农大路站" Start="" End="" /> 
+      <Path Next="创业大街站" No="55" To="长春西站" Start="" End="" /> 
+      <Path Next="迎春路站" No="55" To="工农大路站" Start="" End="" />
+    </Paths>
+    <Location Long="125.274773" Lat="43.873549" />
+  </Station>
+  <Station ID="" CName="创业大街站" EName="Chuangye Dajie Station"  HasRestroom="false" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="南阳路站" No="54" To="西安大路站" Start="" End="" /> 
+      <Path Next="东风大街站" No="54" To="工农大路站" Start="" End="" /> 
+      <Path Next="南阳路站" No="55" To="长春西站" Start="" End="" /> 
+      <Path Next="东风大街站" No="55" To="工农大路站" Start="" End="" /> 
+    </Paths>
+    <Location Long="125.270762" Lat="43.877552" />
+  </Station>
+  <Station ID="" CName="南阳路站" EName="Nanyang Lu Station"  HasRestroom="false" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="电车公司站" No="54" To="西安大路站" Start="" End="" /> 
+      <Path Next="创业大街站" No="54" To="工农大路站" Start="" End="" /> 
+      <Path Next="和平大街站" No="55" To="长春西站" Start="" End="" /> 
+      <Path Next="创业大街站" No="55" To="工农大路站" Start="" End="" /> 
+    </Paths>
+    <Location Long="125.269057" Lat="43.881659" />
+  </Station>
+  <Station ID="" CName="电车公司站" EName="Dianchegongsi Station (Tram companies Station)"  HasRestroom="false" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="景阳大路站" No="54" To="西安大路站" Start="" End="" /> 
+      <Path Next="南阳路站" No="54" To="工农大路站" Start="" End="" /> 
+    </Paths>
+    <Location Long="125.269008" Lat="43.885515" />
+  </Station>
+  <Station ID="" CName="景阳大路站" EName="Jingyang Dalu Station"  HasRestroom="false" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="皓月大路站" No="54" To="西安大路站" Start="" End="" /> 
+      <Path Next="电车公司站" No="54" To="工农大路站" Start="" End="" /> 
+    </Paths>
+    <Location Long="125.2689" Lat="43.890047" />
+  </Station>
+  <Station ID="" CName="皓月大路站" EName="Haoyue Dalu Station"  HasRestroom="false" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="绿园站" No="54" To="西安大路站" Start="" End="" /> 
+      <Path Next="景阳大路站" No="54" To="工农大路站" Start="" End="" /> 
+    </Paths>
+    <Location Long="125.268824" Lat="43.894906" />
+  </Station>
+  <Station ID="" CName="绿园站" EName="Luyuan Station (Greenwood Station)"  HasRestroom="false" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="农丰市场站" No="54" To="西安大路站" Start="" End="" /> 
+      <Path Next="皓月大路站" No="54" To="工农大路站" Start="" End="" /> 
+    </Paths>
+    <Location Long="125.268676" Lat="43.899638" />
+  </Station>
+  <Station ID="" CName="农丰市场站" EName="Nongfeng Shichang Station (Nongfeng Market Station)"  HasRestroom="false" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="西安大路站" No="54" To="西安大路站" Start="" End="" /> 
+      <Path Next="绿园站" No="54" To="工农大路站" Start="" End="" /> 
+    </Paths>
+    <Location Long="125.26855" Lat="43.905176" />
+  </Station>
+  <Station ID="" CName="西安大路站" EName="Xi'an Dalu Station"  HasRestroom="false" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="农丰市场站" No="54" To="工农大路站" Start="" End="" /> 
+    </Paths>
+    <Location Long="125.268525" Lat="43.907848" />
+  </Station>
+  <Station ID="" CName="和平大街站" EName="Heping Dajie Station"  HasRestroom="false" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="洛阳街站" No="55" To="长春西站" Start="" End="" /> 
+      <Path Next="南阳路站" No="55" To="工农大路站" Start="" End="" /> 
+    </Paths>
+    <Location Long="125.260926" Lat="43.881695" />
+  </Station>
+  <Station ID="" CName="洛阳街站" EName="Luoyang Jie Station"  HasRestroom="false" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="老西环城路站" No="55" To="长春西站" Start="" End="" /> 
+      <Path Next="和平大街站" No="55" To="工农大路站" Start="" End="" /> 
+    </Paths>
+    <Location Long="125.253887" Lat="43.881591" />
+  </Station>
+  <Station ID="" CName="老西环城路站" EName="Laoxihuancheng Lu Station"  HasRestroom="false" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="丙三十八路站" No="55" To="长春西站" Start="" End="" /> 
+      <Path Next="洛阳街站" No="55" To="工农大路站" Start="" End="" /> 
+    </Paths>
+    <Location Long="125.247357" Lat="43.881393" />
+  </Station>
+  <Station ID="" CName="丙三十八路站" EName="Bingsanshiba Lu Station"  HasRestroom="false" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="西环城路站" No="55" To="长春西站" Start="" End="" /> 
+      <Path Next="老西环城路站" No="55" To="工农大路站" Start="" End="" /> 
+    </Paths>
+    <Location Long="125.239946" Lat="43.881217" />
+  </Station>
+  <Station ID="" CName="西环城路站" EName="Xihuancheng Lu Station"  HasRestroom="false" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="乙三路站" No="55" To="长春西站" Start="" End="" /> 
+      <Path Next="丙三十八路站" No="55" To="工农大路站" Start="" End="" /> 
+    </Paths>
+    <Location Long="125.234118" Lat="43.881094" />
+  </Station>
+  <Station ID="" CName="乙三路站" EName="Yisan Lu Station"  HasRestroom="false" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="丁三十三路站" No="55" To="长春西站" Start="" End="" /> 
+      <Path Next="西环城路站" No="55" To="工农大路站" Start="" End="" /> 
+    </Paths>
+    <Location Long="125.219767" Lat="43.876107" />
+  </Station>
+  <Station ID="" CName="丁三十三路站" EName="Dingsanshisan Lu Stat "  HasRestroom="false" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="站前街" No="55" To="长春西站" Start="" End="" /> 
+      <Path Next="乙三路站" No="55" To="工农大路站" Start="" End="" /> 
+    </Paths>
+    <Location Long="125.220082" Lat="43.882513" />
+  </Station>
+  <Station ID="" CName="站前街" EName="Zhanqian Jie Station"  HasRestroom="false" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="长春西站" No="55" To="长春西站" Start="" End="" /> 
+      <Path Next="丁三十三路站" No="55" To="工农大路站" Start="" End="" /> 
+    </Paths>
+    <Location Long="125.217064" Lat="43.883842" />
+  </Station>
+  <Station ID="" CName="长春西站" EName="Changchun West Railway Station"  HasRestroom="false" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="站前街" No="55" To="工农大路站" Start="" End="" /> 
+    </Paths>
+    <Location Long="125.208856" Lat="43.883874" />
+  </Station>
+</StationCollection>

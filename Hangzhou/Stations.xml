@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StationCollection>
+  <!-- 一号线 -->
+  <Station ID="" CName="湘湖" EName="Xianghu"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="滨康路" No="1" To="下沙江滨" Start="6:09" End="22:40" />
+      <Path Next="滨康路" No="1" To="临平" Start="6:04" End="22:50" />
+    </Paths>
+    <Location Long="120.241073" Lat="30.174498" />
+  </Station>
+  <Station ID="" CName="滨康路" EName="Binkang Road"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="西兴" No="1" To="下沙江滨" Start="6:12" End="22:42" />
+      <Path Next="西兴" No="1" To="临平" Start="6:07" End="22:52" />
+      <Path Next="湘湖" No="1" To="湘湖" Start="6:39" End="23:47" />
+    </Paths>
+    <Location Long="120.238320" Lat="30.190302" />
+  </Station>
+  <Station ID="" CName="西兴" EName="Xixing"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="滨和路" No="1" To="下沙江滨" Start="6:14" End="22:44" />
+      <Path Next="滨和路" No="1" To="临平" Start="6:09" End="22:54" />
+      <Path Next="滨康路" No="1" To="湘湖" Start="6:37" End="23:44" />
+    </Paths>
+    <Location Long="120.227127" Lat="30.193740" />
+  </Station>
+  <Station ID="" CName="滨和路" EName="Binhe Road"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="江陵路" No="1" To="下沙江滨" Start="6:16" End="22:47" />
+      <Path Next="江陵路" No="1" To="临平" Start="6:11" End="22:57" />
+      <Path Next="西兴" No="1" To="湘湖" Start="6:35" End="23:42" />
+    </Paths>
+    <Location Long="120.223740" Lat="30.206428" />
+  </Station>
+  <Station ID="" CName="江陵路" EName="Jiangling Road"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="近江" No="1" To="下沙江滨" Start="6:09" End="22:49" />
+      <Path Next="近江" No="1" To="临平" Start="6:03" End="22:59" />
+      <Path Next="滨和路" No="1" To="湘湖" Start="6:33" End="23:40" />
+    </Paths>
+    <Location Long="120.223264" Lat="30.216048" />
+  </Station>
+  <Station ID="" CName="近江" EName="Jinjiang"  HasRestroom="true" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="婺江路" No="1" To="下沙江滨" Start="6:12" End="22:53" />
+      <Path Next="婺江路" No="1" To="临平" Start="6:07" End="23:03" />
+      <Path Next="江陵路" No="1" To="湘湖" Start="6:29" End="23:36" />
+      <Path Next="城星路" No="4" To="彭埠" Start="6:26" End="23:07" />
+    </Paths>
+    <Location Long="120.204979" Lat="30.236839" />
+  </Station>
+  <Station ID="" CName="婺江路" EName="Wujiang Road"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="城站" No="1" To="下沙江滨" Start="6:14" End="22:55" />
+      <Path Next="城站" No="1" To="临平" Start="6:09" End="23:05" />
+      <Path Next="近江" No="1" To="湘湖" Start="6:27" End="23:34" />
+    </Paths>
+    <Location Long="120.198049" Lat="30.242467" />
+  </Station>
+  <Station ID="" CName="城站" EName="Chengzhan"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="true" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="定安路" No="1" To="下沙江滨" Start="6:16" End="22:57" />
+      <Path Next="定安路" No="1" To="临平" Start="6:11" End="23:07" />
+      <Path Next="婺江路" No="1" To="湘湖" Start="6:25" End="23:31" />
+    </Paths>
+    <Location Long="120.187893" Lat="30.249463" />
+  </Station>
+  <Station ID="" CName="定安路" EName="Ding'an Road"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="龙翔桥" No="1" To="下沙江滨" Start="6:19" End="22:59" />
+      <Path Next="龙翔桥" No="1" To="临平" Start="6:13" End="23:09" />
+      <Path Next="城站" No="1" To="湘湖" Start="6:23" End="23:29" />
+    </Paths>
+    <Location Long="120.175200" Lat="30.252037" />
+  </Station>
+  <Station ID="" CName="龙翔桥" EName="Longxiangqiao"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="凤起路" No="1" To="下沙江滨" Start="6:10" End="23:02" />
+      <Path Next="凤起路" No="1" To="临平" Start="6:16" End="23:12" />
+      <Path Next="定安路" No="1" To="湘湖" Start="6:20" End="23:26" />
+    </Paths>
+    <Location Long="120.171005" Lat="30.261165" />
+  </Station>
+  <Station ID="" CName="凤起路" EName="Fengqi Road"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="武林广场" No="1" To="下沙江滨" Start="6:12" End="23:04" />
+      <Path Next="武林广场" No="1" To="临平" Start="6:18" End="23:14" />
+      <Path Next="龙翔桥" No="1" To="湘湖" Start="6:18" End="23:24" />
+    </Paths>
+    <Location Long="120.170583" Lat="30.268772" />
+  </Station>
+  <Station ID="" CName="武林广场" EName="Wulin Square"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="西湖文化广场" No="1" To="下沙江滨" Start="6:14" End="23:06" />
+      <Path Next="西湖文化广场" No="1" To="临平" Start="6:08" End="23:16" />
+      <Path Next="凤起路" No="1" To="湘湖" Start="6:16" End="23:21" />
+    </Paths>
+    <Location Long="120.170444" Lat="30.278897" />
+  </Station>
+  <Station ID="" CName="西湖文化广场" EName="West Lake Culture Square"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="打铁关" No="1" To="下沙江滨" Start="6:16" End="23:08" />
+      <Path Next="打铁关" No="1" To="临平" Start="6:10" End="23:18" />
+      <Path Next="武林广场" No="1" To="湘湖" Start="6:15" End="23:19" />
+    </Paths>
+    <Location Long="120.172609" Lat="30.286791" />
+  </Station>
+  <Station ID="" CName="打铁关" EName="Datieguan"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="闸弄口" No="1" To="下沙江滨" Start="6:19" End="23:10" />
+      <Path Next="闸弄口" No="1" To="临平" Start="6:12" End="23:21" />
+      <Path Next="西湖文化广场" No="1" To="湘湖" Start="6:12" End="23:17" />
+    </Paths>
+    <Location Long="120.184336" Lat="30.291259" />
+  </Station>
+  <Station ID="" CName="闸弄口" EName="Zhalongkou"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="火车东站" No="1" To="下沙江滨" Start="6:21" End="23:13" />
+      <Path Next="火车东站" No="1" To="临平" Start="6:15" End="23:24" />
+      <Path Next="打铁关" No="1" To="湘湖" Start="6:09" End="23:14" />
+    </Paths>
+    <Location Long="120.199769" Lat="30.291048" />
+  </Station>
+  <Station ID="" CName="火车东站" EName="East Railway Station"  HasRestroom="true" CanRecharge="true" CanTransfer="true" IsRailwayStation="true" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="彭埠" No="1" To="下沙江滨" Start="6:24" End="23:16" />
+      <Path Next="彭埠" No="1" To="临平" Start="6:18" End="23:27" />
+      <Path Next="闸弄口" No="1" To="湘湖" Start="6:06" End="23:11" />
+      <Path Next="彭埠" No="4" To="彭埠" Start="6:34" End="23:25" />
+      <Path Next="新风" No="4" To="近江" Start="6:24" End="23:45" />
+    </Paths>
+    <Location Long="120.218517" Lat="30.296271" />
+  </Station>
+  <Station ID="" CName="彭埠" EName="Pengbu"  HasRestroom="true" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="七堡" No="1" To="下沙江滨" Start="6:26" End="23:18" />
+      <Path Next="七堡" No="1" To="临平" Start="6:20" End="23:29" />
+      <Path Next="火车东站" No="1" To="湘湖" Start="6:04" End="23:09" />
+      <Path Next="火车东站" No="4" To="近江" Start="6:22" End="23:42" />
+    </Paths>
+    <Location Long="120.230675" Lat="30.300672" />
+  </Station>
+  <Station ID="" CName="七堡" EName="Qibao"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="九和路" No="1" To="下沙江滨" Start="6:29" End="23:20" />
+      <Path Next="九和路" No="1" To="临平" Start="6:22" End="23:31" />
+      <Path Next="彭埠" No="1" To="湘湖" Start="6:19" End="23:07" />
+    </Paths>
+    <Location Long="120.247725" Lat="30.306771" />
+  </Station>
+  <Station ID="" CName="九和路" EName="Jiuhe Road"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="九堡" No="1" To="下沙江滨" Start="6:07" End="23:23" />
+      <Path Next="九堡" No="1" To="临平" Start="6:13" End="23:34" />
+      <Path Next="七堡" No="1" To="湘湖" Start="6:17" End="23:04" />
+    </Paths>
+    <Location Long="120.260265" Lat="30.312711" />
+  </Station>
+  <Station ID="" CName="九堡" EName="Jiubao"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="客运中心" No="1" To="下沙江滨" Start="6:10" End="23:25" />
+      <Path Next="客运中心" No="1" To="临平" Start="6:15" End="23:36" />
+      <Path Next="九和路" No="1" To="湘湖" Start="6:15" End="23:02" />
+    </Paths>
+    <Location Long="120.273183" Lat="30.314145" />
+  </Station>
+  <Station ID="" CName="客运中心" EName="Coach Center"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="下沙西" No="1" To="下沙江滨" Start="6:12" End="23:28" />
+      <Path Next="乔司南" No="1" To="临平" Start="6:18" End="23:39" />
+      <Path Next="九堡" No="1" To="湘湖" Start="6:13" End="23:00" />
+    </Paths>
+    <Location Long="120.285831" Lat="30.317196" />
+  </Station>
+  <Station ID="" CName="下沙西" EName="West Xiasha"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="金沙湖" No="1" To="下沙江滨" Start="6:16" End="23:31" />
+      <Path Next="客运中心" No="1" To="湘湖" Start="6:08" End="22:49" />
+    </Paths>
+    <Location Long="120.319765" Lat="30.315903" />
+  </Station>
+  <Station ID="" CName="金沙湖" EName="Jinshahu"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="高沙路" No="1" To="下沙江滨" Start="6:18" End="23:34" />
+      <Path Next="下沙西" No="1" To="湘湖" Start="6:06" End="22:47" />
+    </Paths>
+    <Location Long="120.332664" Lat="30.315673" />
+  </Station>
+  <Station ID="" CName="高沙路" EName="Gaosha Road"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="文泽路" No="1" To="下沙江滨" Start="6:20" End="23:35" />
+      <Path Next="金沙湖" No="1" To="湘湖" Start="6:04" End="22:45" />
+    </Paths>
+    <Location Long="120.342065" Lat="30.315907" />
+  </Station>
+  <Station ID="" CName="文泽路" EName="Wenze Road"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="文海南路" No="1" To="下沙江滨" Start="6:23" End="23:38" />
+      <Path Next="高沙路" No="1" To="湘湖" Start="6:02" End="22:43" />
+    </Paths>
+    <Location Long="120.354282" Lat="30.316530" />
+  </Station>
+  <Station ID="" CName="文海南路" EName="South Wenhai Road"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="云水" No="1" To="下沙江滨" Start="6:27" End="23:42" />
+      <Path Next="文泽路" No="1" To="湘湖" Start="6:09" End="22:39" />
+    </Paths>
+    <Location Long="120.382107" Lat="30.316963" />
+  </Station>
+  <Station ID="" CName="云水" EName="Yunshui"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="下沙江滨" No="1" To="下沙江滨" Start="6:29" End="23:44" />
+      <Path Next="文海南路" No="1" To="湘湖" Start="6:07" End="22:37" />
+    </Paths>
+    <Location Long="120.388049" Lat="30.309129" />
+  </Station>
+  <Station ID="" CName="下沙江滨" EName="Xiashajiangbin"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="云水" No="1" To="湘湖" Start="6:04" End="22:35" />
+    </Paths>
+    <Location Long="120.388521" Lat="30.294599" />
+  </Station>
+  <Station ID="" CName="乔司南" EName="South Qiaosi"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="乔司" No="1" To="临平" Start="6:22" End="23:43" />
+      <Path Next="客运中心" No="1" To="湘湖" Start="6:24" End="22:56" />
+    </Paths>
+    <Location Long="120.297743" Lat="30.333009" />
+  </Station>
+  <Station ID="" CName="乔司" EName="Qiaosi"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="翁梅" No="1" To="临平" Start="6:25" End="23:46" />
+      <Path Next="乔司南" No="1" To="湘湖" Start="6:20" End="22:53" />
+    </Paths>
+    <Location Long="120.292227" Lat="30.352528" />
+  </Station>
+  <Station ID="" CName="翁梅" EName="Wengmei"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="余杭高铁站" No="1" To="临平" Start="6:30" End="23:53" />
+      <Path Next="乔司" No="1" To="湘湖" Start="6:14" End="22:47" />
+    </Paths>
+    <Location Long="120.301974" Lat="30.370516" />
+  </Station>
+  <Station ID="" CName="余杭高铁站" EName="Yuhang Hi-Railway Station"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="true" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="南苑" No="1" To="临平" Start="6:30" End="23:53" />
+      <Path Next="翁梅" No="1" To="湘湖" Start="6:14" End="22:47" />
+    </Paths>
+    <Location Long="120.304709" Lat="30.388162" />
+  </Station>
+  <Station ID="" CName="南苑" EName="Nanyuan"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="临平" No="1" To="临平" Start="6:33" End="23:55" />
+      <Path Next="余杭高铁站" No="1" To="湘湖" Start="6:11" End="22:44" />
+    </Paths>
+    <Location Long="120.309555" Lat="30.401323" />
+  </Station>
+  <Station ID="" CName="临平" EName="Linping"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="南苑" No="1" To="湘湖" Start="6:09" End="22:42" />
+    </Paths>
+    <Location Long="120.310930" Lat="30.411679" />
+  </Station>
+  <!-- 二号线 -->
+  <Station ID="" CName="朝阳" EName="Zhaoyang"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="曹家桥" No="2" To="钱江路" Start="6:25" End="22:40" />
+    </Paths>
+    <Location Long="120.274342" Lat="30.128818" />
+  </Station>
+  <Station ID="" CName="曹家桥" EName="Caojiaqiao"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="朝阳" No="2" To="朝阳" Start="6:54" End="23:48" />
+      <Path Next="潘水" No="2" To="钱江路" Start="6:28" End="22:43" />
+    </Paths>
+    <Location Long="120.274881" Lat="30.140640" />
+  </Station>
+  <Station ID="" CName="潘水" EName="Panshui"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="曹家桥" No="2" To="朝阳" Start="6:51" End="23:46" />
+      <Path Next="人民路" No="2" To="钱江路" Start="6:30" End="22:45" />
+    </Paths>
+    <Location Long="120.274382" Lat="30.155646" />
+  </Station>
+  <Station ID="" CName="人民路" EName="Renmin Raod"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="潘水" No="2" To="朝阳" Start="6:49" End="23:44" />
+      <Path Next="杭发厂" No="2" To="钱江路" Start="6:33" End="22:48" />
+    </Paths>
+    <Location Long="120.274239" Lat="30.165907" />
+  </Station>
+  <Station ID="" CName="杭发厂" EName="Hangfachang"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="人民路" No="2" To="朝阳" Start="6:46" End="23:41" />
+      <Path Next="人民广场" No="2" To="钱江路" Start="6:35" End="22:50" />
+    </Paths>
+    <Location Long="120.273511" Lat="30.176905" />
+  </Station>
+  <Station ID="" CName="人民广场" EName="People Square"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="杭发厂" No="2" To="朝阳" Start="6:44" End="23:39" />
+      <Path Next="建设一路" No="2" To="钱江路" Start="6:29" End="22:53" />
+    </Paths>
+    <Location Long="120.273641" Lat="30.187317" />
+  </Station>
+  <Station ID="" CName="建设一路" EName="Jiansheyi Road"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="人民广场" No="2" To="朝阳" Start="6:41" End="23:36" />
+      <Path Next="建设三路" No="2" To="钱江路" Start="6:32" End="22:55" />
+    </Paths>
+    <Location Long="120.273412" Lat="30.200560" />
+  </Station>
+  <Station ID="" CName="建设三路" EName="Jianshesan Road"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="建设一路" No="2" To="朝阳" Start="6:39" End="23:34" />
+      <Path Next="振宁路" No="2" To="钱江路" Start="6:34" End="22:57" />
+    </Paths>
+    <Location Long="120.275245" Lat="30.211039" />
+  </Station>
+  <Station ID="" CName="振宁路" EName="Zhenning Road"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="建设三路" No="2" To="朝阳" Start="6:36" End="23:31" />
+      <Path Next="飞虹路" No="2" To="钱江路" Start="6:28" End="23:00" />
+    </Paths>
+    <Location Long="120.275793" Lat="30.225469" />
+  </Station>
+  <Station ID="" CName="飞虹路" EName="Feihong Road"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="振宁路" No="2" To="朝阳" Start="6:33" End="23:28" />
+      <Path Next="盈丰路" No="2" To="钱江路" Start="6:31" End="23:03" />
+    </Paths>
+    <Location Long="120.270138" Lat="30.237315" />
+  </Station>
+  <Station ID="" CName="盈丰路" EName="Yingfeng Road"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="飞虹路" No="2" To="朝阳" Start="6:31" End="23:26" />
+      <Path Next="钱江路" No="2" To="钱江路" Start="6:33" End="23:05" />
+    </Paths>
+    <Location Long="120.258428" Lat="30.243995" />
+  </Station>
+  <Station ID="" CName="钱江路" EName="Qianjiang Road"  HasRestroom="true" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="盈丰路" No="2" To="朝阳" Start="6:25" End="23:20" />
+      <Path Next="江锦路" No="4" To="近江" Start="6:32" End="22:54" />
+      <Path Next="景芳" No="4" To="彭埠" Start="6:26" End="23:16" />
+    </Paths>
+    <Location Long="120.220439" Lat="30.262218" />
+  </Station>
+  <!-- 四号线 -->
+  <Station ID="" CName="新风" EName="Xinfeng"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="新塘" No="4" To="近江" Start="6:26" End="22:46" />
+      <Path Next="火车东站" No="4" To="彭埠" Start="6:32" End="23:23" />
+    </Paths>
+    <Location Long="120.214335" Lat="30.293562" />
+  </Station>
+  <Station ID="" CName="新塘" EName="Xintang"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="景芳" No="4" To="近江" Start="6:28" End="22:49" />
+      <Path Next="新风" No="4" To="彭埠" Start="6:30" End="23:21" />
+    </Paths>
+    <Location Long="120.214178" Lat="30.283049" />
+  </Station>
+  <Station ID="" CName="景芳" EName="Jingfang"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="钱江路" No="4" To="近江" Start="6:30" End="22:51" />
+      <Path Next="新塘" No="4" To="彭埠" Start="6:28" End="23:18" />
+    </Paths>
+    <Location Long="120.214483" Lat="30.273178" />
+  </Station>
+  <Station ID="" CName="江锦路" EName="Jiangjin Road"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="市民中心" No="4" To="近江" Start="6:34" End="22:56" />
+      <Path Next="钱江路" No="4" To="彭埠" Start="6:32" End="23:14" />
+    </Paths>
+    <Location Long="120.222254" Lat="30.255831" />
+  </Station>
+  <Station ID="" CName="市民中心" EName="Citizen Center"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="城星路" No="4" To="近江" Start="6:28" End="22:58" />
+      <Path Next="江锦路" No="4" To="彭埠" Start="6:30" End="23:12" />
+    </Paths>
+    <Location Long="120.218476" Lat="30.251810" />
+  </Station>
+  <Station ID="" CName="城星路" EName="Chengxing Road"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="近江" No="4" To="近江" Start="6:29" End="23:00" />
+      <Path Next="市民中心" No="4" To="彭埠" Start="6:28" End="23:10" />
+    </Paths>
+    <Location Long="120.214075" Lat="30.245906" />
+  </Station>
+</StationCollection>

@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StationCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Station ID="" CName="十三号街" EName="SHISANHAOJIE" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Symbols />
+    <Nos />
+    <Links />
+    <Paths>
+      <Path Next="中央大街" No="1" To="黎明广场" Start="5:30" End="22:00" />
+    </Paths>
+    <Location Long="123.230005" Lat="41.765478" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="中央大街" EName="ZHONGYANGDAJIE" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="十三号街" No="1" To="十三号街" Start="06:55" End="22:57" />
+      <Path Next="七号街" No="1" To="黎明广场" Start="05:32" End="22:02" />
+    </Paths>
+    <Location Long="123.242312" Lat="41.765406" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="七号街" EName="QIHAOJIE" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="中央大街" No="1" To="十三号街" Start="06:52" End="22:54" />
+      <Path Next="四号街" No="1" To="黎明广场" Start="05:35" End="22:05" />
+    </Paths>
+    <Location Long="123.259466" Lat="41.765392" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="四号街" EName="SIHAOJIE" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="七号街" No="1" To="十三号街" Start="06:49" End="22:51" />
+      <Path Next="张士" No="1" To="黎明广场" Start="05:38" End="22:08" />
+    </Paths>
+    <Location Long="123.275874" Lat="41.76597" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="张士" EName="ZHANGSHI" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="四号街" No="1" To="十三号街" Start="06:46" End="22:49" />
+      <Path Next="开发大道" No="1" To="黎明广场" Start="05:40" End="22:10" />
+    </Paths>
+    <Location Long="123.294025" Lat="41.771943" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="开发大道" EName="KAIFADADAO" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="张士" No="1" To="十三号街" Start="6:43" End="22:44" />
+      <Path Next="于洪广场" No="1" To="黎明广场" Start="05:42" End="22:12" />
+    </Paths>
+    <Location Long="123.305136" Lat="41.781409" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="于洪广场" EName="YUHONGGUANGCHANG" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="开发大道" No="1" To="十三号街" Start="06:40" End="22:41" />
+      <Path Next="迎宾路" No="1" To="黎明广场" Start="05:45" End="22:15" />
+    </Paths>
+    <Location Long="123.305682" Lat="41.794342" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="迎宾路" EName="YINGBINLU" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="于洪广场" No="1" To="十三号街" Start="06:38" End="22:39" />
+      <Path Next="重工街" No="1" To="黎明广场" Start="05:47" End="22:17" />
+    </Paths>
+    <Location Long="123.309705" Lat="41.801655" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="重工街" EName="ZHONGGONGJIE" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="迎宾路" No="1" To="十三号街" Start="06:34" End="22;36" />
+      <Path Next="启工街" No="1" To="黎明广场" Start="05:51" End="22:21" />
+    </Paths>
+    <Location Long="123.331079" Lat="41.805077" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="启工街" EName="QIGONGJIE" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="重工街" No="1" To="十三号街" Start="06:32" End="22:33" />
+      <Path Next="保工街" No="1" To="黎明广场" Start="05:54" End="22:24" />
+    </Paths>
+    <Location Long="123.343935" Lat="41.80363" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="保工街" EName="BAOGONGJIE" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="启工街" No="1" To="十三号街" Start="06:30" End="22:31" />
+      <Path Next="铁西广场" No="1" To="黎明广场" Start="5:58" End="22:28" />
+    </Paths>
+    <Location Long="123.355715" Lat="41.800447" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="铁西广场" EName="TIEXIGUANGCHANG" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="保工街" No="1" To="十三号街" Start="06:27" End="22:29" />
+      <Path Next="云峰北街" No="1" To="黎明广场" Start="05:58" End="22:28" />
+    </Paths>
+    <Location Long="123.37032" Lat="41.79431" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="云峰北街" EName="YUNFENGBEIJIE" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="铁西广场" No="1" To="十三号街" Start="06:24" End="22:26" />
+      <Path Next="沈阳站" No="1" To="黎明广场" Start="06:01" End="22:31" />
+    </Paths>
+    <Location Long="123.380477" Lat="41.796472" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="沈阳站" EName="SHENYANGZHAN" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="true" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="云峰北街" No="1" To="十三号街" Start="06:21" End="22:22" />
+      <Path Next="太原街" No="1" To="黎明广场" Start="06:04" End="22:34" />
+    </Paths>
+    <Location Long="123.396678" Lat="41.793808" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="太原街" EName="TAIYUANJIE" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="沈阳站" No="1" To="十三号街" Start="06:19" End="22:20" />
+      <Path Next="南市场" No="1" To="黎明广场" Start="06:07" End="22:37" />
+    </Paths>
+    <Location Long="123.406055" Lat="41.789777" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="南市场" EName="NANSHICHANG" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="太原街" No="1" To="十三号街" Start="06:16" End="22:17" />
+      <Path Next="青年大街" No="1" To="黎明广场" Start="06:12" End="22:41" />
+    </Paths>
+    <Location Long="123.419863" Lat="41.789499" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="青年大街" EName="QINGNIANDAJIE" HasRestroom="true" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="南市场" No="1" To="十三号街" Start="06:14" End="22:15" />
+      <Path Next="怀远门" No="1" To="黎明广场" Start="06:12" End="22:42" />
+      <Path Next="青年公园" No="2" To="全运路" Start="06:30" End="22:30" />
+      <Path Next="市府广场" No="2" To="航空航天大学" Start="05:54" End="22:24" />
+    </Paths>
+    <Location Long="123.433381" Lat="41.792342" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="怀远门" EName="HUAIYUANMEN" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="青年大街" No="1" To="十三号街" Start="06:11" End="22:12" />
+      <Path Next="中街" No="1" To="黎明广场" Start="06:14" End="22:44" />
+    </Paths>
+    <Location Long="123.447647" Lat="41.796969" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="中街" EName="ZHONGJIE" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="怀远门" No="1" To="十三号街" Start="06:08" End="22:08" />
+      <Path Next="东中街" No="1" To="黎明广场" Start="06:18" End="22:48" />
+    </Paths>
+    <Location Long="123.461652" Lat="41.801335" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="东中街" EName="DONGZHONGJIE" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="中街" No="1" To="十三号街" Start="06:05" End="22:06" />
+      <Path Next="滂江街" No="1" To="黎明广场" Start="06:20" End="22:50" />
+    </Paths>
+    <Location Long="123.470442" Lat="41.802849" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="滂江街" EName="PANGJIANGJIE" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="东中街" No="1" To="十三号街" Start="06:02" End="22:02" />
+      <Path Next="黎明广场" No="1" To="黎明广场" Start="06:23" End="22:53" />
+    </Paths>
+    <Location Long="123.488324" Lat="41.80898" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="黎明广场" EName="LIMINGGUANGCHANG" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="滂江街" No="1" To="十三号街" Start="06:00" End="22:00" />
+    </Paths>
+    <Location Long="123.505022" Lat="41.808124" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="航空航天大学" EName="HANGKONGHANGTIANDAXHE" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="师范大学" No="2" To="全运路" Start="06:00" End="22:00" />
+    </Paths>
+    <Location Long="123.417149" Lat="41.867931" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="师范大学" EName="SHIFANDAXUE" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="航空航天大学" No="2" To="航空航天大学" Start="06:22" End="22:52" />
+      <Path Next="医学院" No="2" To="全运路" Start="06:02" End="22:02" />
+    </Paths>
+    <Location Long="123.417149" Lat="41.867931" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="医学院" EName="YIXUEYUAN" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="师范大学" No="2" To="航空航天大学" Start="06:19" End="22:49" />
+      <Path Next="三台子" No="2" To="全运路" Start="06:06" End="22:06" />
+    </Paths>
+    <Location Long="123.417149" Lat="41.867931" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="三台子" EName="SANTAIZI" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="医学院" No="2" To="航空航天大学" Start="06:15" End="22:45" />
+      <Path Next="陵西" No="2" To="全运路" Start="06:10" End="22:10" />
+    </Paths>
+    <Location Long="123.417149" Lat="41.867931" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="陵西" EName="LINGXI" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="三台子" No="2" To="航空航天大学" Start="06:12" End="22:42" />
+      <Path Next="新乐遗址" No="2" To="全运路" Start="06:12" End="22:12" />
+    </Paths>
+    <Location Long="123.4076" Lat="41.855882" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="新乐遗址" EName="XINLEYIZHI" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="陵西" No="2" To="航空航天大学" Start="06:10" End="22:40" />
+      <Path Next="北陵公园" No="2" To="全运路" Start="06:14" End="22:14" />
+    </Paths>
+    <Location Long="123.418844" Lat="41.848305" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="北陵公园" EName="BEILINGGONGYUAN" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="新乐遗址" No="2" To="航空航天大学" Start="06:08" End="22:38" />
+      <Path Next="中医药大学" No="2" To="全运路" Start="06:17" End="22:17" />
+    </Paths>
+    <Location Long="123.425045" Lat="41.838954" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="中医药大学" EName="ZHONGYIYAODAXUE" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="北陵公园" No="2" To="航空航天大学" Start="06:05" End="22:35" />
+      <Path Next="岐山路" No="2" To="全运路" Start="06:19" End="22:19" />
+    </Paths>
+    <Location Long="123.428993" Lat="41.833806" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="岐山路" EName="QISHANLU" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="中医药大学" No="2" To="航空航天大学" Start="06:03" End="22:33" />
+      <Path Next="沈阳北站" No="2" To="全运路" Start="06:22" End="22:22" />
+    </Paths>
+    <Location Long="123.429143" Lat="41.82255" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="沈阳北站" EName="SHENYANGBEIZHAN" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="true" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="岐山路" No="2" To="航空航天大学" Start="06:01" End="22:31" />
+      <Path Next="金融中心" No="2" To="全运路" Start="06:24" End="22:25" />
+    </Paths>
+    <Location Long="123.435795" Lat="41.817001" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="金融中心" EName="JINRONGZHONGXIN" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="沈阳北站" No="2" To="航空航天大学" Start="05:58" End="22:28" />
+      <Path Next="市府广场" No="2" To="全运路" Start="06:26" End="22:27" />
+    </Paths>
+    <Location Long="123.439164" Lat="41.812571" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="市府广场" EName="SHIFUGUANGCHANG" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="金融中心" No="2" To="航空航天大学" Start="05:56" End="22:26" />
+      <Path Next="青年大街" No="2" To="全运路" Start="06:28" End="22:30" />
+    </Paths>
+    <Location Long="123.432748" Lat="41.802942" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="青年公园" EName="QINGNIANGONGYUAN" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="青年大街" No="2" To="航空航天大学" Start="05:51" End="22:21" />
+      <Path Next="工业展览馆" No="2" To="全运路" Start="06:34" End="22:36" />
+    </Paths>
+    <Location Long="123.435881" Lat="41.784865" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="工业展览馆" EName="GONGYEZHANLANGUAN" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="青年公园" No="2" To="航空航天大学" Start="05:48" End="22:18" />
+      <Path Next="市图书馆" No="2" To="全运路" Start="06:37" End="22:38" />
+    </Paths>
+    <Location Long="123.435323" Lat="41.772064" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="市图书馆" EName="SHITUSHUGUAN" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="工业展览馆" No="2" To="航空航天大学" Start="05:45" End="22:15" />
+      <Path Next="五里河" No="2" To="全运路" Start="06:39" End="22:41" />
+    </Paths>
+    <Location Long="123.434873" Lat="41.760108" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="五里河" EName="WULIHE" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="市图书馆" No="2" To="航空航天大学" Start="05:43" End="22:13" />
+      <Path Next="奥体中心" No="2" To="全运路" Start="06:42" End="22:43" />
+    </Paths>
+    <Location Long="123.439701" Lat="41.753161" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="奥体中心" EName="AOTIZHONGXIN" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="五里河" No="2" To="航空航天大学" Start="05:40" End="22:10" />
+      <Path Next="营盘街" No="2" To="全运路" Start="06:45" End="22:46" />
+    </Paths>
+    <Location Long="123.453176" Lat="41.742451" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="营盘街" EName="YINGPANJIE" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="奥体中心" No="2" To="航空航天大学" Start="05:37" End="22:07" />
+      <Path Next="世纪大厦" No="2" To="全运路" Start="06:47" End="22:49" />
+    </Paths>
+    <Location Long="123.458068" Lat="41.731547" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="世纪大厦" EName="SHIJIGUANGCHANG" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="营盘街" No="2" To="航空航天大学" Start="05:35" End="22:05" />
+      <Path Next="白塔河路" No="2" To="全运路" Start="06:50" End="22:52" />
+    </Paths>
+    <Location Long="123.46251" Lat="41.719952" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="白塔河路" EName="BAITAHELU" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="世纪大厦" No="2" To="航空航天大学" Start="05:32" End="22:02" />
+      <Path Next="全运路" No="2" To="全运路" Start="06:52" End="22:54" />
+    </Paths>
+    <Location Long="123.469698" Lat="41.709765" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="全运路" EName="QUANYUNLU" HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="白塔河路" No="2" To="航空航天大学" Start="05:30" End="22:00" />
+    </Paths>
+    <Location Long="123.485126" Lat="41.706481" />
+    <Exits>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+      <Exit>
+        <Guides />
+        <Buses />
+      </Exit>
+    </Exits>
+  </Station>
+</StationCollection>

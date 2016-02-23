@@ -1,0 +1,3330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StationCollection>
+  <Station ID="" CName="迈皋桥" EName="MAIGAOQIAO"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="红山动物园" No="1" To="中国药科大学" Start="5:42" End="23:19" />
+    </Paths>
+    <Location Long="118.816011" Lat="32.108917" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="公共设施">
+            <Destinations>
+              <Destination Name="中信银行栖霞支行" />
+            </Destinations>
+          </Guide>
+          <Guide Type="医院">
+            <Destinations>
+              <Destination Name="迈皋桥医院" />
+            </Destinations>
+          </Guide>
+          <Guide Type="小区">
+            <Destinations>
+              <Destination Name="东井村" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="8路" Info="燕子矶 - 江苏路" />
+          <Bus No="30路" Info="环北市场 - 高力家具港" />
+          <Bus No="54路" Info="中山码头 - 万寿停车场" />
+          <Bus No="64路" Info="南京站 - 新港开发区" />
+          <Bus No="72路" Info="东宝路 - 月苑小区" />
+          <Bus No="76路" Info="玉桥市场 - 尧化门" />
+          <Bus No="77路" Info="水关桥 - 兴卫村" />
+          <Bus No="802路" Info="高力家具港 - 雨花台" />
+          <Bus No="809路" Info="南京站 - 中山码头" />
+          <Bus No="南洲线" Info="迈皋桥 - 八卦洲" />
+        </Buses>
+      </Exit>
+      <Exit No="2">
+        <Guides>
+          <Guide Type="景点">
+            <Destinations>
+              <Destination Name="燕子矶" />
+            </Destinations>
+          </Guide>
+          <Guide Type="公共设施">
+            <Destinations>
+              <Destination Name="农业银行" />
+              <Destination Name="招商银行" />
+            </Destinations>
+          </Guide>
+          <Guide Type="商业设施">
+            <Destinations>
+              <Destination Name="苏果超市" />
+              <Destination Name="苏宁电器" />
+            </Destinations>
+          </Guide>
+          <Guide Type="大楼">
+            <Destinations>
+              <Destination Name="泰悦大厦" />
+              <Destination Name="锦华大厦" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="53路" Info="迈皋桥 - 农贸中心" />
+          <Bus No="66路" Info="迈皋桥 - 龙江新城市广场" />
+          <Bus No="79路" Info="迈皋桥 - 尧化门" />
+          <Bus No="146路" Info="迈皋桥 - 仙林中心站" />
+          <Bus No="318路" Info="随家仓 - 迈皋桥" />
+          <Bus No="游3" Info="迈皋桥 - 明孝陵停车场" />
+          <Bus No="南洲线" Info="迈皋桥 - 八卦洲" />
+        </Buses>
+      </Exit>
+      <Exit No="3">
+        <Guides>
+          <Guide Type="政府机构">
+            <Destinations>
+              <Destination Name="栖霞区房产局"/>
+              <Destination Name="栖霞区财政局"/>
+              <Destination Name="南京市国土局栖霞分局"/>
+            </Destinations>
+          </Guide>
+          <Guide Type="公共设施">
+            <Destinations>
+              <Destination Name="智汇卡城北服务部" />
+            </Destinations>
+          </Guide>
+          <Guide Type="商业设施">
+            <Destinations>
+              <Destination Name="国美电器" />
+              <Destination Name="沃尔玛超市" />
+            </Destinations>
+          </Guide>
+          <Guide Type="大型企业">
+            <Destinations>
+              <Destination Name="南京城市地铁实业集团" />
+            </Destinations>
+          </Guide>
+          <Guide Type="小区">
+            <Destinations>
+              <Destination Name="华电新村" />
+              <Destination Name="长营村" />
+              <Destination Name="南砖新村" />
+              <Destination Name="南塑新村" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="53路" Info="迈皋桥 - 农贸中心" />
+          <Bus No="66路" Info="迈皋桥 - 龙江新城市广场" />
+          <Bus No="79路" Info="迈皋桥 - 尧化门" />
+          <Bus No="146路" Info="迈皋桥 - 仙林中心站" />
+          <Bus No="318路" Info="随家仓 - 迈皋桥" />
+          <Bus No="游3" Info="迈皋桥 - 明孝陵停车场" />
+          <Bus No="南洲线" Info="迈皋桥 - 八卦洲" />
+        </Buses>
+      </Exit>
+      <Exit No="4">
+        <Guides>
+          <Guide Type="学校">
+            <Destinations>
+              <Destination Name="华电大地双语幼儿园"/>
+              <Destination Name="迈皋桥小学"/>
+              <Destination Name="成贤街小学"/>
+            </Destinations>
+          </Guide>
+          <Guide Type="公共设施">
+            <Destinations>
+              <Destination Name="建设银行"/>
+            </Destinations>
+          </Guide>
+          <Guide Type="大型企业">
+            <Destinations>
+              <Destination Name="中电熊猫晶体科技有限公司"/>
+              <Destination Name="华东电子集团公司"/>
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="22路" Info="万寿停车场 - 傅佐路" />
+          <Bus No="24路" Info="古平岗 - 金陵院幕府校区"/>
+          <Bus No="40路" Info="洋珠巷 - 月苑小区"/>
+          <Bus No="66路" Info="迈皋桥 - 龙江新城市广场" />
+          <Bus No="74路" Info="江苏路 - 迈皋桥"/>
+          <Bus No="819路" Info="月苑南路 - 傅佐路"/>
+          <Bus No="815路" Info="万寿停车场 - 中山码头"/>
+          <Bus No="游3" Info="迈皋桥 - 明孝陵停车场" />
+          <Bus No="玉葛线" Info="玉桥市场 - 葛塘"/>
+          <Bus No="玉六线" Info="玉桥市场 - 六合北站"/>
+        </Buses>
+      </Exit>
+      <Exit No="5">
+        <Guides>
+          <Guide Type="学校">
+            <Destinations>
+              <Destination Name="南京航天大学继续教育学院"/>
+              <Destination Name="南汽技工学校"/>
+            </Destinations>
+          </Guide>
+          <Guide Type="医院">
+            <Destinations>
+              <Destination Name="省中西医结合医院"/>
+            </Destinations>
+          </Guide>
+          <Guide Type="政府机构">
+            <Destinations>
+              <Destination Name="玄武区公安局"/>
+            </Destinations>
+          </Guide>
+          <Guide Type="大楼">
+            <Destinations>
+              <Destination Name="百通国际公寓"/>
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="22路" Info="万寿停车场 - 傅佐路" />
+          <Bus No="24路" Info="古平岗 - 金陵院幕府校区"/>
+          <Bus No="40路" Info="洋珠巷 - 月苑小区"/>
+          <Bus No="66路" Info="迈皋桥 - 龙江新城市广场" />
+          <Bus No="74路" Info="江苏路 - 迈皋桥"/>
+          <Bus No="819路" Info="月苑南路 - 傅佐路"/>
+          <Bus No="815路" Info="万寿停车场 - 中山码头"/>
+          <Bus No="823路" Info="南京站 - 尧化门" />
+          <Bus No="游3" Info="迈皋桥 - 明孝陵停车场" />
+          <Bus No="游1" Info="迈皋桥 - 中山陵停车场" />
+          <Bus No="玉葛线" Info="玉桥市场 - 葛塘"/>
+          <Bus No="玉六线" Info="玉桥市场 - 六合北站"/>
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="红山动物园" EName="HONGSHAN ZOO"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="南京站" No="1" To="中国药科大学" Start="5:44" End="23:21" />
+      <Path Next="迈皋桥" No="1" To="迈皋桥" Start="6:46" End="0:27" />
+    </Paths>
+    <Location Long="118.808380" Lat="32.102001" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="">
+            <Destinations Type="">
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="8路" Info="燕子矶 - 江苏路" />
+          <Bus No="30路" Info="环北市场 - 高力家具港" />
+          <Bus No="54路" Info="中山码头 - 万寿停车场" />
+          <Bus No="64路" Info="南京站 - 新港开发区" />
+          <Bus No="72路" Info="东宝路 - 月苑小区" />
+          <Bus No="76路" Info="玉桥市场 - 尧化门" />
+          <Bus No="77路" Info="水关桥 - 兴卫村" />
+          <Bus No="175路" Info="红山动物园 - 海润枫景" />
+          <Bus No="308路" Info="旭日景城 - 白马公园" />
+          <Bus No="802路" Info="高力家具港 - 雨花台" />
+          <Bus No="809路" Info="南京站 - 中山码头" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="南京站" EName="NANJING RAILWAY STATION"  HasRestroom="false" CanRecharge="true" CanTransfer="true" IsRailwayStation="true" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="新模范马路" No="1" To="中国药科大学" Start="5:46" End="23:23" />
+      <Path Next="红山动物园" No="1" To="迈皋桥" Start="6:44" End="0:25" />
+      <Path Next="南京林业大学·新庄" No="3" To="秣周东路" Start="6:23" End="23:23" />
+      <Path Next="小市" No="3" To="林场" Start="6:47" End="23:47" />
+    </Paths>
+    <Location Long="118.802743" Lat="32.093268" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="商业设施">
+            <Destinations>
+              <Destination Name="曙光大酒店" />
+              <Destination Name="麦当劳" />
+            </Destinations>
+          </Guide>
+          <Guide Type="景点">
+            <Destinations>
+              <Destination Name="玄武湖广场" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="10路" Info="中山码头 - 长途东站" />
+          <Bus No="13路" Info="南京站 - 南湖" />
+          <Bus No="22路" Info="万寿停车场 - 傅佐路" />
+          <Bus No="28路" Info="长途东站 - 湖西街" />
+          <Bus No="32路" Info="南京站 - 新城市广场" />
+          <Bus No="33路" Info="南京站 - 雨花台南大门" />
+          <Bus No="45路" Info="长途东站 - 宁工新寓" />
+          <Bus No="56路" Info="南京站 - 奥体新城" />
+          <Bus No="64路" Info="南京站 - 新港开发区" />
+          <Bus No="66路" Info="迈皋桥 - 龙江新城市广场" />
+          <Bus No="69路" Info="南堡公园 - 经五立交" />
+          <Bus No="73路" Info="银城街 - 兴卫村" />
+          <Bus No="76路" Info="玉桥市场 - 尧化门" />
+          <Bus No="130路" Info="仙居雅苑 - 玉桥市场" />
+          <Bus No="136路" Info="长途东站 - 长途客运北站" />
+          <Bus No="143路" Info="白马公园 - 宁工新寓" />
+          <Bus No="157路" Info="西门 - 南京站" />
+          <Bus No="163路" Info="南湾营 - 柳营" />
+          <Bus No="173路" Info="雨花台南门 - 南京站" />
+          <Bus No="318路" Info="随家仓 - 迈皋桥" />
+          <Bus No="810路" Info="中山码头 - 长途东站" />
+          <Bus No="813路" Info="南京站 - 南湖" />
+          <Bus No="815路" Info="万寿停车场 - 中山码头" />
+          <Bus No="819路" Info="月苑南路 - 傅佐路" />
+          <Bus No="823路" Info="南京站 - 尧化门" />
+          <Bus No="南上线" Info="南京站 - 上坝" />
+          <Bus No="南汤线" Info="南京站 - 汤山汽运六队" />
+          <Bus No="南栖线" Info="南京站 - 栖霞" />
+          <Bus No="玉葛线" Info="玉桥市场 - 葛塘" />
+          <Bus No="玉六线" Info="南京站 - 尧化门" />
+          <Bus No="游5" Info="南京站 - 明文化村" />
+        </Buses>
+      </Exit>
+      <Exit No="4">
+        <Guides>
+          <Guide Type="商业设施">
+            <Destinations>
+              <Destination Name="新世纪大酒店" />
+            </Destinations>
+          </Guide>
+          <Guide Type="公共设施">
+            <Destinations>
+              <Destination Name="南京站" />
+              <Destination Name="中国邮政" />
+              <Destination Name="机场大巴" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="17路" Info="南京站 - 紫金明珠" />
+          <Bus No="36路" Info="南京站 - 柳营" />
+          <Bus No="45路" Info="长途东站 - 宁工新寓" />
+          <Bus No="59路" Info="南京站 - 杨庄" />
+          <Bus No="71路" Info="新港开发区 - 南京站" />
+          <Bus No="97路" Info="南京站 - 仙林中心站" />
+          <Bus No="136路" Info="长途东站 - 长途客运北站" />
+          <Bus No="141路" Info="南湾营 - 南京站" />
+          <Bus No="173路" Info="雨花台南门 - 南京站" />
+          <Bus No="309路" Info="悦民路 - 南京站" />
+          <Bus No="808路" Info="公交车辆厂 - 南京站" />
+          <Bus No="809路" Info="南京站 - 中山码头" />
+          <Bus No="811路" Info="南京站 - 金盛百货" />
+          <Bus No="817路" Info="双龙街西站 - 南京站" />
+          <Bus No="南金线" Info="南京站 - 东山总站" />
+          <Bus No="南广线" Info="南京站 - 南广学院" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="新模范马路" EName="XINMOFANMALU"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="玄武门" No="1" To="中国药科大学" Start="5:49" End="23:26" />
+      <Path Next="南京站" No="1" To="迈皋桥" Start="6:41" End="0:22" />
+    </Paths>
+    <Location Long="118.790476" Lat="32.085976" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="学校">
+            <Destinations>
+              <Destination Name="南京工业大学" />
+              <Destination Name="东南大学丁家桥校区" />
+            </Destinations>
+          </Guide>
+          <Guide Type="医院">
+            <Destinations>
+              <Destination Name="中大医院北院" />
+            </Destinations>
+          </Guide>
+          <Guide Type="公共设施">
+            <Destinations>
+              <Destination Name="工商银行" />
+            </Destinations>
+          </Guide>
+          <Guide Type="大楼">
+            <Destinations>
+              <Destination Name="南汽销售大楼" />
+              <Destination Name="利奥大厦" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="游1" Info="迈皋桥 - 中山陵停车场" />
+          <Bus No="1路" Info="南堡公园 - 夫子庙" />
+          <Bus No="22路" Info="万寿停车场 - 傅佐路" />
+          <Bus No="28路" Info="长途东站 - 湖西街" />
+          <Bus No="30路" Info="环北市场 - 高力家具港" />
+          <Bus No="33路" Info="南京站 - 雨花台南大门" />
+          <Bus No="56路" Info="南京站 - 奥体新城" />
+          <Bus No="117路" Info="大桥公园 - 公交总公司" />
+          <Bus No="801路" Info="南京站 - 夫子庙" />
+        </Buses>
+      </Exit>
+      <Exit No="2">
+        <Guides>
+          <Guide Type="学校">
+            <Destinations>
+              <Destination Name="田家炳高级中学" />
+              <Destination Name="苏杰小学" />
+              <Destination Name="丁家桥小学" />
+              <Destination Name="天正小学" />
+            </Destinations>
+          </Guide>
+          <Guide Type="医院">
+            <Destinations>
+              <Destination Name="康爱医院" />
+            </Destinations>
+          </Guide>
+          <Guide Type="公共设施">
+            <Destinations>
+              <Destination Name="建设银行" />
+            </Destinations>
+          </Guide>
+          <Guide Type="商业设施">
+            <Destinations>
+              <Destination Name="先锋奥特莱斯广场" />
+            </Destinations>
+          </Guide>
+          <Guide Type="大型企业">
+            <Destinations>
+              <Destination Name="南汽集团" />
+            </Destinations>
+          </Guide>
+          <Guide Type="小区">
+            <Destinations>
+              <Destination Name="凤凰和鸣" />
+              <Destination Name="天正湖滨" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="游1" Info="迈皋桥 - 中山陵停车场" />
+          <Bus No="1路" Info="南堡公园 - 夫子庙" />
+          <Bus No="8路" Info="燕子矶 - 江苏路" />
+          <Bus No="22路" Info="万寿停车场 - 傅佐路" />
+          <Bus No="25路" Info="北崮山 - 石林百货" />
+          <Bus No="28路" Info="长途东站 - 湖西街" />
+          <Bus No="30路" Info="环北市场 - 高力家具港" />
+          <Bus No="32路" Info="南京站 - 新城市广场" />
+          <Bus No="33路" Info="南京站 - 雨花台南大门" />
+          <Bus No="56路" Info="南京站 - 奥体新城" />
+          <Bus No="117路" Info="大桥公园 - 公交总公司" />
+          <Bus No="801路" Info="南京站 - 夫子庙" />
+          <Bus No="802路" Info="高力家具港 - 雨花台" />
+          <Bus No="813路" Info="南京站 - 南湖" />
+          <Bus No="815路" Info="万寿停车场 - 中山码头" />
+        </Buses>
+      </Exit>
+      <Exit No="4">
+        <Guides>
+          <Guide Type="学校">
+            <Destinations>
+              <Destination Name="科利华中学" />
+            </Destinations>
+          </Guide>
+          <Guide Type="政府机构">
+            <Destinations>
+              <Destination Name="江苏海事局" />
+            </Destinations>
+          </Guide>
+          <Guide Type="公共设施">
+            <Destinations>
+              <Destination Name="南京银行" />
+              <Destination Name="兴业银行" />
+              <Destination Name="招商银行" />
+              <Destination Name="广发银行" />
+            </Destinations>
+          </Guide>
+          <Guide Type="大型企业">
+            <Destinations>
+              <Destination Name="省电信局" />
+              <Destination Name="公交总公司" />
+            </Destinations>
+          </Guide>
+          <Guide Type="大楼">
+            <Destinations>
+              <Destination Name="锦盈大厦" />
+              <Destination Name="新立基大厦" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="游1" Info="迈皋桥 - 中山陵停车场" />
+          <Bus No="1路" Info="南堡公园 - 夫子庙" />
+          <Bus No="8路" Info="燕子矶 - 江苏路" />
+          <Bus No="22路" Info="万寿停车场 - 傅佐路" />
+          <Bus No="25路" Info="北崮山 - 石林百货" />
+          <Bus No="28路" Info="长途东站 - 湖西街" />
+          <Bus No="30路" Info="环北市场 - 高力家具港" />
+          <Bus No="32路" Info="南京站 - 新城市广场" />
+          <Bus No="33路" Info="南京站 - 雨花台南大门" />
+          <Bus No="35路" Info="集庆门 - 窑上村" />
+          <Bus No="56路" Info="南京站 - 奥体新城" />
+          <Bus No="117路" Info="大桥公园 - 公交总公司" />
+          <Bus No="801路" Info="南京站 - 夫子庙" />
+          <Bus No="802路" Info="高力家具港 - 雨花台" />
+          <Bus No="813路" Info="南京站 - 南湖" />
+          <Bus No="815路" Info="万寿停车场 - 中山码头" />
+          <Bus No="819路" Info="月苑南路 - 辅佐路" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="玄武门" EName="XUANWUMEN"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="鼓楼" No="1" To="中国药科大学" Start="5:51" End="23:28" />
+      <Path Next="新模范马路" No="1" To="迈皋桥" Start="6:39" End="0:20" />
+    </Paths>
+    <Location Long="118.790611" Lat="32.076228" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="学校">
+            <Destinations>
+              <Destination Name="中国药科大学" />
+            </Destinations>
+          </Guide>
+          <Guide Type="医院">
+            <Destinations>
+              <Destination Name="中大医院" />
+            </Destinations>
+          </Guide>
+          <Guide Type="商业设置">
+            <Destinations>
+              <Destination Name="八佰伴" />
+              <Destination Name="国际广场" />
+            </Destinations>
+          </Guide>
+          <Guide Type="大楼">
+            <Destinations>
+              <Destination Name="凤凰广场" />
+              <Destination Name="玄武饭店" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="1路" Info="南堡公园 - 夫子庙" />
+          <Bus No="3路" Info="随家仓 - 随家仓" />
+          <Bus No="8路" Info="燕子矶 - 江苏路" />
+          <Bus No="22路" Info="万寿停车场 - 傅佐路" />
+          <Bus No="25路" Info="北崮山 - 石林百货" />
+          <Bus No="26路" Info="小行小区 - 云南北路" />
+          <Bus No="28路" Info="长途东站 - 湖西街" />
+          <Bus No="30路" Info="环北市场 - 高力家具港" />
+          <Bus No="33路" Info="南京站 - 雨花台南大门" />
+          <Bus No="35路" Info="集庆门 - 窑上村" />
+          <Bus No="47路" Info="双桥门 - 宁工新寓" />
+          <Bus No="52路" Info="银城东苑 - 山西路" />
+          <Bus No="56路" Info="南京站 - 奥体新城" />
+          <Bus No="74路" Info="江苏路 - 迈皋桥"/>
+          <Bus No="114路" Info="丁家庄 - 古平岗" />
+          <Bus No="801路" Info="南京站 - 夫子庙" />
+          <Bus No="802路" Info="高力家具港 - 雨花台" />
+          <Bus No="819路" Info="月苑南路 - 辅佐路" />
+          <Bus No="游1" Info="迈皋桥 - 中山陵停车场" />
+        </Buses>
+      </Exit>
+      <Exit No="4">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="1路" Info="南堡公园 - 夫子庙" />
+          <Bus No="8路" Info="燕子矶 - 江苏路" />
+          <Bus No="25路" Info="北崮山 - 石林百货" />
+          <Bus No="28路" Info="长途东站 - 湖西街" />
+          <Bus No="30路" Info="环北市场 - 高力家具港" />
+          <Bus No="33路" Info="南京站 - 雨花台南大门" />
+          <Bus No="35路" Info="集庆门 - 窑上村" />
+          <Bus No="38路" Info="南堡公园 - 西街" />
+          <Bus No="游1" Info="迈皋桥 - 中山陵停车场" />
+          <Bus No="801路" Info="南京站 - 夫子庙" />
+          <Bus No="802路" Info="高力家具港 - 雨花台" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="鼓楼" EName="GULOU"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="珠江路" No="1" To="中国药科大学" Start="5:53" End="23:30" />
+      <Path Next="玄武门" No="1" To="迈皋桥" Start="6:37" End="0:18" />
+    </Paths>
+    <Location Long="118.790207" Lat="32.064899" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="1路" Info="南堡公园 - 夫子庙" />
+          <Bus No="16路" Info="南京西站 - 新和源装饰城" />
+          <Bus No="25路" Info="北崮山 - 石林百货" />
+          <Bus No="33路" Info="南京站 - 雨花台南大门" />
+          <Bus No="38路" Info="南堡公园 - 西街" />
+          <Bus No="801路" Info="南京站 - 夫子庙" />
+          <Bus No="816路" Info="南京西站 - 公交四公司" />
+        </Buses>
+      </Exit>
+      <Exit No="2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="11路" Info="月苑小区 - 新城市广场" />
+          <Bus No="20路" Info="海底世界 - 莫愁新寓" />
+          <Bus No="95路" Info="环北市场 - 水关桥" />
+          <Bus No="811路" Info="南京站 - 金盛百货" />
+        </Buses>
+      </Exit>
+      <Exit No="3">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="11路" Info="月苑小区 - 新城市广场" />
+          <Bus No="20路" Info="海底世界 - 莫愁新寓" />
+          <Bus No="24路" Info="古平岗 - 金陵院幕府校区"/>
+          <Bus No="26路" Info="小行小区 - 云南北路" />
+          <Bus No="31路" Info="中山码头 - 健康路" />
+          <Bus No="34路" Info="中山码头 - 五洲家具装饰广场" />
+          <Bus No="52路" Info="银城东苑 - 山西路" />
+          <Bus No="67路" Info="南堡公园 - 白马公园" />
+          <Bus No="95路" Info="环北市场 - 水关桥" />
+          <Bus No="100路" Info="挹江门 - 安德门" />
+          <Bus No="151路" Info="鼓楼 - 柳州路" />
+          <Bus No="152路" Info="江心洲 - 鼓楼公园" />
+          <Bus No="168路" Info="鼓楼 - 珍珠泉" />
+          <Bus No="811路" Info="南京站 - 金盛百货" />
+          <Bus No="816路" Info="南京西站 - 公交四公司" />
+          <Bus No="D2" Info="鼓楼 - 扬子乙烯" />
+        </Buses>
+      </Exit>
+      <Exit No="4">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="1路" Info="南堡公园 - 夫子庙" />
+          <Bus No="3路" Info="随家仓 - 随家仓" />
+          <Bus No="16路" Info="南京西站 - 新和源装饰城" />
+          <Bus No="25路" Info="北崮山 - 石林百货" />
+          <Bus No="28路" Info="长途东站 - 湖西街" />
+          <Bus No="31路" Info="中山码头 - 健康路" />
+          <Bus No="33路" Info="南京站 - 雨花台南大门" />
+          <Bus No="34路" Info="中山码头 - 五洲家具装饰广场" />
+          <Bus No="35路" Info="集庆门 - 窑上村" />
+          <Bus No="38路" Info="南堡公园 - 西街" />
+          <Bus No="46路" Info="鼓楼北站 - 景明佳园" />
+          <Bus No="67路" Info="南堡公园 - 白马公园" />
+          <Bus No="100路" Info="挹江门 - 安德门" />
+          <Bus No="151路" Info="鼓楼 - 柳州路" />
+          <Bus No="801路" Info="南京站 - 夫子庙" />
+          <Bus No="802路" Info="高力家具港 - 雨花台" />
+          <Bus No="816路" Info="南京西站 - 公交四公司" />
+          <Bus No="游1" Info="迈皋桥 - 中山陵停车场" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="珠江路" EName="ZHUJIANGLU"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="新街口" No="1" To="中国药科大学" Start="5:55" End="23:32" />
+      <Path Next="鼓楼" No="1" To="迈皋桥" Start="6:35" End="0:16" />
+    </Paths>
+    <Location Long="118.790692" Lat="32.057383" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="6路" Info="万寿停车场 - 清凉山公园" />
+          <Bus No="48路" Info="所街 - 白马公园" />
+          <Bus No="65路" Info="宁工新寓 - 双桥门" />
+          <Bus No="91路" Info="郑和南路 - 白马公园" />
+          <Bus No="132路" Info="北门桥 - 柳州东路总站" />
+          <Bus No="806路" Info="富贵山 - 清凉山公园" />
+        </Buses>
+      </Exit>
+      <Exit No="3">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="1路" Info="南堡公园 - 夫子庙" />
+          <Bus No="23路" Info="红花村 - 五洲装饰城" />
+          <Bus No="28路" Info="长途东站 - 湖西街" />
+          <Bus No="33路" Info="南京站 - 雨花台南大门" />
+          <Bus No="34路" Info="中山码头 - 五洲家具装饰广场" />
+          <Bus No="35路" Info="集庆门 - 窑上村" />
+          <Bus No="38路" Info="南堡公园 - 西街" />
+          <Bus No="100路" Info="挹江门 - 安德门" />
+          <Bus No="游2" Info="雨花台南门 - 灵谷寺公园" />
+        </Buses>
+      </Exit>
+      <Exit No="4">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="1路" Info="南堡公园 - 夫子庙" />
+          <Bus No="23路" Info="红花村 - 五洲装饰城" />
+          <Bus No="28路" Info="长途东站 - 湖西街" />
+          <Bus No="33路" Info="南京站 - 雨花台南大门" />
+          <Bus No="34路" Info="中山码头 - 五洲家具装饰广场" />
+          <Bus No="35路" Info="集庆门 - 窑上村" />
+          <Bus No="38路" Info="南堡公园 - 西街" />
+          <Bus No="100路" Info="挹江门 - 安德门" />
+          <Bus No="游2" Info="雨花台南门 - 灵谷寺公园" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="新街口" EName="XINJIEKOU"  HasRestroom="true" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="张府园" No="1" To="中国药科大学" Start="5:57" End="23:34" />
+      <Path Next="珠江路" No="1" To="迈皋桥" Start="6:33" End="0:13" />
+      <Path Next="上海路" No="2" To="油坊桥" Start="6:35" End="23:36" />
+      <Path Next="大行宫" No="2" To="经天路" Start="6:22" End="23:23" />
+    </Paths>
+    <Location Long="118.790638" Lat="32.047899" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="20">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="3路" Info="随家仓 - 随家仓" />
+          <Bus No="5路" Info="莫愁新寓 - 孝陵卫" />
+          <Bus No="9路" Info="中山陵 - 宁工新寓" />
+          <Bus No="25路" Info="北崮山 - 石林百货" />
+          <Bus No="18路" Info="新街口南站 - 水关桥" />
+          <Bus No="60路" Info="育才公寓 - 卡字门" />
+          <Bus No="302路" Info="管家桥 - 中山码头" />
+        </Buses>
+      </Exit>
+      <Exit No="24">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="1路" Info="南堡公园 - 夫子庙" />
+          <Bus No="3路" Info="随家仓 - 随家仓" />
+          <Bus No="5路" Info="莫愁新寓 - 孝陵卫" />
+          <Bus No="9路" Info="中山陵 - 宁工新寓" />
+          <Bus No="25路" Info="北崮山 - 石林百货" />
+          <Bus No="51路" Info="新街口东站 - 太阳城" />
+          <Bus No="163路" Info="南湾营 - 柳营" />
+          <Bus No="801路" Info="南京站 - 夫子庙" />
+          <Bus No="805路" Info="马群 - 金盛装饰城" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="张府园" EName="ZHANGFUYUAN"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="三山街" No="1" To="中国药科大学" Start="5:59" End="23:36" />
+      <Path Next="新街口" No="1" To="迈皋桥" Start="6:31" End="0:11" />
+    </Paths>
+    <Location Long="118.790472" Lat="32.037038" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="16路" Info="南京西站 - 新和源装饰城" />
+          <Bus No="28路" Info="长途东站 - 湖西街" />
+          <Bus No="33路" Info="南京站 - 雨花台南大门" />
+          <Bus No="35路" Info="集庆门 - 窑上村" />
+          <Bus No="41路" Info="河西金陵中学 - 新街口南站"/>
+          <Bus No="816路" Info="南京西站 - 公交四公司" />
+        </Buses>
+      </Exit>
+      <Exit No="2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="28路" Info="长途东站 - 湖西街" />
+          <Bus No="33路" Info="南京站 - 雨花台南大门" />
+          <Bus No="35路" Info="集庆门 - 窑上村" />
+          <Bus No="38路" Info="南堡公园 - 西街" />
+          <Bus No="41路" Info="河西金陵中学 - 新街口南站"/>
+          <Bus No="100路" Info="挹江门 - 安德门" />
+        </Buses>
+      </Exit>
+      <Exit No="3">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="28路" Info="长途东站 - 湖西街" />
+          <Bus No="41路" Info="河西金陵中学 - 新街口南站"/>
+          <Bus No="80路" Info="白鹭花园 - 富贵山" />
+          <Bus No="82路" Info="紫鑫中华广场 - 江南明珠" />
+          <Bus No="128路" Info="奥体新城 - 银城东苑" />
+          <Bus No="313路" Info="集庆门 - 经五立交" />
+          <Bus No="807路" Info="奥体新城 - 瑞金路" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="三山街" EName="SANSHANJIE"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="中华门" No="1" To="中国药科大学" Start="6:01" End="23:38" />
+      <Path Next="张府园" No="1" To="迈皋桥" Start="6:29" End="0:09" />
+    </Paths>
+    <Location Long="118.788100" Lat="32.028949" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="40路" Info="洋珠巷 - 月苑小区"/>
+          <Bus No="301路" Info="应天水产中心 - 光卡路" />
+        </Buses>
+      </Exit>
+      <Exit No="2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="35路" Info="集庆门 - 窑上村" />
+        </Buses>
+      </Exit>
+      <Exit No="3">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="4路" Info="新街口西站 - 银城东苑" />
+          <Bus No="7路" Info="瑞金路 - 棉花堤" />
+          <Bus No="16路" Info="南京西站 - 新和源装饰城" />
+          <Bus No="33路" Info="南京站 - 雨花台南大门" />
+          <Bus No="35路" Info="集庆门 - 窑上村" />
+          <Bus No="37路" Info="紫金明珠 - 万达广场北站" />
+          <Bus No="40路" Info="洋珠巷 - 月苑小区"/>
+          <Bus No="100路" Info="挹江门 - 安德门" />
+          <Bus No="804路" Info="银城东苑 - 新街口西站" />
+          <Bus No="816路" Info="南京西站 - 公交四公司" />
+          <Bus No="游4" Info="雨花台南大门 - 宁工新寓" />
+        </Buses>
+      </Exit>
+      <Exit No="4">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="23路" Info="红花村 - 五洲装饰城" />
+          <Bus No="100路" Info="挹江门 - 安德门" />
+          <Bus No="301路" Info="应天水产中心 - 光卡路" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="中华门" EName="ZHONGHUAMEN"  HasRestroom="false" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="安德门" No="1" To="中国药科大学" Start="6:04" End="23:41" />
+      <Path Next="三山街" No="1" To="迈皋桥" Start="6:26" End="0:06" />
+    </Paths>
+    <Location Long="118.781017" Lat="32.012838" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="2路" Info="西街 - 长途东站" />
+          <Bus No="16路" Info="南京西站 - 新和源装饰城" />
+          <Bus No="49路" Info="南京理工大 - 润泰市场" />
+          <Bus No="110路" Info="紫金明珠 - 元通东" />
+          <Bus No="126路" Info="双龙街西站东 - 棉花堤" />
+        </Buses>
+      </Exit>
+      <Exit No="2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="2路" Info="西街 - 长途东站" />
+          <Bus No="16路" Info="南京西站 - 新和源装饰城" />
+          <Bus No="19路" Info="育才公寓 - 宁南校区" />
+          <Bus No="38路" Info="南堡公园 - 西街" />
+          <Bus No="49路" Info="南京理工大 - 润泰市场" />
+          <Bus No="106路" Info="陈家桥 - 箍桶巷" />
+          <Bus No="110路" Info="紫金明珠 - 元通东" />
+          <Bus No="116路" Info="润泰市场 - 同曦鸣城南" />
+          <Bus No="126路" Info="双龙街西站东 - 棉花堤" />
+          <Bus No="317路" Info="新城市广场 - 双桥门" />
+          <Bus No="东奥线" Info="东山总站 - 奥体新城" />
+          <Bus No="胜中线" Info="盛泰桥 - 西街" />
+        </Buses>
+      </Exit>
+      <Exit No="3">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="86路" Info="农花村 - 河西金陵中学" />
+          <Bus No="94路" Info="梅山第二医院 - 集庆门" />
+          <Bus No="100路" Info="挹江门 - 安德门" />
+          <Bus No="101路" Info="长乐路 - 东山总站" />
+          <Bus No="105路" Info="中华门内 - 河海大学江宁校区" />
+          <Bus No="137路" Info="安德门 - 义乌小商品城" />
+          <Bus No="164路" Info="安德门 - 陈家桥" />
+          <Bus No="安铜线" Info="安德门 - 铜山" />
+          <Bus No="宁井线" Info="雨花台南大门 - 铜井" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="安德门" EName="ANDEMEN"  HasRestroom="false" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="天隆寺" No="1" To="中国药科大学" Start="6:07" End="23:44" />
+      <Path Next="中华门" No="1" To="迈皋桥" Start="6:23" End="0:03" />
+      <Path Next="小行" No="10" To="雨山路" Start="6:03" End="23:43" />
+    </Paths>
+    <Location Long="118.768252" Lat="31.997624" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="26路" Info="小行小区 - 云南北路" />
+          <Bus No="127路" Info="春江新城 - 宁工新寓" />
+        </Buses>
+      </Exit>
+      <Exit No="2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="26路" Info="小行小区 - 云南北路" />
+          <Bus No="75路" Info="宁工新寓 - 升景坊"/>
+          <Bus No="88路" Info="定坊工业园 - 双桥门" />
+          <Bus No="100路" Info="挹江门 - 安德门" />
+          <Bus No="111路" Info="润泰市场 - 将军山南站" />
+          <Bus No="113路" Info="荣国调剂市场 - 东宝路" />
+          <Bus No="127路" Info="春江新城 - 宁工新寓" />
+          <Bus No="137路" Info="安德门 - 义乌小商品城" />
+          <Bus No="148路" Info="天印山农贸大市场 - 安德门" />
+          <Bus No="164路" Info="安德门 - 陈家桥" />
+          <Bus No="169路" Info="西善花苑 - 小行小区" />
+          <Bus No="171路" Info="春江新城 - 安德门" />
+          <Bus No="清安线" Info="出口加工区客运站 - 安德门" />
+          <Bus No="安丹线" Info="安德门 - 小丹阳" />
+          <Bus No="安铜线" Info="安德门 - 铜山" />
+          <Bus No="安广线" Info="安德门 - 南广学院" />
+          <Bus No="雨石线" Info="雨花台南大门 - 石桥" />
+          <Bus No="雨乌线" Info="雨花台南大门 - 乌江" />
+          <Bus No="雨谷线" Info="雨花台南大门 - 谷里" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="天隆寺" EName="TIANLONGSI"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="软件大道" No="1" To="中国药科大学" Start="6:09" End="23:46" />
+      <Path Next="安德门" No="1" To="迈皋桥" Start="6:21" End="0:01" />
+    </Paths>
+    <Location Long="118.769510" Lat="31.984999" />
+    <Exits>
+      <Exit No="2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="75路" Info="宁工新寓 - 升景坊"/>
+          <Bus No="88路" Info="定坊工业园 - 双桥门" />
+          <Bus No="94路" Info="梅山第二医院 - 集庆门" />
+          <Bus No="111路" Info="润泰市场 - 将军山南站" />
+          <Bus No="113路" Info="荣国调剂市场 - 东宝路" />
+          <Bus No="148路" Info="天印山农贸大市场 - 安德门" />
+          <Bus No="171路" Info="春江新城 - 安德门" />
+          <Bus No="820路" Info="公交车辆场 - 正洪街" />
+          <Bus No="雨谷线" Info="雨花台南大门 - 谷里" />
+        </Buses>
+      </Exit>
+      <Exit No="3">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="75路" Info="宁工新寓 - 升景坊"/>
+          <Bus No="88路" Info="定坊工业园 - 双桥门" />
+          <Bus No="94路" Info="梅山第二医院 - 集庆门" />
+          <Bus No="111路" Info="润泰市场 - 将军山南站" />
+          <Bus No="113路" Info="荣国调剂市场 - 东宝路" />
+          <Bus No="148路" Info="天印山农贸大市场 - 安德门" />
+          <Bus No="171路" Info="春江新城 - 安德门" />
+          <Bus No="820路" Info="公交车辆场 - 正洪街" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="软件大道" EName="RUANJIANDADAO"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="花神庙" No="1" To="中国药科大学" Start="6:11" End="23:48" />
+      <Path Next="天隆寺" No="1" To="迈皋桥" Start="6:18" End="23:59" />
+    </Paths>
+    <Location Long="118.781305" Lat="31.983287" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="46路" Info="鼓楼北站 - 景明佳园" />
+          <Bus No="61路" Info="景明佳园 - 五洲装饰城" />
+          <Bus No="98路" Info="春江新城 - 象房村" />
+          <Bus No="99路" Info="景明佳园 - 杨庄" />
+          <Bus No="105路" Info="中华门内 - 河海大学江宁校区" />
+          <Bus No="148路" Info="天印山农贸大市场 - 安德门" />
+        </Buses>
+      </Exit>
+      <Exit No="2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="105路" Info="中华门内 - 河海大学江宁校区" />
+          <Bus No="112路" Info="光卡路 - 西天寺公墓" />
+          <Bus No="120路" Info="富丽山庄 - 小行小区" />
+          <Bus No="148路" Info="天印山农贸大市场 - 安德门" />
+          <Bus No="安广线" Info="安德门 - 南广学院" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="花神庙" EName="HUASHENMIAO"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="南京南站" No="1" To="中国药科大学" Start="6:13" End="23:50" />
+      <Path Next="软件大道" No="1" To="迈皋桥" Start="6:16" End="23:57" />
+    </Paths>
+    <Location Long="118.792179" Lat="31.984149" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="46路" Info="鼓楼北站 - 景明佳园" />
+          <Bus No="99路" Info="景明佳园 - 杨庄" />
+          <Bus No="112路" Info="光卡路 - 西天寺公墓" />
+          <Bus No="120路" Info="富丽山庄 - 小行小区" />
+          <Bus No="129路" Info="南京南站 - 东宝路" />
+        </Buses>
+      </Exit>
+      <Exit No="2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="46路" Info="鼓楼北站 - 景明佳园" />
+          <Bus No="99路" Info="景明佳园 - 杨庄" />
+          <Bus No="112路" Info="光卡路 - 西天寺公墓" />
+          <Bus No="120路" Info="富丽山庄 - 小行小区" />
+          <Bus No="129路" Info="南京南站 - 东宝路" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="南京南站" EName="NANJING SOUTH RAILWAY STATION"  HasRestroom="true" CanRecharge="true" CanTransfer="true" IsRailwayStation="true" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="双龙大道" No="1" To="中国药科大学" Start="6:16" End="23:53" />
+      <Path Next="花神庙" No="1" To="迈皋桥" Start="6:13" End="23:54" />
+      <Path Next="宏运大道" No="3" To="秣周东路" Start="6:52" End="23:52" />
+      <Path Next="明发广场" No="3" To="林场" Start="6:19" End="23:19" />
+      <Path Next="翠屏山" No="S1" To="禄口机场" Start="6:00" End="22:00" />
+    </Paths>
+    <Location Long="118.804090" Lat="31.976338" />
+    <Exits>
+      <Exit No="3">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="19路" Info="育才公寓 - 宁南校区" />
+          <Bus No="84路" Info="南京南站 - 南京理工大学" />
+          <Bus No="116路" Info="润泰市场 - 同曦鸣城南" />
+          <Bus No="129路" Info="南京南站 - 东宝路" />
+          <Bus No="190路" Info="南京南站 - 南京站" />
+          <Bus No="719路" Info="南京南站 - 武夷绿洲" />
+          <Bus No="791路" Info="南京南站 - 农副产品物流中心" />
+          <Bus No="792路" Info="南京南站 - 出口加工区客运站" />
+          <Bus No="D12" Info="南京南站 - 中山码头" />
+          <Bus No="Y16" Info="南京南站 - 南京西站" />
+          <Bus No="Y27" Info="南京南站 - 东山总站" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="双龙大道" EName="SHUANGLONGDADAO"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="河定桥" No="1" To="中国药科大学" Start="6:19" End="23:56" />
+      <Path Next="南京南站" No="1" To="迈皋桥" Start="6:10" End="23:50" />
+    </Paths>
+    <Location Long="118.823669" Lat="31.969975" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="101路" Info="长乐路 - 东山总站" />
+          <Bus No="104路" Info="文化名园 - 解放南路" />
+          <Bus No="192路" Info="南京南站 - 出口加工区客运站" />
+          <Bus No="安禄线" Info="安德门 - 禄口客运站" />
+          <Bus No="安铜线" Info="安德门 - 铜山" />
+        </Buses>
+      </Exit>
+      <Exit No="2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="104路" Info="文化名园 - 解放南路" />
+          <Bus No="192路" Info="南京南站 - 出口加工区客运站" />
+          <Bus No="安禄线" Info="安德门 - 禄口客运站" />
+          <Bus No="安铜线" Info="安德门 - 铜山" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="河定桥" EName="HEDINGQIAO"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="胜太路" No="1" To="中国药科大学" Start="6:21" End="23:59" />
+      <Path Next="双龙大道" No="1" To="迈皋桥" Start="6:08" End="23:48" />
+    </Paths>
+    <Location Long="118.826687" Lat="31.958089" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="192路" Info="南京南站 - 出口加工区客运站" />
+          <Bus No="江18" Info="天印高级中学北门 - 水阁路客运站" />
+          <Bus No="区内1" Info="清水亭东路千花溪 - 东山总站" />
+          <Bus No="区内2" Info="秦淮社区 - 事故处理服务中心" />
+          <Bus No="区内4" Info="东山总站 - 百家湖中学" />
+          <Bus No="区内20" Info="天印高级中学北门 - 水阁路客运站" />
+          <Bus No="区内21" Info="通盛公司 - 同仁客运站" />
+          <Bus No="区内29" Info="河定桥客运站 - 宁杭高铁江宁站" />
+          <Bus No="安禄线" Info="安德门 - 禄口客运站" />
+          <Bus No="安铜线" Info="安德门 - 铜山" />
+          <Bus No="东谷线" Info="通盛公司 - 谷里" />
+          <Bus No="东井线" Info="东山总站 - 铜井" />
+          <Bus No="东禄线" Info="义乌小商品城 - 禄口" />
+          <Bus No="东铜线" Info="铜山 - 义乌小商品城" />
+          <Bus No="金丹线" Info="金宝市场 - 小丹阳" />
+          <Bus No="金陆线" Info="金宝市场 - 陆郎" />
+          <Bus No="金秣线" Info="金宝市场 - 秣陵" />
+          <Bus No="胜周线" Info="江宁开发区 - 周港" />
+        </Buses>
+      </Exit>
+      <Exit No="2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="101路" Info="长乐路 - 东山总站" />
+          <Bus No="821路" Info="安德门 - 东山总站" />
+          <Bus No="江18" Info="天印高级中学北门 - 水阁路客运站" />
+          <Bus No="区内2" Info="秦淮社区 - 事故处理服务中心" />
+          <Bus No="区内12" Info="陈家桥 - 方山" />
+          <Bus No="区内20" Info="天印高级中学北门 - 水阁路客运站" />
+          <Bus No="区内21" Info="通盛公司 - 同仁客运站" />
+          <Bus No="金陆线" Info="金宝市场 - 陆郎" />
+          <Bus No="胜周线" Info="江宁开发区 - 周港" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="胜太路" EName="SHENGTAILU"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="百家湖" No="1" To="中国药科大学" Start="6:23" End="0:01" />
+      <Path Next="河定桥" No="1" To="迈皋桥" Start="6:06" End="23:46" />
+    </Paths>
+    <Location Long="118.828066" Lat="31.950104" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="192路" Info="南京南站 - 出口加工区客运站" />
+          <Bus No="区内1" Info="清水亭东路千花溪 - 东山总站" />
+          <Bus No="区内4" Info="东山总站 - 百家湖中学" />
+          <Bus No="安禄线" Info="安德门 - 禄口客运站" />
+          <Bus No="安铜线" Info="安德门 - 铜山" />
+          <Bus No="东谷线" Info="通盛公司 - 谷里" />
+          <Bus No="东禄线" Info="义乌小商品城 - 禄口" />
+          <Bus No="东铜线" Info="铜山 - 义乌小商品城" />
+          <Bus No="金丹线" Info="金宝市场 - 小丹阳" />
+          <Bus No="金秣线" Info="金宝市场 - 秣陵" />
+        </Buses>
+      </Exit>
+      <Exit No="2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="区内1" Info="清水亭东路千花溪 - 东山总站" />
+          <Bus No="区内3" Info="江宁开发区 - 江宁大学城" />
+          <Bus No="区内4" Info="东山总站 - 百家湖中学" />
+        </Buses>
+      </Exit>
+      <Exit No="3">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="4">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="百家湖" EName="BAIJIAHU"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="小龙湾" No="1" To="中国药科大学" Start="6:25" End="0:03" />
+      <Path Next="胜太路" No="1" To="迈皋桥" Start="6:04" End="23:44" />
+    </Paths>
+    <Location Long="118.827743" Lat="31.938289" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="小龙湾" EName="XIAOLONGWAN"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="竹山路" No="1" To="中国药科大学" Start="6:28" End="0:06" />
+      <Path Next="百家湖" No="1" To="迈皋桥" Start="6:01" End="23:42" />
+    </Paths>
+    <Location Long="118.839578" Lat="31.935722" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="竹山路" EName="ZHUSHANLU"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="天印大道" No="1" To="中国药科大学" Start="6:30" End="0:08" />
+      <Path Next="小龙湾" No="1" To="迈皋桥" Start="5:59" End="23:39" />
+    </Paths>
+    <Location Long="118.851238" Lat="31.937768" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="天印大道" EName="TIANYINDADAO"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="龙眠大道" No="1" To="中国药科大学" Start="6:33" End="0:10" />
+      <Path Next="竹山路" No="1" To="迈皋桥" Start="5:57" End="23:37" />
+    </Paths>
+    <Location Long="118.870219" Lat="31.943390" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="龙眠大道" EName="LONGMIANDADAO"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="南医大·江苏经贸学院" No="1" To="中国药科大学" Start="6:35" End="0:12" />
+      <Path Next="天印大道" No="1" To="迈皋桥" Start="5:54" End="23:35" />
+    </Paths>
+    <Location Long="118.883783" Lat="31.945777" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="南医大·江苏经贸学院" EName="NMU/JIETT"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="南京交院" No="1" To="中国药科大学" Start="6:37" End="0:15" />
+      <Path Next="龙眠大道" No="1" To="迈皋桥" Start="5:52" End="23:32" />
+    </Paths>
+    <Location Long="118.896800" Lat="31.939530" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="南京交院" EName="NJCI"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="中国药科大学" No="1" To="中国药科大学" Start="6:40" End="0:18" />
+      <Path Next="南医大·江苏经贸学院" No="1" To="迈皋桥" Start="5:49" End="23:29" />
+    </Paths>
+    <Location Long="118.911280" Lat="31.919070" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="中国药科大学" EName="CPU"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="南京交院" No="1" To="迈皋桥" Start="5:47" End="23:27" />
+    </Paths>
+    <Location Long="118.920591" Lat="31.904005" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="经天路" EName="JINGTIANLU"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="南大仙林校区" No="2" To="油坊桥" Start="6:00" End="23:00" />
+    </Paths>
+    <Location Long="118.983086" Lat="32.121777" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="南大仙林校区" EName="NJU XIANLIN CAMPUS"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="羊山公园" No="2" To="油坊桥" Start="6:02" End="23:03" />
+      <Path Next="经天路" No="2" To="经天路" Start="6:54" End="23:55" />
+    </Paths>
+    <Location Long="118.966032" Lat="32.114637" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="羊山公园" EName="YANGSHANGONGYUAN"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="仙林中心" No="2" To="油坊桥" Start="6:04" End="23:05" />
+      <Path Next="南大仙林校区" No="2" To="经天路" Start="6:51" End="23:52" />
+    </Paths>
+    <Location Long="118.946626" Lat="32.110114" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="仙林中心" EName="XIANLINZHONGXIN"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="学则路" No="2" To="油坊桥" Start="6:06" End="23:07" />
+      <Path Next="羊山公园" No="2" To="经天路" Start="6:50" End="23:50" />
+    </Paths>
+    <Location Long="118.936815" Lat="32.105010" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="学则路" EName="XUEZELU"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="仙鹤门" No="2" To="油坊桥" Start="6:08" End="23:09" />
+      <Path Next="仙林中心" No="2" To="经天路" Start="6:47" End="23:48" />
+    </Paths>
+    <Location Long="118.923170" Lat="32.097635" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="仙鹤门" EName="XIANHEMEN"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="金马路" No="2" To="油坊桥" Start="6:10" End="23:11" />
+      <Path Next="学则路" No="2" To="经天路" Start="6:45" End="23:46" />
+    </Paths>
+    <Location Long="118.911245" Lat="32.091073" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="金马路" EName="JINMALU"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="马群" No="2" To="油坊桥" Start="6:13" End="23:14" />
+      <Path Next="仙鹤门" No="2" To="经天路" Start="6:43" End="23:44" />
+    </Paths>
+    <Location Long="118.912462" Lat="32.078052" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="马群" EName="MAQUN"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="钟灵街" No="2" To="油坊桥" Start="6:17" End="23:18" />
+      <Path Next="金马路" No="2" To="经天路" Start="6:39" End="23:40" />
+    </Paths>
+    <Location Long="118.901327" Lat="32.055722" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="钟灵街" EName="ZHONGLINGJIE"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="孝陵卫" No="2" To="油坊桥" Start="6:21" End="23:21" />
+      <Path Next="马群" No="2" To="经天路" Start="6:36" End="23:37" />
+    </Paths>
+    <Location Long="118.876134" Lat="32.044953" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="孝陵卫" EName="XIAOLINGWEI"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="下马坊" No="2" To="油坊桥" Start="6:23" End="23:23" />
+      <Path Next="钟灵街" No="2" To="经天路" Start="6:34" End="23:35" />
+    </Paths>
+    <Location Long="118.865009" Lat="32.041139" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="下马坊" EName="XIAMAFANG"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="苜蓿园" No="2" To="油坊桥" Start="6:24" End="23:25" />
+      <Path Next="孝陵卫" No="2" To="经天路" Start="6:32" End="23:33" />
+    </Paths>
+    <Location Long="118.855258" Lat="32.043163" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="苜蓿园" EName="MUXUYUAN"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="明故宫" No="2" To="油坊桥" Start="6:26" End="23:27" />
+      <Path Next="下马坊" No="2" To="经天路" Start="6:30" End="23:31" />
+    </Paths>
+    <Location Long="118.841352" Lat="32.045948" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="明故宫" EName="MINGGUGONG"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="西安门" No="2" To="油坊桥" Start="6:29" End="23:29" />
+      <Path Next="苜蓿园" No="2" To="经天路" Start="6:28" End="23:29" />
+    </Paths>
+    <Location Long="118.826283" Lat="32.045386" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="西安门" EName="XI'ANMEN"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="大行宫" No="2" To="油坊桥" Start="6:31" End="23:32" />
+      <Path Next="明故宫" No="2" To="经天路" Start="6:26" End="23:26" />
+    </Paths>
+    <Location Long="118.811941" Lat="32.046530" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="大行宫" EName="DAXINGGONG"  HasRestroom="true" CanRecharge="false" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="新街口" No="2" To="油坊桥" Start="6:33" End="23:33" />
+      <Path Next="西安门" No="2" To="经天路" Start="6:24" End="23:25" />
+      <Path Next="常府街" No="3" To="秣周东路" Start=":" End=":" />
+      <Path Next="浮桥" No="3" To="林场" Start=":" End=":" />
+    </Paths>
+    <Location Long="118.801234" Lat="32.047513" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="上海路" EName="SHANGHAILU"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="汉中门" No="2" To="油坊桥" Start="6:35" End="23:36" />
+      <Path Next="新街口" No="2" To="经天路" Start="6:22" End="23:23" />
+    </Paths>
+    <Location Long="118.782648" Lat="32.048312" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="汉中门" EName="HANZHONGMEN"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="莫愁湖" No="2" To="油坊桥" Start="6:38" End="23:39" />
+      <Path Next="上海路" No="2" To="经天路" Start="6:18" End="23:19" />
+    </Paths>
+    <Location Long="118.773498" Lat="32.048630" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="莫愁湖" EName="MOCHOUHU"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="云锦路" No="2" To="油坊桥" Start="6:40" End="23:41" />
+      <Path Next="汉中门" No="2" To="经天路" Start="6:16" End="23:17" />
+    </Paths>
+    <Location Long="118.764960" Lat="32.043435" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="云锦路" EName="YUNJINLU"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="集庆门大街" No="2" To="油坊桥" Start="6:42" End="23:41" />
+      <Path Next="莫愁湖" No="2" To="经天路" Start="6:14" End="23:15" />
+    </Paths>
+    <Location Long="118.753731" Lat="32.040676" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="集庆门大街" EName="JIQINGMENDAJIE"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="兴隆大街" No="2" To="油坊桥" Start="6:45" End="23:45" />
+      <Path Next="云锦路" No="2" To="经天路" Start="6:12" End="23:12" />
+    </Paths>
+    <Location Long="118.746176" Lat="32.033885" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="兴隆大街" EName="XINGLONGDAJIE"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="奥体东" No="2" To="油坊桥" Start="6:47" End="23:48" />
+      <Path Next="集庆门大街" No="2" To="经天路" Start="6:09" End="23:10" />
+    </Paths>
+    <Location Long="118.742538" Lat="32.020966" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="奥体东" EName="OLYMPIC STADIUM EAST"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="元通" No="2" To="油坊桥" Start="6:49" End="23:50" />
+      <Path Next="兴隆大街" No="2" To="经天路" Start="6:07" End="23:08" />
+    </Paths>
+    <Location Long="118.735846" Lat="32.010568" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="元通" EName="YUANTONG"  HasRestroom="true" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="雨润大街" No="2" To="油坊桥" Start="6:51" End="23:52" />
+      <Path Next="奥体东" No="2" To="经天路" Start="6:05" End="23:06" />
+      <Path Next="中胜" No="10" To="安德门" Start="6:05" End="23:25" />
+      <Path Next="奥体中心" No="10" To="雨山路" Start="6:07" End="23:47" />
+    </Paths>
+    <Location Long="118.727891" Lat="32.001493" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="雨润大街" EName="YURUNDAJIE"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="油坊桥" No="2" To="油坊桥" Start="6:53" End="23:54" />
+      <Path Next="元通" No="2" To="经天路" Start="6:03" End="23:04" />
+    </Paths>
+    <Location Long="118.729113" Lat="31.989497" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="油坊桥" EName="YOUFANGQIAO"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="雨润大街" No="2" To="经天路" Start="6:00" End="23:00" />
+    </Paths>
+    <Location Long="118.727995" Lat="31.972322" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="林场" EName="LINCHANG"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="星火路" No="3" To="秣周东路" Start="6:00" End="23:00" />
+    </Paths>
+    <Location Long="118.678220" Lat="32.170105" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="星火路" EName="XINGHUOLU"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="东大成贤学院" No="3" To="秣周东路" Start="6:02" End="23:02" />
+      <Path Next="林场" No="3" To="林场" Start="7:08" End="0:08" />
+    </Paths>
+    <Location Long="118.703646" Lat="32.163835" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="东大成贤学院" EName="SEU CHENGXIAN COLLEGE"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="泰冯路" No="3" To="秣周东路" Start="6:04" End="23:04" />
+      <Path Next="星火路" No="3" To="林场" Start="7:06" End="0:06" />
+    </Paths>
+    <Location Long="118.714650" Lat="32.162387" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="泰冯路" EName="TAIFENGLU"  HasRestroom="true" CanRecharge="false" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="天润城" No="3" To="秣周东路" Start="6:07" End="23:07" />
+      <Path Next="东大成贤学院" No="3" To="林场" Start="7:04" End="0:04" />
+      <Path Next="泰山新村" No="S8" To="泰山新村" Start="6:49" End="22:49" />
+      <Path Next="高新开发区" No="S8" To="金牛湖" Start="6:01" End="22:01" />
+    </Paths>
+    <Location Long="118.725246" Lat="32.159498" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="天润城" EName="TIANRUNCHENG"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="柳洲东路" No="3" To="秣周东路" Start="6:09" End="23:09" />
+      <Path Next="泰冯路" No="3" To="林场" Start="7:01" End="0:01" />
+    </Paths>
+    <Location Long="118.740831" Lat="32.156449" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="柳洲东路" EName="LIUZHOUDONGLU"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="上元门" No="3" To="秣周东路" Start="6:12" End="23:12" />
+      <Path Next="天润城" No="3" To="林场" Start="6:58" End="23:58" />
+    </Paths>
+    <Location Long="118.752950" Lat="32.145596" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="上元门" EName="SHANGYUANMEN"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="五塘广场" No="3" To="秣周东路" Start="6:17" End="23:17" />
+      <Path Next="柳洲东路" No="3" To="林场" Start="6:55" End="23:55" />
+    </Paths>
+    <Location Long="118.776359" Lat="32.121628" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="五塘广场" EName="WUTANGGUANGCHANG"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="小市" No="3" To="秣周东路" Start="6:18" End="23:18" />
+      <Path Next="上元门" No="3" To="林场" Start="6:53" End="23:53" />
+    </Paths>
+    <Location Long="118.784152" Lat="32.116548" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="小市" EName="XIAOSHI"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="南京站" No="3" To="秣周东路" Start="6:21" End="23:21" />
+      <Path Next="五塘广场" No="3" To="林场" Start="6:50" End="23:50" />
+    </Paths>
+    <Location Long="118.791810" Lat="32.101741" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="南京林业大学·新庄" EName="NFU/XINZHUANG"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="鸡鸣寺" No="3" To="秣周东路" Start="6:27" End="23:27" />
+      <Path Next="南京站" No="3" To="林场" Start="6:44" End="23:44" />
+    </Paths>
+    <Location Long="118.816738" Lat="32.082897" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="鸡鸣寺" EName="JIMINGSI"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="浮桥" No="3" To="秣周东路" Start="6:30" End="23:30" />
+      <Path Next="南京林业大学·新庄" No="3" To="林场" Start="6:40" End="23:40" />
+    </Paths>
+    <Location Long="118.804369" Lat="32.063155" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="浮桥" EName="FUQIAO"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="大行宫" No="3" To="秣周东路" Start="6:32" End="23:32" />
+      <Path Next="鸡鸣寺" No="3" To="林场" Start="6:38" End="23:38" />
+    </Paths>
+    <Location Long="118.802752" Lat="32.055520" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="常府街" EName="CHANGFUJIE"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="夫子庙" No="3" To="秣周东路" Start="6:37" End="23:37" />
+      <Path Next="大行宫" No="3" To="林场" Start="6:34" End="23:34" />
+    </Paths>
+    <Location Long="118.798673" Lat="32.039945" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="夫子庙" EName="FUZIMIAO"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="武定门" No="3" To="秣周东路" Start="6:39" End="23:39" />
+      <Path Next="常府街" No="3" To="林场" Start="6:32" End="23:32" />
+    </Paths>
+    <Location Long="118.797564" Lat="32.029936" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="武定门" EName="WUDINGMEN"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="雨花门" No="3" To="秣周东路" Start="6:41" End="23:41" />
+      <Path Next="夫子庙" No="3" To="林场" Start="6:30" End="23:30" />
+    </Paths>
+    <Location Long="118.801009" Lat="32.019948" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="雨花门" EName="YUHUAMEN"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="卡子门" No="3" To="秣周东路" Start="6:43" End="23:43" />
+      <Path Next="武定门" No="3" To="林场" Start="6:28" End="23:28" />
+    </Paths>
+    <Location Long="118.798687" Lat="32.010385" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="卡子门" EName="KAZIMEN"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="大明路" No="3" To="秣周东路" Start="6:45" End="23:45" />
+      <Path Next="雨花门" No="3" To="林场" Start="6:26" End="23:26" />
+    </Paths>
+    <Location Long="118.801975" Lat="32.001451" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="大明路" EName="DAMINGLU"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="明发广场" No="3" To="秣周东路" Start="6:47" End="23:47" />
+      <Path Next="卡子门" No="3" To="林场" Start="6:23" End="23:23" />
+    </Paths>
+    <Location Long="118.806520" Lat="31.992287" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="明发广场" EName="MINGFAGUANGCHANG"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="南京南站" No="3" To="秣周东路" Start="6:49" End="23:49" />
+      <Path Next="大明路" No="3" To="林场" Start="6:21" End="23:21" />
+    </Paths>
+    <Location Long="118.806902" Lat="31.983414" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="宏运大道" EName="HONGYUNDADAO"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="胜太西路" No="3" To="秣周东路" Start="6:54" End="23:54" />
+      <Path Next="南京南站" No="3" To="林场" Start="6:17" End="23:17" />
+    </Paths>
+    <Location Long="118.810221" Lat="31.9365698" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="胜太西路" EName="SHENGTAIXILU"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="天元西路" No="3" To="秣周东路" Start="6:57" End="23:57" />
+      <Path Next="宏运大道" No="3" To="林场" Start="6:14" End="23:14" />
+    </Paths>
+    <Location Long="118.813769" Lat="31.949943" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="天元西路" EName="TIANYUANXILU"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="九龙湖" No="3" To="秣周东路" Start="7:00" End="0:00" />
+      <Path Next="胜太西路" No="3" To="林场" Start="6:11" End="23:11" />
+    </Paths>
+    <Location Long="118.814955" Lat="31.934497" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="九龙湖" EName="JIULONGHU"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="诚信大道" No="3" To="秣周东路" Start="7:03" End="0:03" />
+      <Path Next="天元西路" No="3" To="林场" Start="6:08" End="23:08" />
+    </Paths>
+    <Location Long="118.827680" Lat="31.922081" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="诚信大道" EName="CHENGXINDADAO"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="东大九龙湖校区" No="3" To="秣周东路" Start="7:06" End="0:06" />
+      <Path Next="九龙湖" No="3" To="林场" Start="6:05" End="23:05" />
+    </Paths>
+    <Location Long="118.836299" Lat="31.914614" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="东大九龙湖校区" EName="SEU JIULONGHU CAMPUS"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="秣周东路" No="3" To="秣周东路" Start="7:08" End="0:08" />
+      <Path Next="诚信大道" No="3" To="林场" Start="6:03" End="23:03" />
+    </Paths>
+    <Location Long="118.837035" Lat="31.901943" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="秣周东路" EName="MOZHOUDONGLU"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="东大九龙湖校区" No="3" To="林场" Start="6:00" End="23:00" />
+    </Paths>
+    <Location Long="118.837813" Lat="31.8760786" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="雨山路" EName="YUSHANLU"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="文德路" No="10" To="安德门" Start="5:40" End="23:00" />
+    </Paths>
+    <Location Long="118.621613" Lat="32.049969" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="文德路" EName="WENDELU"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="龙华路" No="10" To="安德门" Start="5:42" End="23:02" />
+      <Path Next="雨山路" No="10" To="雨山路" Start="6:31" End="0:11" />
+    </Paths>
+    <Location Long="118.633214" Lat="32.063044" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="龙华路" EName="LONGHUALU"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="南京工业大学" No="10" To="安德门" Start="5:44" End="23:04" />
+      <Path Next="文德路" No="10" To="雨山路" Start="6:29" End="0:09" />
+    </Paths>
+    <Location Long="118.642040" Lat="32.070514" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="南京工业大学" EName="NANJING TECH"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="浦口万汇城" No="10" To="安德门" Start="5:47" End="6:26" />
+      <Path Next="龙华路" No="10" To="雨山路" Start="23:07" End="0:06" />
+    </Paths>
+    <Location Long="118.654805" Lat="32.082721" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="浦口万汇城" EName="PUKOUWANHUICHENG"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="临江" No="10" To="安德门" Start="5:49" End="23:09" />
+      <Path Next="南京工业大学" No="10" To="雨山路" Start="6:24" End="0:04" />
+    </Paths>
+    <Location Long="118.662993" Lat="32.068273" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="临江" EName="LINJIANG"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="江心洲" No="10" To="安德门" Start="5:51" End="23:11" />
+      <Path Next="浦口万汇城" No="10" To="雨山路" Start="6:22" End="0:02" />
+    </Paths>
+    <Location Long="118.671734" Lat="32.063468" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="江心洲" EName="JIANGXINZHOU"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="绿博园" No="10" To="安德门" Start="5:56" End="6:17" />
+      <Path Next="临江" No="10" To="雨山路" Start="23:16" End="23:57" />
+    </Paths>
+    <Location Long="118.710352" Lat="32.038396" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="绿博园" EName="LǜBOYUAN"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="梦都大街" No="10" To="安德门" Start="5:58" End="6:15" />
+      <Path Next="江心洲" No="10" To="雨山路" Start="23:18" End="23:55" />
+    </Paths>
+    <Location Long="118.723759" Lat="32.030108" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="梦都大街" EName="MENGDUDAJIE"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="奥体中心" No="10" To="安德门" Start="6:01" End="6:12" />
+      <Path Next="绿博园" No="10" To="雨山路" Start="23:21" End="23:52" />
+    </Paths>
+    <Location Long="118.728363" Lat="32.021403" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="奥体中心" EName="OLYMPIC STADIUM"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="元通" No="10" To="安德门" Start="6:02" End="6:10" />
+      <Path Next="梦都大街" No="10" To="雨山路" Start="23:22" End="23:50" />
+    </Paths>
+    <Location Long="118.724770" Lat="32.014782" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="中胜" EName="ZHONGSHENG"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="小行" No="10" To="安德门" Start="6:08" End="6:05" />
+      <Path Next="元通" No="10" To="雨山路" Start="23:28" End="23:45" />
+    </Paths>
+    <Location Long="118.740203" Lat="31.993777" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="小行" EName="XIAOHANG"  HasRestroom="false" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="安德门" No="10" To="安德门" Start="6:10" End="6:03" />
+      <Path Next="中胜" No="10" To="雨山路" Start="23:30" End="23:43" />
+    </Paths>
+    <Location Long="118.751310" Lat="31.988096" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="翠屏山" EName="CUIPINGSHAN"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="河海大学·佛城西路" No="S1" To="禄口机场" Start="6:05" End="22:05" />
+      <Path Next="南京南站" No="S1" To="南京南站" Start="7:09" End="22:29" />
+    </Paths>
+    <Location Long="118.791159" Lat="31.948637" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="河海大学·佛城西路" EName="HHU.FOCHENGXILU"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="吉印大道" No="S1" To="禄口机场" Start="6:09" End="22:09" />
+      <Path Next="翠屏山" No="S1" To="南京南站" Start="7:05" End="22:25" />
+    </Paths>
+    <Location Long="118.797762" Lat="31.920461" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="吉印大道" EName="JIYINDADAO"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="正方中路" No="S1" To="禄口机场" Start="6:13" End="7:01" />
+      <Path Next="河海大学·佛城西路" No="S1" To="南京南站" Start="22:13" End="22:21" />
+    </Paths>
+    <Location Long="118.802064" Lat="31.892313" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="正方中路" EName="ZHENGFANGZHONGLU"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="翔宇路北" No="S1" To="禄口机场" Start="6:18" End="6:56" />
+      <Path Next="吉印大道" No="S1" To="南京南站" Start="22:18" End="22:16" />
+    </Paths>
+    <Location Long="118.812229" Lat="31.851545" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="翔宇路北" EName="XIANGYULUBEI"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="翔宇路南" No="S1" To="禄口机场" Start="6:24" End="6:50" />
+      <Path Next="正方中路" No="S1" To="南京南站" Start="22:24" End="22:10" />
+    </Paths>
+    <Location Long="118.828115" Lat="31.797436" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="翔宇路南" EName="XIANGYULUNAN"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="禄口机场" No="S1" To="禄口机场" Start="6:28" End="6:46" />
+      <Path Next="翔宇路北" No="S1" To="南京南站" Start="22:28" End="22:06" />
+    </Paths>
+    <Location Long="118.835715" Lat="31.760750" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="禄口机场" EName="LUKOU INTERNATIONAL AIRPORT"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="true" Warning="">
+    <Paths>
+      <Path Next="翔宇路南" No="S1" To="禄口机场" Start="6:40" End="22:00" />
+    </Paths>
+    <Location Long="118.878968" Lat="31.739602" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="金牛湖" EName="JINNIUHU"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="八百桥" No="S8" To="泰山新村" Start="6:00" End="22:00" />
+    </Paths>
+    <Location Long="118.970501" Lat="32.470860" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="八百桥" EName="BABAIQIAO"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="沈桥" No="S8" To="泰山新村" Start="6:04" End="22:04" />
+      <Path Next="金牛湖" No="S8" To="金牛湖" Start="6:47" End="22:47" />
+    </Paths>
+    <Location Long="118.939770" Lat="32.433373" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="沈桥" EName="SHENQIAO"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="方州广场" No="S8" To="泰山新村" Start="6:09" End="22:09" />
+      <Path Next="八百桥" No="S8" To="金牛湖" Start="6:42" End="22:42" />
+    </Paths>
+    <Location Long="118.898088" Lat="32.405877" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="方州广场" EName="FANGZHOUGUANGCHANG"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="凤凰山公园" No="S8" To="泰山新村" Start="6:14" End="22:14" />
+      <Path Next="沈桥" No="S8" To="金牛湖" Start="6:36" End="22:36" />
+    </Paths>
+    <Location Long="118.856560" Lat="32.364950" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="凤凰山公园" EName="FENGHUANGSHAN PARK"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="雄州" No="S8" To="泰山新村" Start="6:17" End="22:17" />
+      <Path Next="方州广场" No="S8" To="金牛湖" Start="6:34" End="22:34" />
+    </Paths>
+    <Location Long="118.851830" Lat="32.352876" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="雄州" EName="XIONGZHOU"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="龙池" No="S8" To="泰山新村" Start="6:20" End="22:20" />
+      <Path Next="凤凰山公园" No="S8" To="金牛湖" Start="6:31" End="22:31" />
+    </Paths>
+    <Location Long="118.843130" Lat="32.340320" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="龙池" EName="LONGCHI"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="六合开发区" No="S8" To="泰山新村" Start="6:23" End="22:23" />
+      <Path Next="雄州" No="S8" To="金牛湖" Start="6:28" End="22:28" />
+    </Paths>
+    <Location Long="118.826750" Lat="32.325107" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="六合开发区" EName="LUHE DEVELOPMENT ZONE"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="化工园" No="S8" To="泰山新村" Start="6:25" End="22:25" />
+      <Path Next="龙池" No="S8" To="金牛湖" Start="6:26" End="22:26" />
+    </Paths>
+    <Location Long="118.811357" Lat="32.311395" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="化工园" EName="HUAGONGYUAN"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="长芦" No="S8" To="泰山新村" Start="6:29" End="22:29" />
+      <Path Next="六合开发区" No="S8" To="金牛湖" Start="6:22" End="22:22" />
+    </Paths>
+    <Location Long="118.791963" Lat="32.292156" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="长芦" EName="CHANGLU"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="葛塘" No="S8" To="泰山新村" Start="6:35" End="22:35" />
+      <Path Next="化工园" No="S8" To="金牛湖" Start="6:20" End="22:20" />
+    </Paths>
+    <Location Long="118.782836" Lat="32.279626" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="葛塘" EName="GETANG"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="大厂" No="S8" To="泰山新村" Start="6:35" End="22:35" />
+      <Path Next="长芦" No="S8" To="金牛湖" Start="6:16" End="22:16" />
+    </Paths>
+    <Location Long="118.760302" Lat="32.250357" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="大厂" EName="DACHANG"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="卸甲甸" No="S8" To="泰山新村" Start="6:40" End="22:40" />
+      <Path Next="葛塘" No="S8" To="金牛湖" Start="6:11" End="22:11" />
+    </Paths>
+    <Location Long="118.746616" Lat="32.234522" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="卸甲甸" EName="XIEJIADIAN"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="信息工程大学" No="S8" To="泰山新村" Start="6:40" End="22:40" />
+      <Path Next="大厂" No="S8" To="金牛湖" Start="6:11" End="22:11" />
+    </Paths>
+    <Location Long="118.737427" Lat="32.220796" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="信息工程大学" EName="NUIST"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="高新开发区" No="S8" To="泰山新村" Start="6:43" End="22:43" />
+      <Path Next="卸甲甸" No="S8" To="金牛湖" Start="6:08" End="22:08" />
+    </Paths>
+    <Location Long="118.733613" Lat="32.208405" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="高新开发区" EName="GAOXIN DEVELOPMENT ZONE"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="泰冯路" No="S8" To="泰山新村" Start="6:46" End="22:46" />
+      <Path Next="信息工程大学" No="S8" To="金牛湖" Start="6:05" End="22:05" />
+    </Paths>
+    <Location Long="118.726180" Lat="32.183560" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  <Station ID="" CName="泰山新村" EName="TAISHANXINCUN"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="泰冯路" No="S8" To="金牛湖" Start="6:00" End="22:00" />
+    </Paths>
+    <Location Long="118.722631" Lat="32.150465" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+</StationCollection>

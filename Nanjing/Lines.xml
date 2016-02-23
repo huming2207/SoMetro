@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LineCollection>
+  <Line No="1" Name="号线" ColorHex="#2897E6" From="迈皋桥" To="中国药科大学" Warning="">
+    <Stations>
+      <Station CName="迈皋桥" />
+      <Station CName="红山动物园" />
+      <Station CName="南京站" />
+      <Station CName="新模范马路" />
+      <Station CName="玄武门" />
+      <Station CName="鼓楼" />
+      <Station CName="珠江路" />
+      <Station CName="新街口" />
+      <Station CName="张府园" />
+      <Station CName="三山街" />
+      <Station CName="中华门" />
+      <Station CName="安德门" />
+      <Station CName="天隆寺" />
+      <Station CName="软件大道" />
+      <Station CName="花神庙" />
+      <Station CName="南京南站" />
+      <Station CName="双龙大道" />
+      <Station CName="河定桥" />
+      <Station CName="胜太路" />
+      <Station CName="百家湖" />
+      <Station CName="小龙湾" />
+      <Station CName="竹山路" />
+      <Station CName="天印大道" />
+      <Station CName="龙眠大道" />
+      <Station CName="南医大·江苏经贸学院" />
+      <Station CName="南京交院" />
+      <Station CName="中国药科大学" />
+    </Stations>
+  </Line>
+  <Line No="2" Name="号线" ColorHex="#E82A2A" From="经天路" To="油坊桥" Warning="">
+    <Stations>
+      <Station CName="经天路" />
+      <Station CName="南大仙林校区" />
+      <Station CName="羊山公园" />
+      <Station CName="仙林中心" />
+      <Station CName="学则路" />
+      <Station CName="仙鹤门" />
+      <Station CName="金马路" />
+      <Station CName="马群" />
+      <Station CName="钟灵街" />
+      <Station CName="孝陵卫" />
+      <Station CName="下马坊" />
+      <Station CName="苜蓿园" />
+      <Station CName="明故宫" />
+      <Station CName="西安门" />
+      <Station CName="大行宫" />
+      <Station CName="新街口" />
+      <Station CName="上海路" />
+      <Station CName="汉中门" />
+      <Station CName="莫愁湖" />
+      <Station CName="云锦路" />
+      <Station CName="集庆门大街" />
+      <Station CName="兴隆大街" />
+      <Station CName="奥体东" />
+      <Station CName="元通" />
+      <Station CName="雨润大街" />
+      <Station CName="油坊桥" />
+    </Stations>
+  </Line>
+  <Line No="3" Name="号线" ColorHex="#15B612" From="林场" To="秣周东路" Warning="">
+    <Stations>
+      <Station CName="林场" />
+      <Station CName="星火路" />
+      <Station CName="东大成贤学院" />
+      <Station CName="泰冯路" />
+      <Station CName="天润城" />
+      <Station CName="柳洲东路" />
+      <Station CName="上元门" />
+      <Station CName="五塘广场" />
+      <Station CName="小市" />
+      <Station CName="南京站" />
+      <Station CName="南京林业大学·新庄" />
+      <Station CName="鸡鸣寺" />
+      <Station CName="浮桥" />
+      <Station CName="大行宫" />
+      <Station CName="常府街" />
+      <Station CName="夫子庙" />
+      <Station CName="武定门" />
+      <Station CName="雨花门" />
+      <Station CName="卡子门" />
+      <Station CName="大明路" />
+      <Station CName="明发广场" />
+      <Station CName="南京南站" />
+      <Station CName="宏运大道" />
+      <Station CName="胜太西路" />
+      <Station CName="天元西路" />
+      <Station CName="九龙湖" />
+      <Station CName="诚信大道" />
+      <Station CName="东大九龙湖校区" />
+      <Station CName="秣周东路" />
+    </Stations>
+  </Line>
+  <Line No="10" Name="号线" ColorHex="#E6BE80" From="雨山路" To="安德门" Warning="">
+    <Stations>
+      <Station CName="雨山路" />
+      <Station CName="文德路" />
+      <Station CName="龙华路" />
+      <Station CName="南京工业大学" />
+      <Station CName="浦口万汇城" />
+      <Station CName="临江" />
+      <Station CName="江心洲" />
+      <Station CName="绿博园" />
+      <Station CName="梦都大街" />
+      <Station CName="奥体中心" />
+      <Station CName="元通" />
+      <Station CName="中胜" />
+      <Station CName="小行" />
+      <Station CName="安德门" />
+    </Stations>
+  </Line>
+  <Line No="S1" Name="机场线" ColorHex="#27D4C1" From="南京南站" To="禄口机场" Warning="">
+    <Stations>
+      <Station CName="南京南站" />
+      <Station CName="翠屏山" />
+      <Station CName="河海大学·佛城西路" />
+      <Station CName="吉印大道" />
+      <Station CName="正方中路" />
+      <Station CName="翔宇路北" />
+      <Station CName="翔宇路南" />
+      <Station CName="禄口机场" />
+    </Stations>
+  </Line>
+  <Line No="S8" Name="宁天线" ColorHex="#FB631A" From="金牛湖" To="泰山新村" Warning="">
+    <Stations>
+      <Station CName="金牛湖" />
+      <Station CName="八百桥" />
+      <Station CName="沈桥" />
+      <Station CName="方州广场" />
+      <Station CName="凤凰山公园" />
+      <Station CName="雄州" />
+      <Station CName="龙池" />
+      <Station CName="六合开发区" />
+      <Station CName="化工园" />
+      <Station CName="长芦" />
+      <Station CName="葛塘" />
+      <Station CName="大厂" />
+      <Station CName="卸甲甸" />
+      <Station CName="信息工程大学" />
+      <Station CName="高新开发区" />
+      <Station CName="泰冯路" />
+      <Station CName="泰山新村" />
+    </Stations>
+  </Line>
+</LineCollection>
