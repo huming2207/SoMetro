@@ -188,7 +188,7 @@
       <Station CName="体育中心南" />
       <Station CName="天河南" />
       <Station CName="黄埔大道" />
-      <Station CName="妇儿中心" />
+      <!--<Station CName="妇儿中心" />-->
       <Station CName="花城大道" />
       <Station CName="大剧院" />
       <Station CName="海心沙" />
