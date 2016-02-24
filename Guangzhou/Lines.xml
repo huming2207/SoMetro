@@ -50,38 +50,37 @@
     </Stations>
   </Line>
 
-  <Line No="3" Name="号线" ColorHex="#ff9900" From="天河客运站" To="番禺广场" Warning="">
+  <Line No="3" Name="号线" ColorHex="#ff9900" From="番禺广场/体育西路" To="天河客运站/机场南" Warning="">
     <Stations>
-      <Station CName="天河客运站" />
-      <Station CName="五山" />
-      <Station CName="华师" />
-      <Station CName="岗顶" />
-      <Station CName="石牌桥" />
-      <Station CName="体育西路" />
-      <Station CName="珠江新城" />
-      <Station CName="广州塔" />
-      <Station CName="客村" />
-      <Station CName="大塘" />
-      <Station CName="沥滘" />
-      <Station CName="厦滘" />
-      <Station CName="大石" />
-      <Station CName="汉溪长隆" />
-      <Station CName="市桥" />
       <Station CName="番禺广场" />
-      <Station CName="机场南" />
-      <!--<Station CName="高增" />-->
-      <Station CName="人和" />
-      <Station CName="龙归" />
-      <Station CName="嘉禾望岗" />
-      <Station CName="白云大道北" />
-      <Station CName="永泰" />
-      <Station CName="同和" />
-      <Station CName="京溪南方医院" />
-      <Station CName="梅花园" />
-      <Station CName="燕塘" />
-      <Station CName="广州东站" />
-      <Station CName="林和西" />
+      <Station CName="市桥" />
+      <Station CName="汉溪长隆" />
+      <Station CName="大石" />
+      <Station CName="厦滘" />
+      <Station CName="沥滘" />
+      <Station CName="大塘" />
+      <Station CName="客村" />
+      <Station CName="广州塔" />
+      <Station CName="珠江新城" />
       <Station CName="体育西路" />
+      <Station CName="石牌桥" />
+      <Station CName="岗顶" />
+      <Station CName="华师" />
+      <Station CName="五山" />
+      <Station CName="天河客运站" />
+      <Station CName="林和西" />
+      <Station CName="广州东站" />
+      <Station CName="燕塘" />
+      <Station CName="梅花园" />
+      <Station CName="京溪南方医院" />
+      <Station CName="同和" />
+      <Station CName="永泰" />
+      <Station CName="白云大道北" />
+      <Station CName="嘉禾望岗" />
+      <Station CName="龙归" />
+      <Station CName="人和" />
+      <!--<Station CName="高增" />-->
+      <Station CName="机场南" />
     </Stations>
   </Line>
 
@@ -183,13 +182,13 @@
     </Stations>
   </Line>
 
-<Line No="A" Name="PM" ColorHex="#99ff00" From="林和西" To="广州塔" Warning="">
+<Line No="A" Name="PM" ColorHex="#63B8FF" From="林和西" To="广州塔" Warning="">
     <Stations>
       <Station CName="林和西" />
       <Station CName="体育中心南" />
       <Station CName="天河南" />
       <Station CName="黄埔大道" />
-      <!--<Station CName="妇儿中心" />-->
+      <Station CName="妇儿中心" />
       <Station CName="花城大道" />
       <Station CName="大剧院" />
       <Station CName="海心沙" />
