@@ -219,7 +219,7 @@
       <Path Next="莲花北" No="4" To="清湖" Start="6:36" End="23:06" />
       <Path Next="市民中心" No="4" To="益田" Start="6:37" End="0:04" />
     </Paths>
-    <Location Long="114.0602210000" Lat="22.5294510000" />
+    <Location Long="114.0600090000" Lat="22.5454160000" />
     <Exits>
       <Exit No="1">
         <Guides>
@@ -299,6 +299,516 @@
       </Exit>
     </Exits>
 
+  </Station>
+  
+   <Station ID="" CName="少年宫" EName="Shaoniangong"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="莲花村" No="3" To="双龙" Start="6:39" End="23:09" />
+      <Path Next="福田" No="3" To="益田" Start="6:35" End="0:01" />
+      <Path Next="市民中心" No="4" To="福田口岸" Start="6:30" End="23:21" />
+      <Path Next="莲花北" No="4" To="清湖" Start="6:36" End="23:06" />
+    </Paths>
+    <Location Long="114.0671650000" Lat="22.5540480000" />
+    <Exits>
+      <Exit No="A1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="深圳少年宫" />
+              <Destination Name="地铁大厦" />
+              <Destination Name="深业花园" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="B2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="天健世纪花园" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="C">
+        <Guides>
+          <Guide Type="书店">
+            <Destinations>
+              <Destination Name="深圳中心书城（东）" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+     <Exit No="D">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="江苏大厦" />
+              <Destination Name="新世界中心" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+     <Exit No="E">
+        <Guides>
+          <Guide Type="书店">
+            <Destinations>
+              <Destination Name="深圳中心书城" />
+              <Destination Name="深圳儿童医院" />
+              <Destination Name="深圳音乐厅" />
+              <Destination Name="益田路" />
+              <Destination Name="福中一路" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="F1">
+        <Guides>
+          <Guide Type="景点">
+            <Destinations>
+              <Destination Name="莲花山公园" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+     <Exit No="F1">
+        <Guides>
+          <Guide Type="景点">
+            <Destinations>
+              <Destination Name="关山月美术馆" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  
+  <Station ID="" CName="莲花村" EName="Lianhuacun"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="华新" No="3" To="双龙" Start="6:39" End="23:09" />
+      <Path Next="少年宫" No="3" To="益田" Start="6:35" End="0:01" />
+    </Paths>
+    <Location Long="114.0743379563" Lat="22.5544135984" />
+    <Exits>
+      <Exit No="A">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="天健世纪花园" />
+              <Destination Name="深业花园" />
+              <Destination Name="中银花园" />
+              <Destination Name="雅颂居" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="B">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="福莲花园" />
+              <Destination Name="莲花小学" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="C">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="莲花二村" />
+              <Destination Name="莲花大厦" />
+              <Destination Name="莲花中学" />
+              <Destination Name="花卉世界" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+     <Exit No="D">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="莲花山公园" />
+              <Destination Name="关山月美术馆" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  
+  <Station ID="" CName="华新" EName="Huaxin"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="通新岭" No="3" To="双龙" Start="6:36" End="23:14" />
+      <Path Next="少年宫" No="3" To="益田" Start="6:30" End="23:56" />
+    </Paths>
+    <Location Long="114.0932562127" Lat="22.5548453819" />
+    <Exits>
+      <Exit No="A1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="儿童世界" />
+              <Destination Name="振兴宾馆" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="A2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="女人世界" />
+              <Destination Name="茂业商场" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="B">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="群星广场" />
+              <Destination Name="苏宁电器" />
+              <Destination Name="赛格科技园" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+     <Exit No="C">
+        <Guides>
+          <Guide Type="酒店">
+            <Destinations>
+              <Destination Name="圣廷苑酒店" />
+              <Destination Name="春满园酒店" />
+              <Destination Name="凤凰楼" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+     <Exit No="D">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="华新村" />
+              <Destination Name="交通银行大厦" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  
+  <Station ID="" CName="通新岭" EName="Tongxinling"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="红岭" No="3" To="双龙" Start="6:30" End="23:15" />
+      <Path Next="华新" No="3" To="益田" Start="6:37" End="23:54" />
+    </Paths>
+    <Location Long="114.1028450932" Lat="22.5552282349" />
+    <Exits>
+      <Exit No="A">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="四川大厦" />
+              <Destination Name="深圳外国语学校" />
+              <Destination Name="深勘大厦" />
+              <Destination Name="上步信托工贸大厦" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="B">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="通新岭小区" />
+              <Destination Name="市少儿图书馆" />
+              <Destination Name="园岭村" />
+              <Destination Name="荔园小学" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="C">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="园岭新村" />
+              <Destination Name="荔湖花苑大厦" />
+              <Destination Name="中国邮政储蓄" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+     <Exit No="D">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="深圳市妇幼保健院" />
+              <Destination Name="深圳实验小学" />
+              <Destination Name="园岭街道办事处" />
+              <Destination Name="深圳体育馆" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+     <Exit No="D">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="华新村" />
+              <Destination Name="交通银行大厦" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  
+  <Station ID="" CName="老街" EName="Laojie"  HasRestroom="true" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="晒布" No="3" To="双龙" Start="6:32" End="23:18" />
+      <Path Next="红岭" No="3" To="益田" Start="6:35" End="23:52" />
+    </Paths>
+    <Location Long="114.1164493561" Lat="22.5552932349" />
+    <Exits>
+      <Exit No="A">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="红荔路（南）" />
+              <Destination Name="荔枝公园" />
+              <Destination Name="深圳市青少年活动中心" />
+              <Destination Name="大家乐文化广场" />
+              <Destination Name="深圳市文联" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="B">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="大家乐文化广场" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="C">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="红桂大厦" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+     <Exit No="D">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="红荔路（北）" />
+              <Destination Name="园岭小学二分部" />
+              <Destination Name="红岭中学" />
+              <Destination Name="园岭新村" />
+              <Destination Name="园岭东路" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+     <Exit No="E">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="红荔邮局" />
+              <Destination Name="市少儿图书馆" />
+              <Destination Name="红荔路（北）" />
+              <Destination Name="园岭三街" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  
+    <Station ID="" CName="晒布" EName="Shaibu"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="老街" No="3" To="益田" Start="6:31" End="23:47" />
+      <Path Next="翠竹" No="3" To="双龙" Start="6:33" End="23:22" />
+    </Paths>
+    <Location Long="114.1292266455" Lat="22.5556870415" />
+    <Exits>
+      <Exit No="A1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="东门步行街" />
+              <Destination Name="茂业百货" />
+              <Destination Name="第五人民医院东门门诊部" />
+              <Destination Name="东门金融大厦" />
+              <Destination Name="城东街" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="A2">
+        <Guides>
+          <Guide Type="酒店">
+            <Destinations>
+              <Destination Name="维景酒店(维景商业中心)" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="A">
+        <Guides>
+          <Guide Type="酒店">
+            <Destinations>
+              <Destination Name="维景酒店(维景商业中心)" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+     <Exit No="B">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="东门中路（北）" />
+              <Destination Name="东门金融大厦" />
+              <Destination Name="兴湖路" />
+              <Destination Name="中兴路" />
+              <Destination Name="湖贝村" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+     <Exit No="C">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="东门中路（北）" />
+              <Destination Name="深中路" />
+              <Destination Name="儿童公园" />
+              <Destination Name="东门荟" />
+              <Destination Name="华盛君荟" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="D1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="茂业百货" />
+              <Destination Name="东门步行街" />
+              <Destination Name="中国红十字会（深圳分会）" />
+              <Destination Name="晒布路" />
+              <Destination Name="东门中路（西）" />
+              <Destination Name="深圳中学" />
+              <Destination Name="东门天地大厦" />
+              <Destination Name="南海中心" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
   </Station>
   
   
