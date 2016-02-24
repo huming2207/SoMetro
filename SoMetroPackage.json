@@ -44,7 +44,7 @@
     {
       "Name": "郑州",
       "ID": "Zhengzhou",
-      "Version": "0.9",
+      "Version": "0.91",
       "Contributor": [
         { "ID": "会跑的煎饼" }
       ]
@@ -52,7 +52,7 @@
     {
       "Name": "哈尔滨",
       "ID": "Harbin",
-      "Version": "0.9",
+      "Version": "0.91",
       "Contributor": [
         { "ID": "会跑的煎饼" }
       ]
