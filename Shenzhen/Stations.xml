@@ -76,7 +76,7 @@
               <Destination Name="福田区委" />
               <Destination Name="福田区法院" />
               <Destination Name="福民天虹" />
-              <Destination Name="福民路">
+              <Destination Name="福民路" />
             </Destinations>
           </Guide>
         </Guides>
@@ -165,7 +165,7 @@
           <Guide Type="">
             <Destinations>
               <Destination Name="君尚百货" />
-              <Destination Name="福华三路">
+              <Destination Name="福华三路" />
             </Destinations>
           </Guide>
         </Guides>
@@ -710,7 +710,7 @@
     </Exits>
   </Station>
   
-    <Station ID="" CName="晒布" EName="Shaibu"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+  <Station ID="" CName="晒布" EName="Shaibu"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
     <Paths>
       <Path Next="老街" No="3" To="益田" Start="6:31" End="23:47" />
       <Path Next="翠竹" No="3" To="双龙" Start="6:33" End="23:22" />
@@ -810,6 +810,476 @@
       </Exit>
     </Exits>
   </Station>
+
+  <Station ID="" CName="翠竹" EName="Cuizhu"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="晒布" No="3" To="益田" Start="6:39" End="23:45" />
+      <Path Next="田贝" No="3" To="双龙" Start="6:39" End="23:25" />
+    </Paths>
+    <Location Long="114.136580000" Lat="22.5627150000" />
+    <Exits>
+      <Exit No="A">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="翠园中学" />
+              <Destination Name="华西路（西）" />
+              <Destination Name="海洋大厦" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="B">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="华丽路(东)" />
+              <Destination Name="木头龙" />
+              <Destination Name="明珠中学" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="C">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="华润万家(翠竹店)" />
+              <Destination Name="康宁医院" />
+              <Destination Name="竹园宾馆" />
+              <Destination Name="友和药店" />
+              <Destination Name="翠竹路" />
+              <Destination Name="翠竹苑" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="D">
+        <Guides>
+          <Guide Type="医院">
+            <Destinations>
+              <Destination Name="深圳市第一人民医院" />
+              <Destination Name="孙逸仙心血管医院" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="田贝" EName="Tianbei"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="翠竹" No="3" To="益田" Start="6:31" End="23:47" />
+      <Path Next="水贝" No="3" To="双龙" Start="6:33" End="23:22" />
+    </Paths>
+    <Location Long="114.1299390000" Lat="22.5678820000" />
+    <Exits>
+      <Exit No="A">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="康宁医院" />
+              <Destination Name="翠竹街市" />
+              <Destination Name="翠竹公园" />
+              <Destination Name="太安路" />
+              <Destination Name="太宁路" />
+              <Destination Name="翠竹路（南）" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="B">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="沃尔玛" />
+              <Destination Name="百仕达花园" />
+              <Destination Name="沃尔玛" />
+              <Destination Name="翠竹路(北)" />
+              <Destination Name="太安路" />
+              <Destination Name="太宁路" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="C">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="水贝一路" />
+              <Destination Name="田贝四路" />
+              <Destination Name="家和居装饰材料广场" />
+              <Destination Name="翠竹路(北)" />
+              <Destination Name="文锦北路" />
+              <Destination Name="贝丽花园" />
+              <Destination Name="阳光天地家园" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="D">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="翠竹路(北)" />
+              <Destination Name="翠北小学" />
+              <Destination Name="马古岭小区" />
+              <Destination Name="深圳供电局" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="水贝" EName="Shuibei"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="田贝" No="3" To="益田" Start="6:34" End="23:41" />
+      <Path Next="草埔" No="3" To="双龙" Start="6:33" End="23:29" />
+    </Paths>
+    <Location Long="114.1229170000" Lat="22.5806940000" />
+    <Exits>
+      <Exit No="A">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="布心路" />
+              <Destination Name="松泉公寓" />
+              <Destination Name="松泉中学" />
+              <Destination Name="东昌小学" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="B">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="布心路北" />
+              <Destination Name="水贝村" />
+              <Destination Name="贝丽北路" />
+              <Destination Name="独树村" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="草埔" EName="Caopu"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="田贝" No="3" To="益田" Start="6:32" End="23:38" />
+      <Path Next="布吉" No="3" To="双龙" Start="6:35" End="23:32" />
+    </Paths>
+    <Location Long="114.1229170000" Lat="22.5806940000" />
+    <Exits>
+      <Exit No="B">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道" />
+              <Destination Name="草埔村" />
+              <Destination Name="吓围村" />
+              <Destination Name="深圳仁康医院" />
+              <Destination Name="东晓派出所" />
+              <Destination Name="英丽华大酒店" />
+              <Destination Name="金稻田路" />
+              <Destination Name="草埔综合肉菜市场" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="D">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道" />
+              <Destination Name="布吉联检站" />
+              <Destination Name="海鲜批发市场" />
+              <Destination Name="草埔公交总站" />
+              <Destination Name="吓围新村" />
+              <Destination Name="天乐大厦" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="布吉" EName="Buji"  HasRestroom="true" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="草埔" No="3" To="益田" Start="6:38" End="23:35" />
+      <Path Next="木棉湾" No="3" To="双龙" Start="6:39" End="23:35" />
+      <Path Next="百鸽笼" No="5" To="黄贝岭" Start="6:43" End="23:53" />
+      <Path Next="长龙" No="5" To="前海湾" Start="6:59" End="23:15" />
+    </Paths>
+    <Location Long="114.1280210000" Lat="22.6080660000" />
+    <Exits>
+      <Exit No="A">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道" />
+              <Destination Name="龙珠花园" />
+              <Destination Name="佳兆业大都会" />
+              <Destination Name="布吉新村" />
+              <Destination Name="京南路" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="B">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道" />
+              <Destination Name="满庭芳花园" />
+              <Destination Name="布吉中心小学" />
+              <Destination Name="荣超花园" />
+              <Destination Name="百合山庄" />
+              <Destination Name="吉华路" />
+              <Destination Name="信义假日名城" />
+              <Destination Name="深圳东站换乘通道" />
+              <Destination Name="布吉街" />
+              <Destination Name="布吉人民医院" />
+              <Destination Name="布吉公园" />
+              <Destination Name="布吉派出所" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="木棉湾" EName="Mumianwan"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="布吉" No="3" To="益田" Start="6:36" End="23:33" />
+      <Path Next="大芬" No="3" To="双龙" Start="6:41" End="23:37" />
+    </Paths>
+    <Location Long="114.136890000" Lat="22.6133640000" />
+    <Exits>
+      <Exit No="B1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道(南)" />
+              <Destination Name="木棉路" />
+              <Destination Name="木棉湾村" />
+              <Destination Name="龙岗大道1号" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="B2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道(南)" />
+              <Destination Name="中国海关（布吉）" />
+              <Destination Name="蔡兴大厦" />
+              <Destination Name="茂业书画交易市场" />
+              <Destination Name="" />
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="C">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道(北)" />
+              <Destination Name="中国海关（布吉）" />
+              <Destination Name="布吉街道办" />
+              <Destination Name="中心花园" />
+              <Destination Name="灏景明苑" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="D">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道(北)" />
+              <Destination Name="吉政路" />
+              <Destination Name="中兴路" />
+              <Destination Name="深圳中海医院" />
+              <Destination Name="深圳布吉国土地税所" />
+              <Destination Name="大世纪花园" />
+              <Destination Name="诚信华庭" />
+              <Destination Name="布吉天虹" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="大芬" EName="Dafen"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="木棉湾" No="3" To="益田" Start="6:34" End="23:31" />
+      <Path Next="丹竹头" No="3" To="双龙" Start="6:43" End="23:39" />
+    </Paths>
+    <Location Long="114.1448020000" Lat="22.6203150000" />
+    <Exits>
+      <Exit No="A1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道" />
+              <Destination Name="中怡路" />
+              <Destination Name="东大街" />
+              <Destination Name="大芬沃尔玛" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="A2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道(北)" />
+              <Destination Name="中翠路" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="C">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="康达尔花园" />
+              <Destination Name="怡康花园" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="丹竹头" EName="Danzhutou"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="大芬" No="3" To="益田" Start="6:31" End="23:28" />
+      <Path Next="六约" No="3" To="双龙" Start="6:45" End="23:41" />
+    </Paths>
+    <Location Long="114.1545750000" Lat="22.625730000" />
+    <Exits>
+      <Exit No="A">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道(东)" />
+              <Destination Name="金龙花园" />
+              <Destination Name="南岭派出所" />
+              <Destination Name="南岭村" />
+              <Destination Name="丹竹头汽车站" />
+              <Destination Name="丹竹头社区" />
+              <Destination Name="英郡年华" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="C">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道(西)" />
+              <Destination Name="丹竹大道" />
+              <Destination Name="圆墩小区" />
+              <Destination Name="丹竹头社区" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="D">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道(西)" />
+              <Destination Name="康桥花园" />
+              <Destination Name="李朗路" />
+              <Destination Name="立信工业园" />
+              <Destination Name="宝冠路" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
   
   
 </StationCollection>
