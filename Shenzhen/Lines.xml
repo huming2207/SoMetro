@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LineCollection>
+  <Line No="3" Name="号 龙岗线" ColorHex="#00A2E1" From="益田" To="双龙" Warning="">
+    <Stations>
+      <Station CName="益田" />
+      <Station CName="石厦" />
+      <Station CName="购物公园" />
+      <Station CName="福田" />
+      <Station CName="少年宫" />
+      <Station CName="莲花村" />
+      <Station CName="华新" />
+      <Station CName="通新岭" />
+      <Station CName="红岭" />
+      <Station CName="老街" />
+      <Station CName="晒布" />
+      <Station CName="翠竹" />
+      <Station CName="田贝" />
+      <Station CName="水贝" />
+      <Station CName="草埔" />
+      <Station CName="布吉" />
+      <Station CName="木棉湾" />
+      <Station CName="大芬" />
+      <Station CName="丹竹头" />
+      <Station CName="六约" />
+      <Station CName="塘坑" />
+      <Station CName="横岗" />
+      <Station CName="永湖" />
+      <Station CName="荷坳" />
+      <Station CName="大运" />
+      <Station CName="爱联" />
+      <Station CName="吉祥" />
+      <Station CName="龙城广场" />
+      <Station CName="南联" />
+      <Station CName="双龙" />         
+    </Stations>
+  </Line>
+
+  <Line No="4" Name="号 龙华线" ColorHex="#FF0000" From="福田口岸" To="清湖" Warning="">
+    <Stations>
+      <Station CName="福田口岸" />
+      <Station CName="福民" />
+      <Station CName="会展中心" />
+      <Station CName="市民中心" />
+      <Station CName="少年宫" />
+      <Station CName="莲花北" />
+      <Station CName="上梅林" />
+      <Station CName="民乐" />
+      <Station CName="白石龙" />
+      <Station CName="深圳北站" />
+      <Station CName="红山" />
+      <Station CName="上塘" />
+      <Station CName="龙胜" />
+      <Station CName="龙华" />
+      <Station CName="清湖" />        
+    </Stations>
+  </Line>
+  
+  <Line No="5" Name="号 环中线" ColorHex="#502D79" From="前海湾" To="黄贝岭" Warning="">
+    <Stations>
+      <Station CName="前海湾" />
+      <Station CName="临海" />
+      <Station CName="宝华" />
+      <Station CName="宝安中心" />
+      <Station CName="翻身" />
+      <Station CName="灵芝" />
+      <Station CName="洪浪北" />
+      <Station CName="兴东" />
+      <Station CName="留仙洞" />
+      <Station CName="西丽" />
+      <Station CName="大学城" />
+      <Station CName="塘朗" />
+      <Station CName="长岭坡" />
+      <Station CName="深圳北站" />
+      <Station CName="民治" />
+      <Station CName="五和" />
+      <Station CName="坂田" />
+      <Station CName="杨美" />
+      <Station CName="上水径" />
+      <Station CName="下水径" />
+      <Station CName="长龙" />
+      <Station CName="布吉" />
+      <Station CName="百鸽笼" />
+      <Station CName="布心" />
+      <Station CName="太安" />
+      <Station CName="怡景" />
+      <Station CName="黄贝岭" />    
+    </Stations>
+  </Line>
+</LineCollection>

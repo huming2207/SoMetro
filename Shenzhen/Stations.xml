@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StationCollection>
+  <Station ID="" CName="益田" EName="Yitian"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="石厦" No="3" To="双龙" Start="6:20" End="23:10" />
+    </Paths>
+    <Location Long="114.0578550000" Lat="22.5220280000" />
+    <Exits>
+      <Exit No="A">
+        <Guides>
+          <Guide Type="保税区">
+            <Destinations>
+              <Destination Name="福田保税区" />
+              <Destination Name="益田路（南）" />
+              <Destination Name="益田小学" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="B">
+        <Guides>
+          <Guide Type="景点">
+            <Destinations>
+              <Destination Name="皇岗公园" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="C">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="福田妇幼保健院" />
+              <Destination Name="新洲村" />
+              <Destination Name="益田名园" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="D">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="益田中学" />
+              <Destination Name="益田村" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  
+  <Station ID="" CName="石厦" EName="Shixia"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="购物公园" No="3" To="双龙" Start="6:32" End="0:08" />
+      <Path Next="益田" No="3" To="益田" Start="6:42" End="23:02" />
+    </Paths>
+    <Location Long="114.0602210000" Lat="22.5294510000" />
+    <Exits>
+      <Exit No="A">
+        <Guides>
+          <Guide Type="政府">
+            <Destinations>
+              <Destination Name="福田区委" />
+              <Destination Name="福田区法院" />
+              <Destination Name="福民天虹" />
+              <Destination Name="福民路">
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="C">
+        <Guides>
+          <Guide Type="学校">
+            <Destinations>
+              <Destination Name="石厦小学" />
+              <Destination Name="石厦中学" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="购物公园" EName="Gouwugongyuan"  HasRestroom="true" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="石厦" No="1" To="双龙" Start="6:33" End="0:16" />
+      <Path Next="益田" No="2" To="益田" Start="6:43" End="0:06" />
+    </Paths>
+    <Location Long="114.0605570000" Lat="22.5403440000" />
+    <Exits>
+      <Exit No="A">
+        <Guides>
+          <Guide Type="商场">
+            <Destinations>
+              <Destination Name="连城新天地" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="B">
+        <Guides>
+          <Guide Type="商场">
+            <Destinations>
+              <Destination Name="购物公园" />
+              <Destination Name="连城新天地" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="C">
+        <Guides>
+          <Guide Type="商场">
+            <Destinations>
+              <Destination Name="购物公园" />
+              <Destination Name="COCO Park" />
+              <Destination Name="市电信大厦" />
+              <Destination Name="君尚百货" />
+              <Destination Name="深圳马格孛罗好日子酒店" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="D">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="南方国际广场" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="E">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="君尚百货" />
+              <Destination Name="福华三路">
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="F">
+        <Guides>
+          <Guide Type="商场">
+            <Destinations>
+              <Destination Name="COCO Park" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="G">
+        <Guides>
+          <Guide Type="商场">
+            <Destinations>
+              <Destination Name="COCO Park" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="H">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="中海华庭" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+  
+  <Station ID="" CName="福田" EName="Futian"  HasRestroom="true" CanRecharge="true" CanTransfer="true" IsRailwayStation="true" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="少年宫" No="3" To="双龙" Start="6:36" End="23:06" />
+      <Path Next="购物公园" No="3" To="益田" Start="6:37" End="0:04" />
+      <Path Next="莲花北" No="4" To="清湖" Start="6:36" End="23:06" />
+      <Path Next="市民中心" No="4" To="益田" Start="6:37" End="0:04" />
+    </Paths>
+    <Location Long="114.0602210000" Lat="22.5294510000" />
+    <Exits>
+      <Exit No="1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="深南大道（南）" />
+              <Destination Name="民田路（南）" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+     <Exit No="3A">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="深南大道（南）" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+     <Exit No="3B">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="深南大道（南）" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="29A">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="深南大道（北）" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+     <Exit No="29B">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="深南大道（北）公交站" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    <Exit No="31">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="民田路（北）" />
+              <Destination Name="黄埔雅苑" />
+              <Destination Name="广电大厦" />
+              <Destination Name="招商银行大厦" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+            <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+
+  </Station>
+  
+  
+</StationCollection>
