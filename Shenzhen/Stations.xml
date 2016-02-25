@@ -100,7 +100,7 @@
     </Exits>
   </Station>
 
-  <Station ID="" CName="购物公园" EName="Gouwugongyuan"  HasRestroom="true" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+  <Station ID="" CName="购物公园" EName="Shopping Park"  HasRestroom="true" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
     <Paths>
       <Path Next="石厦" No="1" To="双龙" Start="6:33" End="0:16" />
       <Path Next="益田" No="2" To="益田" Start="6:43" End="0:06" />
@@ -301,7 +301,7 @@
 
   </Station>
   
-  <Station ID="" CName="少年宫" EName="Shaoniangong"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+  <Station ID="" CName="少年宫" EName="Children's Palace"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
     <Paths>
       <Path Next="莲花村" No="3" To="双龙" Start="6:39" End="23:09" />
       <Path Next="福田" No="3" To="益田" Start="6:35" End="0:01" />
@@ -1562,5 +1562,418 @@
       </Exit>
     </Exits>
   </Station>
-  
+
+  <Station ID="" CName="大运" EName="Universiade"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="荷坳" No="3" To="益田" Start="6:41" End="23:11" />
+      <Path Next="大运" No="3" To="双龙" Start="7:02" End="23:58" />
+    </Paths>
+    <Location Long="114.2346260000" Lat="22.6921060000" />
+    <Exits>
+      <Exit No="A">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道" />
+              <Destination Name="莲塘尾工业区" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="B">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道" />
+              <Destination Name="万科清林径" />
+              <Destination Name="龙岗区人民法院横岗人民法庭" />
+              <Destination Name="龙岗公安分局" />
+              <Destination Name="海关大厦" />
+              <Destination Name="振业峦山谷" />
+              <Destination Name="正中高尔夫球场" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="C">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道" />
+              <Destination Name="党校" />
+              <Destination Name="天安数码城" />
+              <Destination Name="中海康城国际" />
+              <Destination Name="中海圣庭院酒店" />
+              <Destination Name="信息学院" />
+              <Destination Name="大运场馆" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="D">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道" />
+              <Destination Name="海林酒店" />
+              <Destination Name="沈海高速入口" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="爱联" EName="Ai'lian"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="大运" No="3" To="益田" Start="6:39" End="23:09" />
+      <Path Next="吉祥" No="3" To="双龙" Start="7:04" End="0:01" />
+    </Paths>
+    <Location Long="114.2408240000" Lat="22.7039490000" />
+    <Exits>
+      <Exit No="A">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道（南）" />
+              <Destination Name="爱联第二市场" />
+              <Destination Name="爱联股份" />
+              <Destination Name="爱联派出所" />
+              <Destination Name="爱联幼儿园" />
+              <Destination Name="爱联天桥" />
+              <Destination Name="爱联邮电局" />
+              <Destination Name="如意南路" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="B">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道（南）" />
+              <Destination Name="创兆广场" />
+              <Destination Name="蒲排路" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="C">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道（北）" />
+              <Destination Name="爱联小学" />
+              <Destination Name="晨光路" />
+              <Destination Name="龙城医院" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="D">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道（北）" />
+              <Destination Name="昌盛百货" />
+              <Destination Name="雄力酒店" />
+              <Destination Name="皇龙酒店" />
+              <Destination Name="爱联天桥" />
+              <Destination Name="深圳市农村商业银行" />
+              <Destination Name="龙城华府" />
+              <Destination Name="龙岗区老年干部活动中心" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="吉祥" EName="Jixiang"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="爱联" No="3" To="益田" Start="6:37" End="23:07" />
+      <Path Next="龙城广场" No="3" To="双龙" Start="7:07" End="7:07" />
+    </Paths>
+    <Location Long="114.250870000" Lat="22.7160360000" />
+    <Exits>
+      <Exit No="A">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="江辉家居生活馆" />
+              <Destination Name="耳鼻咽喉科医院" />
+              <Destination Name="深圳友和雅商大酒店" />
+              <Destination Name="新四海家居广场" />
+              <Destination Name="吉祥南路" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="B">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道（南）" />
+              <Destination Name="深圳港龙医院" />
+              <Destination Name="深圳德尼斯酒店" />
+              <Destination Name="法国凡尔赛家具集团" />
+              <Destination Name="龙兴联泰国际家具" />
+              <Destination Name="湖广通中商大厦" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="C">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道（北）" />
+              <Destination Name="风临域" />
+              <Destination Name="万科天誉" />
+              <Destination Name="鸿基幼儿园" />
+              <Destination Name="西埔西街" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="D">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道（北）" />
+              <Destination Name="正中风临国际" />
+              <Destination Name="杭州银行（龙岗支行）" />
+              <Destination Name="永亨银行" />
+              <Destination Name="民生银行" />
+              <Destination Name="鸿进花园" />
+              <Destination Name="鸿基花园" />
+              <Destination Name="龙岗候机楼" />
+              <Destination Name="天主教龙岗堂" />
+              <Destination Name="俪景中心" />
+              <Destination Name="吉祥中路" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="龙城广场" EName="Longcheng Square"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="吉祥" No="3" To="益田" Start="6:34" End="23:04" />
+      <Path Next="南联" No="3" To="双龙" Start="7:09" End="0:06" />
+    </Paths>
+    <Location Long="114.2614580000" Lat="22.7255690000" />
+    <Exits>
+      <Exit No="A">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="江辉家居生活馆" />
+              <Destination Name="又一城酒楼" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="B">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="7天连锁酒店" />
+              <Destination Name="有线电视大厦" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="C">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="乐购商场" />
+              <Destination Name="东方国际茶都" />
+              <Destination Name="东方明珠城" />
+              <Destination Name="仁安医院" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="D">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙城广场" />
+              <Destination Name="龙岗区政府" />
+              <Destination Name="龙岗区公安分局" />
+              <Destination Name="龙岗区地税局" />
+              <Destination Name="龙岗区财政局" />
+              <Destination Name="龙岗中心城" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="南联" EName="Nanlian"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="龙城广场" No="3" To="益田" Start="6:32" End="23:02" />
+      <Path Next="双龙" No="3" To="双龙" Start="7:12" End="0:08" />
+    </Paths>
+    <Location Long="114.2722560000" Lat="22.7281130000" />
+    <Exits>
+      <Exit No="A">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道（南）" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="B">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="碧新路（西）" />
+              <Destination Name="摩尔城" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="C1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道（北）" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="双龙" EName="Shuanglong"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="南联" No="3" To="益田" Start="	06:30" End="23:00" />
+    </Paths>
+    <Location Long="114.2722560000" Lat="22.7281130000" />
+    <Exits>
+      <Exit No="A">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道（南）" />
+              <Destination Name="华西街" />
+              <Destination Name="双龙天虹" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="B">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道（南）" />
+              <Destination Name="中和街" />
+              <Destination Name="集银皮革市场" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="C">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道（北）" />
+              <Destination Name="龙平路" />
+              <Destination Name="集银皮革市场" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="D">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道（北）" />
+              <Destination Name="富佳街" />
+              <Destination Name="沃尔玛" />
+              <Destination Name="人人购物广场" />
+              <Destination Name="龙岗老街" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
 </StationCollection>
