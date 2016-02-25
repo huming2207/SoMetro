@@ -301,7 +301,7 @@
 
   </Station>
   
-   <Station ID="" CName="少年宫" EName="Shaoniangong"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+  <Station ID="" CName="少年宫" EName="Shaoniangong"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
     <Paths>
       <Path Next="莲花村" No="3" To="双龙" Start="6:39" End="23:09" />
       <Path Next="福田" No="3" To="益田" Start="6:35" End="0:01" />
@@ -1280,6 +1280,287 @@
     </Exits>
   </Station>
 
-  
+  <Station ID="" CName="六约" EName="Liuyue"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="丹竹头" No="3" To="益田" Start="6:38" End="23:24" />
+      <Path Next="塘坑" No="3" To="双龙" Start="6:49" End="23:46" />
+    </Paths>
+    <Location Long="114.1872970000" Lat="22.6399740000" />
+    <Exits>
+      <Exit No="A">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道(南)" />
+              <Destination Name="牛始埔路" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="C">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道(北)" />
+              <Destination Name="梧桐路" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="塘坑" EName="Tangkeng"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="六约" No="3" To="益田" Start="6:35" End="23:22" />
+      <Path Next="横岗" No="3" To="双龙" Start="6:52" End="23:48" />
+    </Paths>
+    <Location Long="114.199330000" Lat="22.6449890000" />
+    <Exits>
+      <Exit No="A">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="六和路" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="B">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙塘坑路" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="C">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道(东)" />
+              <Destination Name="康乐路" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="D">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道(东)" />
+              <Destination Name="兴和路" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="横岗" EName="Henggang"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="塘坑" No="3" To="益田" Start="6:49" End="23:19" />
+      <Path Next="永湖" No="3" To="双龙" Start="6:55" End="23:51" />
+    </Paths>
+    <Location Long="114.2154080000" Lat="22.6544110000" />
+    <Exits>
+      <Exit No="A">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道(东)" />
+              <Destination Name="横岗大厦" />
+              <Destination Name="横岗人民公园" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="B">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道(东)" />
+              <Destination Name="信义御城" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="C">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道(西)" />
+              <Destination Name="南康百货" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="D">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道(西)" />
+              <Destination Name="志健广场" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="永湖" EName="Yonghu"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="横岗" No="3" To="益田" Start="6:46" End="23:16" />
+      <Path Next="荷坳" No="3" To="双龙" Start="6:57" End="23:54" />
+    </Paths>
+    <Location Long="114.2307570000" Lat="22.679370000" />
+    <Exits>
+      <Exit No="A1">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道(东)" />
+              <Destination Name="188工业区" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="A2">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道(东)" />
+              <Destination Name="横岗中学" />
+              <Destination Name="水浸围村" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="B">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道(西)" />
+              <Destination Name="保安学校" />
+              <Destination Name="保安社区" />
+              <Destination Name="窝肚村" />
+              <Destination Name="189工业区" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="" CName="荷坳" EName="He'ao"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="永湖" No="3" To="益田" Start="6:44" End="23:14" />
+      <Path Next="大运" No="3" To="双龙" Start="7:00" End="23:56" />
+    </Paths>
+    <Location Long="114.2307570000" Lat="22.679370000" />
+    <Exits>
+      <Exit No="A">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道(东)" />
+              <Destination Name="荷康路" />
+              <Destination Name="水晶之城" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="B">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道(东)" />
+              <Destination Name="横岗长途汽车站" />
+              <Destination Name="龙岗区人民法院横岗人民法庭" />
+              <Destination Name="长江埔工业区" />
+              <Destination Name="荷坳派出所" />
+              <Destination Name="龙岗车管所" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="C">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道(西)" />
+              <Destination Name="联泰路" />
+              <Destination Name="荷坳社区" />
+              <Destination Name="荷坳新村" />
+              <Destination Name="乐城" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="D">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="龙岗大道(东)" />
+              <Destination Name="信联路" />
+              <Destination Name="坳背路" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
   
 </StationCollection>
