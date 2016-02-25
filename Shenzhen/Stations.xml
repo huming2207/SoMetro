@@ -1,5 +1,2051 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StationCollection>
+  
+  <Station ID="1" CName="罗湖站" EName="Luohu"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="true" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="" No="1" To="机场东站" Start="6:30" End="23:00" />
+    </Paths>
+    <Location Long="114.1254810000" Lat="22.5385650000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="1" CName="国贸站" EName="Guomao"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="老街" No="1" To="机场东站" Start="6:31" End="23:01" />
+      <Path Next="罗湖站" No="1" To="罗湖" Start="6:51" End="00:05" />
+    </Paths>
+    <Location Long="114.1251580000" Lat="22.5459630000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="1" CName="老街" EName="Laojie"  HasRestroom="true" CanRecharge="false能否充值" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="大剧院" No="1" To="机场东站" Start="6:33" End="23:03" />
+      <Path Next="国贸站" No="1" To="罗湖" Start="6:50" End="00:03" />
+      <Path Next="" No="3" To="益田" Start="6:32" End="23:49" />
+      <Path Next="晒布" No="3" To="双龙" Start="6:33" End="23:18" />
+    </Paths>
+    <Location Long="114.1229340000" Lat="22.5504520000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="1" CName="大剧院" EName="Grand Theater"  HasRestroom="true" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="科学馆" No="1" To="机场东站" Start="6:35" End="23:05" />
+      <Path Next="老街" No="1" To="罗湖" Start="6:47" End="00:01" />
+      <Path Next="湖贝" No="2" To="新秀" Start="6:55" End="23:55" />
+      <Path Next="燕南" No="2" To="赤湾" Start="6:36" End="23:06" />
+    </Paths>
+    <Location Long="114.1149480000" Lat="22.5485580000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="1" CName="科学馆" EName="Science Museum"  HasRestroom="true" CanRecharge="false能否充值" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="华强路" No="1" To="机场东站" Start="6:37" End="23:07" />
+      <Path Next="大剧院" No="1" To="罗湖" Start="6:45" End="23:58" />
+    </Paths>
+    <Location Long="114.1015590000" Lat="22.5467390000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="1" CName="华强路" EName="Huanqiang Rd"  HasRestroom="true" CanRecharge="false能否充值" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="岗厦" No="1" To="机场东站" Start="6:39" End="23:09" />
+      <Path Next="科学馆" No="1" To="罗湖" Start="6:43" End="23:57" />
+    </Paths>
+    <Location Long="114.0916240000" Lat="22.5463550000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="1" CName="岗厦" EName="Gangxia"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="会展中心" No="1" To="机场东站" Start="6:42" End="23:12" />
+      <Path Next="华强路" No="1" To="罗湖" Start="6:40" End="23:54" />
+    </Paths>
+    <Location Long="114.0747990000" Lat="22.5405930000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="1" CName="会展中心" EName="Convention and Exhibition Center"  HasRestroom="true" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="购物公园" No="1" To="机场东站" Start="6:44" End="23:14" />
+      <Path Next="岗厦" No="1" To="罗湖" Start="6:38" End="23:52" />
+      <Path Next="福民" No="4" To="福田口岸" Start="6:33" End="23:24" />
+      <Path Next="市民中心" No="4" To="清湖" Start="6:33" End="23:03" />
+    </Paths>
+    <Location Long="114.0679130000" Lat="22.5404510000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="1" CName="香蜜湖" EName="Xiangmihu"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="车公庙" No="1" To="机场东站" Start="6:48" End="23:18" />
+      <Path Next="购物公园" No="1" To="罗湖" Start="6:34" End="23:47" />
+    </Paths>
+    <Location Long="114.0453750000" Lat="22.544710000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="1" CName="车公庙" EName="Chegongmiao"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="竹子林" No="1" To="机场东站" Start="6:50" End="23:20" />
+      <Path Next="香蜜湖" No="1" To="罗湖" Start="6:32" End="23:20" />
+    </Paths>
+    <Location Long="114.0321380000" Lat="22.5422450000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="1" CName="竹子林" EName="Zhuzilin"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="侨城东" No="1" To="机场东站" Start="6:32" End="23:23" />
+      <Path Next="车公庙" No="1" To="罗湖" Start="6:30" End="23:43" />
+    </Paths>
+    <Location Long="114.0206850000" Lat="22.5404260000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="1" CName="侨城东" EName="Qiaocheng East"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="华侨城" No="1" To="机场东站" Start="6:32" End="23:40" />
+      <Path Next="竹子林" No="1" To="罗湖" Start="6:32" End="23:25" />
+    </Paths>
+    <Location Long="114.0032890000" Lat="22.5386190000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="1" CName="华侨城" EName="OCT"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="世界之窗" No="1" To="机场东站" Start="6:34" End="23:38" />
+      <Path Next="侨城东" No="1" To="罗湖" Start="6:30" End="23:38" />
+    </Paths>
+    <Location Long="113.9920650000" Lat="22.5396620000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="1" CName="世界之窗" EName="Window of the World"  HasRestroom="true" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="白石洲" No="1" To="机场东站" Start="6:36" End="23:30" />
+      <Path Next="华侨城" No="1" To="罗湖" Start="6:34" End="23:36" />
+      <Path Next="红树湾" No="2" To="赤湾" Start="6:50" End="23:37" />
+      <Path Next="侨城北" No="2" To="新秀" Start="6:30" End="23:24" />
+    </Paths>
+    <Location Long="113.9808490000" Lat="22.5429040000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="1" CName="白石洲" EName="Baishizhou"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="高新园" No="1" To="机场东站" Start="6:38" End="23:31" />
+      <Path Next="世界之窗" No="1" To="罗湖" Start="6:32" End="23:34" />
+    </Paths>
+    <Location Long="113.9735730000" Lat="22.5455080000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="1" CName="高新园" EName="Hi-Tech Park"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="深大" No="1" To="机场东站" Start="6:31" End="23:34" />
+      <Path Next="白石洲" No="1" To="罗湖" Start="6:30" End="23:34" />
+    </Paths>
+    <Location Long="113.9607720000" Lat="22.5460250000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="1" CName="深大" EName="Shenzhen University"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="桃园" No="1" To="机场东站" Start="6:33" End="23:36" />
+      <Path Next="高新园" No="1" To="罗湖" Start="6:33" End="23:36" />
+    </Paths>
+    <Location Long="113.9504150000" Lat="22.5439600000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="1" CName="桃园" EName="Taoyuan"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="大新" No="1" To="机场东站" Start="6:36" End="23:39" />
+      <Path Next="深大" No="1" To="罗湖" Start="6:30" End="23:27" />
+    </Paths>
+    <Location Long="113.9314160000" Lat="22.5381060000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="1" CName="大新" EName="Daxin"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="鲤鱼门" No="1" To="机场东站" Start="6:38" End="23:41" />
+      <Path Next="桃园" No="1" To="罗湖" Start="6:33" End="23:25" />
+    </Paths>
+    <Location Long="113.9219390000" Lat="22.5380970000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="1" CName="鲤鱼门" EName="Liyumen"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="前海湾" No="1" To="机场东站" Start="6:40" End="23:43" />
+      <Path Next="大新" No="1" To="罗湖" Start="6:31" End="23:23" />
+    </Paths>
+    <Location Long="113.9101800000" Lat="22.5381890000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="1" CName="前海湾" EName="Qianhaiwan"  HasRestroom="true" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="新安" No="1" To="机场东站" Start="6:42" End="23:45" />
+      <Path Next="鲤鱼门" No="1" To="罗湖" Start="6:35" End="23:21" />
+      <Path Next="临海" No="5" To="黄贝岭" Start="6:30" End="23:00" />
+    </Paths>
+    <Location Long="113.9046420000" Lat="22.5432510000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="1" CName="新安" EName="Xin'an"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="宝安中心" No="1" To="机场东站" Start="6:33" End="23:47" />
+      <Path Next="新安" No="1" To="罗湖" Start="6:48" End="23:18" />
+    </Paths>
+    <Location Long="113.9009590000" Lat="22.5538310000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="1" CName="宝安中心" EName="Bao'an Center"  HasRestroom="true" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="宝体" No="1" To="机场东站" Start="6:31" End="23:49" />
+      <Path Next="新安" No="1" To="罗湖" Start="6:46" End="23:16" />
+      <Path Next="翻身" No="5" To="黄贝岭" Start="6:35" End="23:05" />
+      <Path Next="宝华" No="5" To="前海湾" Start="6:51" End="00:00" />
+    </Paths>
+    <Location Long="113.8937410000" Lat="22.5607950000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="1" CName="宝体" EName="Bao'an Stadium"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="坪洲" No="1" To="机场东站" Start="6:33" End="23:51" />
+      <Path Next="宝安中心" No="1" To="罗湖" Start="6:45" End="23:15" />
+    </Paths>
+    <Location Long="113.8878340000" Lat="22.5664680000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="1" CName="坪洲" EName="Pingzhou"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="西乡" No="1" To="机场东站" Start="6:32" End="23:53" />
+      <Path Next="宝体" No="1" To="罗湖" Start="6:42" End="23:53" />
+    </Paths>
+    <Location Long="113.8772840000" Lat="22.5752120000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="1" CName="西乡" EName="Xixiang"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="固戍" No="1" To="机场东站" Start="6:34" End="23:55" />
+      <Path Next="坪洲" No="1" To="罗湖" Start="6:40" End="23:10" />
+    </Paths>
+    <Location Long="113.8692350000" Lat="22.5816480000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="1" CName="固戍" EName="Gushu"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="后瑞" No="1" To="机场东站" Start="6:38" End="23:59" />
+      <Path Next="西乡" No="1" To="罗湖" Start="6:36" End="23:06" />
+    </Paths>
+    <Location Long="113.8536270000" Lat="22.6066240000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="1" CName="后瑞" EName="Hourui"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="机场东" No="1" To="机场东站" Start="6:42" End="00:03" />
+      <Path Next="固戍" No="1" To="罗湖" Start="6:32" End="23:02" />
+    </Paths>
+    <Location Long="113.8420750000" Lat="22.6344260000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="1" CName="机场东" EName="Airport East"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="true" Warning="">
+    <Paths>
+      <Path Next="后瑞" No="1" To="罗湖" Start="6:30" End="23:00" />
+    </Paths>
+    <Location Long="113.8293770000" Lat="22.6526670000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+    </Exits>
+  </Station>
+
+  <Station ID="2" CName="赤湾" EName="Chiwan"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="蛇口港" No="2" To="新秀" Start="6:30" End="23:00" />
+    </Paths>
+    <Location Long="113.9040260000" Lat="22.4854580000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="2" CName="蛇口港" EName="Shekou Port"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="海上世界" No="2" To="新秀" Start="6:32" End="23:02" />
+      <Path Next="蛇口港" No="2" To="赤湾" Start="7:12" End="23:59" />
+    </Paths>
+    <Location Long="113.9186100000" Lat="22.4825400000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="2" CName="海上世界" EName="Sea world"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="水湾" No="2" To="新秀" Start="6:34" End="23:04" />
+      <Path Next="蛇口港" No="2" To="赤湾" Start="7:10" End="23:57" />
+    </Paths>
+    <Location Long="113.9216150000" Lat="22.4910350000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="2" CName="水湾" EName="Shuiwan"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="东角头" No="2" To="新秀" Start="6:35" End="23:05" />
+      <Path Next="海上世界" No="2" To="赤湾" Start="7:08" End="23:56" />
+    </Paths>
+    <Location Long="113.9262370000" Lat="22.4942740000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="2" CName="东角头" EName="Dongjiaotou"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="湾厦" No="2" To="新秀" Start="6:30" End="23:08" />
+      <Path Next="水湾" No="2" To="赤湾" Start="7:06" End="23:53" />
+    </Paths>
+    <Location Long="113.9376010000" Lat="22.4919620000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="2" CName="湾厦" EName="Wanxia"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="海月" No="2" To="新秀" Start="6:33" End="23:10" />
+      <Path Next="东角头" No="2" To="赤湾" Start="7:04" End="23:51" />
+    </Paths>
+    <Location Long="113.9453350000" Lat="22.4989820000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="2" CName="海月" EName="Haiyue"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="登良" No="2" To="新秀" Start="6:35" End="23:12" />
+      <Path Next="湾厦" No="2" To="赤湾" Start="7:02" End="23:49" />
+    </Paths>
+    <Location Long="113.9443290000" Lat="22.5055350000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="2" CName="登良" EName="Dengliang"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="后海" No="2" To="新秀" Start="6:31" End="23:14" />
+      <Path Next="海月" No="2" To="赤湾" Start="7:00" End="23:47" />
+    </Paths>
+    <Location Long="113.9443330000" Lat="22.5147910000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="2" CName="后海" EName="Houhai"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="科苑" No="2" To="新秀" Start="6:33" End="23:16" />
+      <Path Next="登良" No="2" To="赤湾" Start="6:58" End="23:45" />
+    </Paths>
+    <Location Long="113.9467950000" Lat="22.5227370000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="2" CName="科苑" EName="Keyuan"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="红树湾" No="2" To="新秀" Start="6:30" End="23:18" />
+      <Path Next="后海" No="2" To="赤湾" Start="6:56" End="23:43" />
+    </Paths>
+    <Location Long="113.9529390000" Lat="22.5326400000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="2" CName="红树湾" EName="Hongshuwan"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="世界之窗" No="2" To="新秀" Start="6:33" End="23:21" />
+      <Path Next="科苑" No="2" To="赤湾" Start="6:52" End="23:40" />
+    </Paths>
+    <Location Long="113.9750780000" Lat="22.5310500000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="2" CName="世界之窗" EName="Window of the World"  HasRestroom="true" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="侨城北" No="2" To="新秀" Start="6:30" End="23:24" />
+      <Path Next="红树湾" No="2" To="赤湾" Start="6:50" End="23:37" />
+      <Path Next="华侨城" No="1" To="罗湖" Start="6:34" End="23:36" />
+      <Path Next="白石洲" No="1" To="机场东" Start="6:36" End="23:30" />
+    </Paths>
+    <Location Long="113.9807100000" Lat="22.5428790000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="2" CName="侨城北" EName="Qiaocheng North"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="深康" No="2" To="新秀" Start="6:33" End="23:27" />
+      <Path Next="世界之窗" No="2" To="赤湾" Start="6:47" End="23:34" />
+    </Paths>
+    <Location Long="113.9957840000" Lat="22.5504480000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="2" CName="深康" EName="Shenkang"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="安托山" No="2" To="新秀" Start="6:36" End="23:29" />
+      <Path Next="侨城北" No="2" To="赤湾" Start="6:44" End="23:32" />
+    </Paths>
+    <Location Long="114.0055210000" Lat="22.5527550000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="2" CName="安托山" EName="Antuo Hill"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="侨香" No="2" To="新秀" Start="6:37" End="23:31" />
+      <Path Next="深康" No="2" To="赤湾" Start="6:43" End="23:30" />
+    </Paths>
+    <Location Long="114.0124110000" Lat="22.5550830000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="2" CName="侨香" EName="Qiaoxiang"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="香蜜" No="2" To="新秀" Start="6:33" End="23:33" />
+      <Path Next="安托山" No="2" To="赤湾" Start="6:41" End="23:28" />
+    </Paths>
+    <Location Long="114.0207430000" Lat="22.5558630000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="2" CName="香蜜" EName="Xiangmi"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="香梅北" No="2" To="新秀" Start="6:35" End="23:35" />
+      <Path Next="侨香" No="2" To="赤湾" Start="6:39" End="23:26" />
+    </Paths>
+    <Location Long="114.0303150000" Lat="22.5587590000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="2" CName="香梅北" EName="Xiangmei North"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="景田" No="2" To="新秀" Start="6:37" End="23:37" />
+      <Path Next="香蜜" No="2" To="赤湾" Start="6:37" End="23:24" />
+    </Paths>
+    <Location Long="114.0398860000" Lat="22.5595260000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="2" CName="景田" EName="Jingtian"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="莲花西" No="2" To="新秀" Start="6:39" End="23:39" />
+      <Path Next="香梅北" No="2" To="赤湾" Start="6:35" End="23:22" />
+    </Paths>
+    <Location Long="114.0502880000" Lat="22.5593640000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="2" CName="莲花西" EName="Lianhua West"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="福田" No="2" To="新秀" Start="6:42" End="23:42" />
+      <Path Next="景田" No="2" To="赤湾" Start="6:32" End="23:19" />
+    </Paths>
+    <Location Long="114.0562400000" Lat="22.5527090000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="2" CName="福田" EName="Futian"  HasRestroom="false" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="市民中心" No="2" To="新秀" Start="6:44" End="23:44" />
+      <Path Next="莲花西" No="2" To="赤湾" Start="6:30" End="23:17" />
+      <Path Next="少年宫" No="3" To="双龙" Start="6:35" End="23:05" />
+      <Path Next="购物公园" No="3" To="益田" Start="6:32" End="00:03" />
+    </Paths>
+    <Location Long="114.0597030000" Lat="22.5454290000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="2" CName="市民中心" EName="Civic Center"  HasRestroom="true" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="岗厦北" No="2" To="新秀" Start="6:46" End="23:46" />
+      <Path Next="福田" No="2" To="赤湾" Start="6:45" End="23:15" />
+      <Path Next="少年宫" No="4" To="清湖" Start="6:35" End="23:05" />
+      <Path Next="会展中心" No="4" To="福田口岸" Start="6:31" End="23:23" />
+    </Paths>
+    <Location Long="114.0681560000" Lat="22.5461670000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="2" CName="岗厦北" EName="Gangxia North"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="华强北" No="2" To="新秀" Start="6:47" End="23:47" />
+      <Path Next="市民中心" No="2" To="赤湾" Start="6:44" End="23:14" />
+    </Paths>
+    <Location Long="114.0757280000" Lat="22.5463510000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="2" CName="华强北" EName="Huanqiang North"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="燕南" No="2" To="新秀" Start="6:50" End="23:50" />
+      <Path Next="岗厦北" No="2" To="赤湾" Start="6:41" End="23:11" />
+    </Paths>
+    <Location Long="114.0916870000" Lat="22.5502890000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="2" CName="燕南" EName="Yannan"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="大剧院" No="2" To="新秀" Start="6:52" End="23:52" />
+      <Path Next="华强北" No="2" To="赤湾" Start="6:39" End="23:09" />
+    </Paths>
+    <Location Long="114.0993400000" Lat="22.5504810000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="2" CName="大剧院" EName="Grand Theater"  HasRestroom="true" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="湖贝" No="2" To="新秀" Start="6:55" End="23:55" />
+      <Path Next="燕南" No="2" To="赤湾" Start="6:36" End="23:06" />
+      <Path Next="老街" No="1" To="罗湖" Start="6:47" End="00:01" />
+      <Path Next="科学馆" No="1" To="机场东" Start="6:35" End="23:05" />
+    </Paths>
+    <Location Long="114.1147420000" Lat="22.5484790000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="2" CName="湖贝" EName="Hubei"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="黄贝岭" No="2" To="新秀" Start="6:57" End="23:57" />
+      <Path Next="大剧院" No="2" To="赤湾" Start="6:33" End="23:03" />
+    </Paths>
+    <Location Long="114.1316080000" Lat="22.5505810000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="2" CName="黄贝岭" EName="Huangbeiling"  HasRestroom="true" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="新秀" No="2" To="新秀" Start="7:00" End="00:00" />
+      <Path Next="湖贝" No="2" To="赤湾" Start="6:31" End="23:01" />
+      <Path Next="怡景" No="5" To="前海湾" Start="6:30" End="23:03" />
+    </Paths>
+    <Location Long="114.1432770000" Lat="22.5524170000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
+  <Station ID="2" CName="新秀" EName="Xinxiu"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
+    <Paths>
+      <Path Next="黄贝岭" No="2" To="赤湾" Start="6:30" End="23:00" />
+    </Paths>
+    <Location Long="114.1554080000" Lat="22.5536650000" />
+    <Exits>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+      <Exit No="">
+        <Guides>
+          <Guide Type="">
+            <Destinations>
+              <Destination Name="" />
+            </Destinations>
+          </Guide>
+        </Guides>
+        <Buses>
+          <Bus No="" Info="" />
+        </Buses>
+      </Exit>
+
+    </Exits>
+  </Station>
+
   <Station ID="3" CName="益田" EName="Yitian"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
     <Paths>
       <Path Next="石厦" No="3" To="双龙" Start="6:20" End="23:10" />
@@ -1976,1029 +4022,7 @@
     </Exits>
   </Station>
 
-  <Station ID="1" CName="罗湖站" EName="Luohu"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="true" IsAirport="false" Warning="">
-    <Paths>
-      <Path Next="" No="1" To="机场东站" Start="6:30" End="23:00" />
-    </Paths>
-    <Location Long="114.1254810000" Lat="22.5385650000" />
-    <Exits>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-
-    </Exits>
-  </Station>
-  
-  <Station ID="1" CName="国贸站" EName="Guomao"  HasRestroom="false" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
-    <Paths>
-      <Path Next="老街" No="1" To="机场东站" Start="6:31" End="23:01" />
-      <Path Next="罗湖站" No="1" To="罗湖" Start="6:51" End="00:05" />
-    </Paths>
-    <Location Long="114.1251580000" Lat="22.5459630000" />
-    <Exits>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-
-    </Exits>
-  </Station>
-  
-  <Station ID="1" CName="老街" EName="Laojie"  HasRestroom="true" CanRecharge="false能否充值" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
-    <Paths>
-      <Path Next="大剧院" No="1" To="机场东站" Start="6:33" End="23:03" />
-      <Path Next="国贸站" No="1" To="罗湖" Start="6:50" End="00:03" />
-      <Path Next="" No="3" To="益田" Start="6:32" End="23:49" />
-      <Path Next="晒布" No="3" To="双龙" Start="6:33" End="23:18" />
-    </Paths>
-    <Location Long="114.1229340000" Lat="22.5504520000" />
-    <Exits>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-
-    </Exits>
-  </Station>
-  
-  <Station ID="1" CName="大剧院" EName="Grand Theater"  HasRestroom="true" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
-    <Paths>
-      <Path Next="科学馆" No="1" To="机场东站" Start="6:35" End="23:05" />
-      <Path Next="老街" No="1" To="罗湖" Start="6:47" End="00:01" />
-      <Path Next="湖贝" No="2" To="新秀" Start="6:55" End="23:55" />
-      <Path Next="燕南" No="2" To="赤湾" Start="6:36" End="23:06" />
-    </Paths>
-    <Location Long="114.1149480000" Lat="22.5485580000" />
-    <Exits>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-
-    </Exits>
-  </Station>
-  
-  <Station ID="1" CName="科学馆" EName="Science Museum"  HasRestroom="true" CanRecharge="false能否充值" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
-    <Paths>
-      <Path Next="华强路" No="1" To="机场东站" Start="6:37" End="23:07" />
-      <Path Next="大剧院" No="1" To="罗湖" Start="6:45" End="23:58" />
-    </Paths>
-    <Location Long="114.1015590000" Lat="22.5467390000" />
-    <Exits>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-
-    </Exits>
-  </Station>
-  
-  <Station ID="1" CName="华强路" EName="Huanqiang Rd"  HasRestroom="true" CanRecharge="false能否充值" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
-    <Paths>
-      <Path Next="岗厦" No="1" To="机场东站" Start="6:39" End="23:09" />
-      <Path Next="科学馆" No="1" To="罗湖" Start="6:43" End="23:57" />
-    </Paths>
-    <Location Long="114.0916240000" Lat="22.5463550000" />
-    <Exits>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-
-    </Exits>
-  </Station>
-  
-  <Station ID="1" CName="岗厦" EName="Gangxia"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
-    <Paths>
-      <Path Next="会展中心" No="1" To="机场东站" Start="6:42" End="23:12" />
-      <Path Next="华强路" No="1" To="罗湖" Start="6:40" End="23:54" />
-    </Paths>
-    <Location Long="114.0747990000" Lat="22.5405930000" />
-    <Exits>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-
-    </Exits>
-  </Station>
-  
-  <Station ID="1" CName="会展中心" EName="Convention and Exhibition Center"  HasRestroom="true" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
-    <Paths>
-      <Path Next="购物公园" No="1" To="机场东站" Start="6:44" End="23:14" />
-      <Path Next="岗厦" No="1" To="罗湖" Start="6:38" End="23:52" />
-      <Path Next="福民" No="4" To="福田口岸" Start="6:33" End="23:24" />
-      <Path Next="市民中心" No="4" To="清湖" Start="6:33" End="23:03" />
-    </Paths>
-    <Location Long="114.0679130000" Lat="22.5404510000" />
-    <Exits>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-
-    </Exits>
-  </Station>
-  
-  <Station ID="1" CName="香蜜湖" EName="Xiangmihu"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
-    <Paths>
-      <Path Next="车公庙" No="1" To="机场东站" Start="6:48" End="23:18" />
-      <Path Next="购物公园" No="1" To="罗湖" Start="6:34" End="23:47" />
-    </Paths>
-    <Location Long="114.0453750000" Lat="22.544710000" />
-    <Exits>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-
-    </Exits>
-  </Station>
-  
-  <Station ID="1" CName="车公庙" EName="Chegongmiao"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
-    <Paths>
-      <Path Next="竹子林" No="1" To="机场东站" Start="6:50" End="23:20" />
-      <Path Next="香蜜湖" No="1" To="罗湖" Start="6:32" End="23:20" />
-    </Paths>
-    <Location Long="114.0321380000" Lat="22.5422450000" />
-    <Exits>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-
-    </Exits>
-  </Station>
-  
-  <Station ID="1" CName="竹子林" EName="Zhuzilin"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
-    <Paths>
-      <Path Next="侨城东" No="1" To="机场东站" Start="6:32" End="23:23" />
-      <Path Next="车公庙" No="1" To="罗湖" Start="6:30" End="23:43" />
-    </Paths>
-    <Location Long="114.0206850000" Lat="22.5404260000" />
-    <Exits>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-
-    </Exits>
-  </Station>
-  
-  <Station ID="1" CName="侨城东" EName="Qiaocheng East"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
-    <Paths>
-      <Path Next="华侨城" No="1" To="机场东站" Start="6:32" End="23:40" />
-      <Path Next="竹子林" No="1" To="罗湖" Start="6:32" End="23:25" />
-    </Paths>
-    <Location Long="114.0032890000" Lat="22.5386190000" />
-    <Exits>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-
-    </Exits>
-  </Station>
-  
-  <Station ID="1" CName="华侨城" EName="OCT"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
-    <Paths>
-      <Path Next="世界之窗" No="1" To="机场东站" Start="6:34" End="23:38" />
-      <Path Next="侨城东" No="1" To="罗湖" Start="6:30" End="23:38" />
-    </Paths>
-    <Location Long="113.9920650000" Lat="22.5396620000" />
-    <Exits>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-
-    </Exits>
-  </Station>
-  
-  <Station ID="1" CName="世界之窗" EName="Window of the World"  HasRestroom="true" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
-    <Paths>
-      <Path Next="白石洲" No="1" To="机场东站" Start="6:36" End="23:30" />
-      <Path Next="华侨城" No="1" To="罗湖" Start="6:34" End="23:36" />
-      <Path Next="红树湾" No="2" To="赤湾" Start="6:50" End="23:37" />
-      <Path Next="侨城北" No="2" To="新秀" Start="6:30" End="23:24" />
-    </Paths>
-    <Location Long="113.9808490000" Lat="22.5429040000" />
-    <Exits>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-
-    </Exits>
-  </Station>
-  
-  <Station ID="1" CName="白石洲" EName="Baishizhou"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
-    <Paths>
-      <Path Next="高新园" No="1" To="机场东站" Start="6:38" End="23:31" />
-      <Path Next="世界之窗" No="1" To="罗湖" Start="6:32" End="23:34" />
-    </Paths>
-    <Location Long="113.9735730000" Lat="22.5455080000" />
-    <Exits>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-
-    </Exits>
-  </Station>
-  
-  <Station ID="1" CName="高新园" EName="Hi-Tech Park"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
-    <Paths>
-      <Path Next="深大" No="1" To="机场东站" Start="6:31" End="23:34" />
-      <Path Next="白石洲" No="1" To="罗湖" Start="6:30" End="23:34" />
-    </Paths>
-    <Location Long="113.9607720000" Lat="22.5460250000" />
-    <Exits>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-
-    </Exits>
-  </Station>
-  
-  <Station ID="1" CName="深大" EName="Shenzhen University"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
-    <Paths>
-      <Path Next="桃园" No="1" To="机场东站" Start="6:33" End="23:36" />
-      <Path Next="高新园" No="1" To="罗湖" Start="6:33" End="23:36" />
-    </Paths>
-    <Location Long="113.9504150000" Lat="22.5439600000" />
-    <Exits>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-
-    </Exits>
-  </Station>
-  
-  <Station ID="1" CName="桃园" EName="Taoyuan"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
-    <Paths>
-      <Path Next="大新" No="1" To="机场东站" Start="6:36" End="23:39" />
-      <Path Next="深大" No="1" To="罗湖" Start="6:30" End="23:27" />
-    </Paths>
-    <Location Long="113.9314160000" Lat="22.5381060000" />
-    <Exits>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-
-    </Exits>
-  </Station>
-  
-  <Station ID="1" CName="大新" EName="Daxin"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
-    <Paths>
-      <Path Next="鲤鱼门" No="1" To="机场东站" Start="6:38" End="23:41" />
-      <Path Next="桃园" No="1" To="罗湖" Start="6:33" End="23:25" />
-    </Paths>
-    <Location Long="113.9219390000" Lat="22.5380970000" />
-    <Exits>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-
-    </Exits>
-  </Station>
-  
-  <Station ID="1" CName="鲤鱼门" EName="Liyumen"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
-    <Paths>
-      <Path Next="前海湾" No="1" To="机场东站" Start="6:40" End="23:43" />
-      <Path Next="大新" No="1" To="罗湖" Start="6:31" End="23:23" />
-    </Paths>
-    <Location Long="113.9101800000" Lat="22.5381890000" />
-    <Exits>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-
-    </Exits>
-  </Station>
-  
-  <Station ID="1" CName="前海湾" EName="Qianhaiwan"  HasRestroom="true" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
-    <Paths>
-      <Path Next="新安" No="1" To="机场东站" Start="6:42" End="23:45" />
-      <Path Next="鲤鱼门" No="1" To="罗湖" Start="6:35" End="23:21" />
-      <Path Next="临海" No="5" To="黄贝岭" Start="6:30" End="23:00" />
-    </Paths>
-    <Location Long="113.9046420000" Lat="22.5432510000" />
-    <Exits>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-
-    </Exits>
-  </Station>
-  
-  <Station ID="1" CName="新安" EName="Xin'an"  HasRestroom="true" CanRecharge="false" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
-    <Paths>
-      <Path Next="宝安中心" No="1" To="机场东站" Start="6:33" End="23:47" />
-      <Path Next="新安" No="1" To="罗湖" Start="6:48" End="23:18" />
-    </Paths>
-    <Location Long="113.9009590000" Lat="22.5538310000" />
-    <Exits>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-
-    </Exits>
-  </Station>
-  
-  <Station ID="1" CName="宝安中心" EName="Bao'an Center"  HasRestroom="true" CanRecharge="true" CanTransfer="true" IsRailwayStation="false" IsAirport="false" Warning="">
-    <Paths>
-      <Path Next="宝体" No="1" To="机场东站" Start="6:31" End="23:49" />
-      <Path Next="新安" No="1" To="罗湖" Start="6:46" End="23:16" />
-      <Path Next="翻身" No="5" To="黄贝岭" Start="6:35" End="23:05" />
-      <Path Next="宝华" No="5" To="前海湾" Start="6:51" End="00:00" />
-    </Paths>
-    <Location Long="113.8937410000" Lat="22.5607950000" />
-    <Exits>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-
-    </Exits>
-  </Station>
-  
-  <Station ID="1" CName="宝体" EName="Bao'an Stadium"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
-    <Paths>
-      <Path Next="坪洲" No="1" To="机场东站" Start="6:33" End="23:51" />
-      <Path Next="宝安中心" No="1" To="罗湖" Start="6:45" End="23:15" />
-    </Paths>
-    <Location Long="113.8878340000" Lat="22.5664680000" />
-    <Exits>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-
-    </Exits>
-  </Station>
-  
-  <Station ID="1" CName="坪洲" EName="Pingzhou"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
-    <Paths>
-      <Path Next="西乡" No="1" To="机场东站" Start="6:32" End="23:53" />
-      <Path Next="宝体" No="1" To="罗湖" Start="6:42" End="23:53" />
-    </Paths>
-    <Location Long="113.8772840000" Lat="22.5752120000" />
-    <Exits>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-
-    </Exits>
-  </Station>
-  
-  <Station ID="1" CName="西乡" EName="Xixiang"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
-    <Paths>
-      <Path Next="固戍" No="1" To="机场东站" Start="6:34" End="23:55" />
-      <Path Next="坪洲" No="1" To="罗湖" Start="6:40" End="23:10" />
-    </Paths>
-    <Location Long="113.8692350000" Lat="22.5816480000" />
-    <Exits>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-
-    </Exits>
-  </Station>
-  
-  <Station ID="1" CName="固戍" EName="Gushu"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
-    <Paths>
-      <Path Next="后瑞" No="1" To="机场东站" Start="6:38" End="23:59" />
-      <Path Next="西乡" No="1" To="罗湖" Start="6:36" End="23:06" />
-    </Paths>
-    <Location Long="113.8536270000" Lat="22.6066240000" />
-    <Exits>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-
-    </Exits>
-  </Station>
-  
-  <Station ID="1" CName="后瑞" EName="Hourui"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="false" Warning="">
-    <Paths>
-      <Path Next="机场东" No="1" To="机场东站" Start="6:42" End="00:03" />
-      <Path Next="固戍" No="1" To="罗湖" Start="6:32" End="23:02" />
-    </Paths>
-    <Location Long="113.8420750000" Lat="22.6344260000" />
-    <Exits>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-
-    </Exits>
-  </Station>
-  
-  <Station ID="1" CName="机场东" EName="Airport East"  HasRestroom="true" CanRecharge="true" CanTransfer="false" IsRailwayStation="false" IsAirport="true" Warning="">
-    <Paths>
-      <Path Next="后瑞" No="1" To="罗湖" Start="6:30" End="23:00" />
-    </Paths>
-    <Location Long="113.8293770000" Lat="22.6526670000" />
-    <Exits>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-      <Exit No="">
-        <Guides>
-          <Guide Type="">
-            <Destinations>
-              <Destination Name="" />
-            </Destinations>
-          </Guide>
-        </Guides>
-        <Buses>
-          <Bus No="" Info="" />
-        </Buses>
-      </Exit>
-    </Exits>
-  </Station>
-  
+ 
 </StationCollection>
 
 
